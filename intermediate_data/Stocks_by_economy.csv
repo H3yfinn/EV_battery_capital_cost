@@ -1,0 +1,1387 @@
+Year,Economy,Region,Scenario,BEV_stocks,ICE_stocks
+2018,01_AUS,Oceania,Carbon Neutral,426.0,13529117.0
+2018,01_AUS,Oceania,Reference,426.0,13529117.0
+2018,02_BD,Southeast Asia,Carbon Neutral,80.0,127808.0
+2018,02_BD,Southeast Asia,Reference,80.0,127808.0
+2018,03_CDA,Other Americas,Carbon Neutral,4908.0,12993393.0
+2018,03_CDA,Other Americas,Reference,4908.0,12993393.0
+2018,04_CHL,Other Americas,Carbon Neutral,175.0,4528377.0
+2018,04_CHL,Other Americas,Reference,1438.0,4525881.0
+2018,05_PRC,China,Carbon Neutral,4540679.0,156754342.0
+2018,05_PRC,China,Reference,4540679.0,156754342.0
+2018,06_HKC,Northeast Asia,Carbon Neutral,4140.0,574778.0
+2018,06_HKC,Northeast Asia,Reference,4439.0,574486.0
+2018,07_INA,Southeast Asia,Carbon Neutral,5513.0,15283192.000000002
+2018,07_INA,Southeast Asia,Reference,5513.0,15283192.000000002
+2018,08_JPN,Northeast Asia,Carbon Neutral,50273.0,56205227.0
+2018,08_JPN,Northeast Asia,Reference,50273.0,56205227.0
+2018,09_ROK,Northeast Asia,Carbon Neutral,8943.0,16045855.0
+2018,09_ROK,Northeast Asia,Reference,8393.0,16026509.0
+2018,10_MAS,Southeast Asia,Carbon Neutral,460.0,11721523.999999998
+2018,10_MAS,Southeast Asia,Reference,460.0,11721523.999999998
+2018,11_MEX,Other Americas,Carbon Neutral,7602.0,27676441.0
+2018,11_MEX,Other Americas,Reference,7602.0,27676441.0
+2018,12_NZ,Oceania,Carbon Neutral,1652.0,3115035.0
+2018,12_NZ,Oceania,Reference,1652.0,3115035.0
+2018,13_PNG,Oceania,Carbon Neutral,0.0,101673.0
+2018,13_PNG,Oceania,Reference,0.0,101673.0
+2018,14_PE,Other Americas,Carbon Neutral,849.0,1832177.9999999998
+2018,14_PE,Other Americas,Reference,849.0,1832177.9999999998
+2018,15_RP,Southeast Asia,Carbon Neutral,196.0,990741.0
+2018,15_RP,Southeast Asia,Reference,196.0,990741.0
+2018,16_RUS,Russia,Carbon Neutral,2833.0,44784060.00000001
+2018,16_RUS,Russia,Reference,2833.0,44784060.00000001
+2018,17_SIN,Southeast Asia,Carbon Neutral,134.0,548607.0
+2018,17_SIN,Southeast Asia,Reference,134.0,548607.0
+2018,18_CT,Northeast Asia,Carbon Neutral,940.0,6600959.0
+2018,18_CT,Northeast Asia,Reference,940.0,6600959.0
+2018,19_THA,Southeast Asia,Carbon Neutral,27127.0,9824401.0
+2018,19_THA,Southeast Asia,Reference,27127.0,9824401.0
+2018,20_USA,USA,Carbon Neutral,391530.0,116693232.00000001
+2018,20_USA,USA,Reference,391905.0,116692720.99999999
+2018,21_VN,Southeast Asia,Carbon Neutral,610.0,3525979.0
+2018,21_VN,Southeast Asia,Reference,610.0,3525979.0
+2019,01_AUS,Oceania,Carbon Neutral,20787.0,13745778.000000002
+2019,01_AUS,Oceania,Reference,20787.0,13745778.000000002
+2019,02_BD,Southeast Asia,Carbon Neutral,181.0,129318.99999999999
+2019,02_BD,Southeast Asia,Reference,181.0,129318.99999999999
+2019,03_CDA,Other Americas,Carbon Neutral,38799.0,12923510.0
+2019,03_CDA,Other Americas,Reference,38799.0,12923510.0
+2019,04_CHL,Other Americas,Carbon Neutral,469.0,4573959.0
+2019,04_CHL,Other Americas,Reference,4974.0,4568064.0
+2019,05_PRC,China,Carbon Neutral,11079824.0,150571751.0
+2019,05_PRC,China,Reference,11079824.0,150571751.0
+2019,06_HKC,Northeast Asia,Carbon Neutral,4151.0,577826.0000000001
+2019,06_HKC,Northeast Asia,Reference,5051.0,576948.0
+2019,07_INA,Southeast Asia,Carbon Neutral,19525.0,16095127.000000002
+2019,07_INA,Southeast Asia,Reference,19525.0,16095127.000000002
+2019,08_JPN,Northeast Asia,Carbon Neutral,135818.0,55968233.0
+2019,08_JPN,Northeast Asia,Reference,346540.0,55763051.0
+2019,09_ROK,Northeast Asia,Carbon Neutral,57854.0,16333345.000000002
+2019,09_ROK,Northeast Asia,Reference,53335.0,16176279.999999998
+2019,10_MAS,Southeast Asia,Carbon Neutral,2094.0,11890467.0
+2019,10_MAS,Southeast Asia,Reference,2094.0,11890467.0
+2019,11_MEX,Other Americas,Carbon Neutral,30574.0,27972292.0
+2019,11_MEX,Other Americas,Reference,30574.0,27972292.0
+2019,12_NZ,Oceania,Carbon Neutral,12450.0,3112417.0
+2019,12_NZ,Oceania,Reference,12450.0,3112417.0
+2019,13_PNG,Oceania,Carbon Neutral,0.0,107174.0
+2019,13_PNG,Oceania,Reference,0.0,107174.0
+2019,14_PE,Other Americas,Carbon Neutral,3368.0,1909874.0
+2019,14_PE,Other Americas,Reference,3368.0,1909874.0
+2019,15_RP,Southeast Asia,Carbon Neutral,1186.0,1003779.0
+2019,15_RP,Southeast Asia,Reference,1186.0,1003779.0
+2019,16_RUS,Russia,Carbon Neutral,8993.0,45870644.0
+2019,16_RUS,Russia,Reference,8993.0,45870644.0
+2019,17_SIN,Southeast Asia,Carbon Neutral,3267.0,545604.0
+2019,17_SIN,Southeast Asia,Reference,3267.0,545604.0
+2019,18_CT,Northeast Asia,Carbon Neutral,12156.0,6683682.0
+2019,18_CT,Northeast Asia,Reference,12156.0,6683682.0
+2019,19_THA,Southeast Asia,Carbon Neutral,55442.0,10201330.0
+2019,19_THA,Southeast Asia,Reference,55442.0,10201330.0
+2019,20_USA,USA,Carbon Neutral,684276.0,117420823.0
+2019,20_USA,USA,Reference,688275.0,117415226.0
+2019,21_VN,Southeast Asia,Carbon Neutral,1948.0,3780831.0
+2019,21_VN,Southeast Asia,Reference,1948.0,3780831.0
+2020,01_AUS,Oceania,Carbon Neutral,39447.0,13705773.0
+2020,01_AUS,Oceania,Reference,39447.0,13705773.0
+2020,02_BD,Southeast Asia,Carbon Neutral,276.0,129162.0
+2020,02_BD,Southeast Asia,Reference,276.0,129162.0
+2020,03_CDA,Other Americas,Carbon Neutral,71887.0,12846804.0
+2020,03_CDA,Other Americas,Reference,71887.0,12846804.0
+2020,04_CHL,Other Americas,Carbon Neutral,785.0,4573107.999999999
+2020,04_CHL,Other Americas,Reference,8484.0,4564067.0
+2020,05_PRC,China,Carbon Neutral,11150000.0,150918991.0
+2020,05_PRC,China,Reference,11150000.0,150918991.0
+2020,06_HKC,Northeast Asia,Carbon Neutral,4229.0,580090.0
+2020,06_HKC,Northeast Asia,Reference,5744.0,578617.0
+2020,07_INA,Southeast Asia,Carbon Neutral,27725.0,16058730.0
+2020,07_INA,Southeast Asia,Reference,27725.0,16058730.0
+2020,08_JPN,Northeast Asia,Carbon Neutral,223386.0,55706674.0
+2020,08_JPN,Northeast Asia,Reference,617429.0,55324275.0
+2020,09_ROK,Northeast Asia,Carbon Neutral,100328.0,16407558.000000002
+2020,09_ROK,Northeast Asia,Reference,90894.0,16092306.0
+2020,10_MAS,Southeast Asia,Carbon Neutral,3703.0,11895159.000000002
+2020,10_MAS,Southeast Asia,Reference,3703.0,11895159.000000002
+2020,11_MEX,Other Americas,Carbon Neutral,51280.0,27913232.0
+2020,11_MEX,Other Americas,Reference,51280.0,27913232.0
+2020,12_NZ,Oceania,Carbon Neutral,21997.0,3094271.9999999995
+2020,12_NZ,Oceania,Reference,21997.0,3094271.9999999995
+2020,13_PNG,Oceania,Carbon Neutral,0.0,107174.0
+2020,13_PNG,Oceania,Reference,0.0,107174.0
+2020,14_PE,Other Americas,Carbon Neutral,5368.0,1930927.0
+2020,14_PE,Other Americas,Reference,5368.0,1930927.0
+2020,15_RP,Southeast Asia,Carbon Neutral,2048.0,1001352.0
+2020,15_RP,Southeast Asia,Reference,2048.0,1001352.0
+2020,16_RUS,Russia,Carbon Neutral,14143.0,45837769.0
+2020,16_RUS,Russia,Reference,14143.0,45837769.0
+2020,17_SIN,Southeast Asia,Carbon Neutral,6440.0,540317.0
+2020,17_SIN,Southeast Asia,Reference,6440.0,540317.0
+2020,18_CT,Northeast Asia,Carbon Neutral,21655.0,6665343.0
+2020,18_CT,Northeast Asia,Reference,21655.0,6665343.0
+2020,19_THA,Southeast Asia,Carbon Neutral,73704.0,10202576.0
+2020,19_THA,Southeast Asia,Reference,73704.0,10202576.0
+2020,20_USA,USA,Carbon Neutral,936428.0,117086230.0
+2020,20_USA,USA,Reference,946407.0,117072087.0
+2020,21_VN,Southeast Asia,Carbon Neutral,2694.0,3780230.0
+2020,21_VN,Southeast Asia,Reference,2694.0,3780230.0
+2021,01_AUS,Oceania,Carbon Neutral,58506.0,13655674.999999998
+2021,01_AUS,Oceania,Reference,58506.0,13655674.999999998
+2021,02_BD,Southeast Asia,Carbon Neutral,384.0,128981.99999999999
+2021,02_BD,Southeast Asia,Reference,384.0,128981.99999999999
+2021,03_CDA,Other Americas,Carbon Neutral,104381.0,12763772.0
+2021,03_CDA,Other Americas,Reference,104381.0,12763772.0
+2021,04_CHL,Other Americas,Carbon Neutral,1152.0,4570738.0
+2021,04_CHL,Other Americas,Reference,12216.0,4558398.0
+2021,05_PRC,China,Carbon Neutral,11365211.0,151035353.0
+2021,05_PRC,China,Reference,11365211.0,151035353.0
+2021,06_HKC,Northeast Asia,Carbon Neutral,4379.0,581635.0
+2021,06_HKC,Northeast Asia,Reference,6530.0,579553.0
+2021,07_INA,Southeast Asia,Carbon Neutral,36177.0,16016224.999999998
+2021,07_INA,Southeast Asia,Reference,36177.0,16016224.999999998
+2021,08_JPN,Northeast Asia,Carbon Neutral,314355.0,55421704.99999999
+2021,08_JPN,Northeast Asia,Reference,866315.0,54887921.99999999
+2021,09_ROK,Northeast Asia,Carbon Neutral,142912.0,16469755.0
+2021,09_ROK,Northeast Asia,Reference,128538.99999999999,16010290.000000002
+2021,10_MAS,Southeast Asia,Carbon Neutral,5638.0,11898337.0
+2021,10_MAS,Southeast Asia,Reference,5638.0,11898337.0
+2021,11_MEX,Other Americas,Carbon Neutral,73353.0,27845817.0
+2021,11_MEX,Other Americas,Reference,73353.0,27845817.0
+2021,12_NZ,Oceania,Carbon Neutral,31279.0,3074828.0
+2021,12_NZ,Oceania,Reference,31279.0,3074828.0
+2021,13_PNG,Oceania,Carbon Neutral,0.0,107174.0
+2021,13_PNG,Oceania,Reference,0.0,107174.0
+2021,14_PE,Other Americas,Carbon Neutral,7388.0,1947141.0
+2021,14_PE,Other Americas,Reference,7483.0,1946402.9999999998
+2021,15_RP,Southeast Asia,Carbon Neutral,2962.0,998593.0000000001
+2021,15_RP,Southeast Asia,Reference,2962.0,998593.0000000001
+2021,16_RUS,Russia,Carbon Neutral,20076.0,45790664.0
+2021,16_RUS,Russia,Reference,20076.0,45790664.0
+2021,17_SIN,Southeast Asia,Carbon Neutral,9756.0,534566.9999999999
+2021,17_SIN,Southeast Asia,Reference,9756.0,534566.9999999999
+2021,18_CT,Northeast Asia,Carbon Neutral,31330.999999999996,6644767.0
+2021,18_CT,Northeast Asia,Reference,31330.999999999996,6644767.0
+2021,19_THA,Southeast Asia,Carbon Neutral,92061.0,10201678.000000002
+2021,19_THA,Southeast Asia,Reference,92061.0,10201678.000000002
+2021,20_USA,USA,Carbon Neutral,1183377.0,116751163.0
+2021,20_USA,USA,Reference,1202478.0,116723820.0
+2021,21_VN,Southeast Asia,Carbon Neutral,3581.0,3779480.0
+2021,21_VN,Southeast Asia,Reference,3581.0,3779480.0
+2022,01_AUS,Oceania,Carbon Neutral,80062.0,13767388.0
+2022,01_AUS,Oceania,Reference,79980.0,13766682.0
+2022,02_BD,Southeast Asia,Carbon Neutral,613.0,135007.0
+2022,02_BD,Southeast Asia,Reference,609.0,135002.99999999997
+2022,03_CDA,Other Americas,Carbon Neutral,138046.0,12731527.0
+2022,03_CDA,Other Americas,Reference,138046.0,12731527.0
+2022,04_CHL,Other Americas,Carbon Neutral,1802.0,4803724.0
+2022,04_CHL,Other Americas,Reference,17974.0,4784494.0
+2022,05_PRC,China,Carbon Neutral,12546857.0,157967368.0
+2022,05_PRC,China,Reference,12546857.0,157967368.0
+2022,06_HKC,Northeast Asia,Carbon Neutral,4882.0,600687.0
+2022,06_HKC,Northeast Asia,Reference,7979.999999999999,597648.0
+2022,07_INA,Southeast Asia,Carbon Neutral,55496.0,16870741.0
+2022,07_INA,Southeast Asia,Reference,53501.0,16869462.0
+2022,08_JPN,Northeast Asia,Carbon Neutral,410183.0,55126617.0
+2022,08_JPN,Northeast Asia,Reference,1096271.0,54465149.0
+2022,09_ROK,Northeast Asia,Carbon Neutral,199063.0,16782826.999999996
+2022,09_ROK,Northeast Asia,Reference,177186.0,16187684.0
+2022,10_MAS,Southeast Asia,Carbon Neutral,10524.0,12628578.000000002
+2022,10_MAS,Southeast Asia,Reference,10451.0,12628406.0
+2022,11_MEX,Other Americas,Carbon Neutral,105611.0,28349617.000000004
+2022,11_MEX,Other Americas,Reference,105246.0,28348446.0
+2022,12_NZ,Oceania,Carbon Neutral,41054.0,3074751.0
+2022,12_NZ,Oceania,Reference,41054.0,3074751.0
+2022,13_PNG,Oceania,Carbon Neutral,0.0,110422.0
+2022,13_PNG,Oceania,Reference,0.0,110422.0
+2022,14_PE,Other Americas,Carbon Neutral,11073.0,2047274.0000000002
+2022,14_PE,Other Americas,Reference,11203.0,2045207.0
+2022,15_RP,Southeast Asia,Carbon Neutral,4263.0,1015636.0
+2022,15_RP,Southeast Asia,Reference,4254.0,1015582.0
+2022,16_RUS,Russia,Carbon Neutral,32336.999999999996,47706491.0
+2022,16_RUS,Russia,Reference,32096.0,47701064.0
+2022,17_SIN,Southeast Asia,Carbon Neutral,13436.0,531641.0
+2022,17_SIN,Southeast Asia,Reference,13436.0,531641.0
+2022,18_CT,Northeast Asia,Carbon Neutral,43403.0,6702542.0
+2022,18_CT,Northeast Asia,Reference,43265.0,6702304.0
+2022,19_THA,Southeast Asia,Carbon Neutral,132434.0,10832853.0
+2022,19_THA,Southeast Asia,Reference,131580.0,10833530.0
+2022,20_USA,USA,Carbon Neutral,1470468.0,117458627.0
+2022,20_USA,USA,Reference,1499050.0,117415907.0
+2022,21_VN,Southeast Asia,Carbon Neutral,6045.0,4051468.0
+2022,21_VN,Southeast Asia,Reference,6005.0,4051508.9999999995
+2023,01_AUS,Oceania,Carbon Neutral,104832.0,13871668.0
+2023,01_AUS,Oceania,Reference,102566.0,13867685.0
+2023,02_BD,Southeast Asia,Carbon Neutral,957.0,141219.99999999997
+2023,02_BD,Southeast Asia,Reference,877.0,141272.0
+2023,03_CDA,Other Americas,Carbon Neutral,171834.0,12643787.0
+2023,03_CDA,Other Americas,Reference,171834.0,12643787.0
+2023,04_CHL,Other Americas,Carbon Neutral,2962.0,5011696.000000001
+2023,04_CHL,Other Americas,Reference,24917.0,4984722.0
+2023,05_PRC,China,Carbon Neutral,14317384.0,164516421.0
+2023,05_PRC,China,Reference,13982744.0,164820238.00000003
+2023,06_HKC,Northeast Asia,Carbon Neutral,5651.0,613543.0000000001
+2023,06_HKC,Northeast Asia,Reference,9419.0,609704.0
+2023,07_INA,Southeast Asia,Carbon Neutral,83931.0,17624149.0
+2023,07_INA,Southeast Asia,Reference,71080.0,17628391.999999996
+2023,08_JPN,Northeast Asia,Carbon Neutral,538971.0,54822981.0
+2023,08_JPN,Northeast Asia,Reference,1309936.0,54053703.99999999
+2023,09_ROK,Northeast Asia,Carbon Neutral,280942.0,17063444.0
+2023,09_ROK,Northeast Asia,Reference,233273.0,16381490.0
+2023,10_MAS,Southeast Asia,Carbon Neutral,18416.0,13318673.0
+2023,10_MAS,Southeast Asia,Reference,16992.0,13321845.0
+2023,11_MEX,Other Americas,Carbon Neutral,148401.0,28857874.000000004
+2023,11_MEX,Other Americas,Reference,141567.0,28856538.0
+2023,12_NZ,Oceania,Carbon Neutral,51841.0,3073740.0
+2023,12_NZ,Oceania,Reference,51434.0,3074224.0
+2023,13_PNG,Oceania,Carbon Neutral,0.0,113849.0
+2023,13_PNG,Oceania,Reference,0.0,113849.0
+2023,14_PE,Other Americas,Carbon Neutral,16243.0,2145537.9999999995
+2023,14_PE,Other Americas,Reference,15348.0,2143123.0
+2023,15_RP,Southeast Asia,Carbon Neutral,5908.0,1033552.0
+2023,15_RP,Southeast Asia,Reference,5719.0,1033400.0000000001
+2023,16_RUS,Russia,Carbon Neutral,48207.0,48819079.0
+2023,16_RUS,Russia,Reference,43910.0,48805910.00000001
+2023,17_SIN,Southeast Asia,Carbon Neutral,17542.0,528088.0
+2023,17_SIN,Southeast Asia,Reference,17380.0,528405.0
+2023,18_CT,Northeast Asia,Carbon Neutral,59340.0,6760556.0
+2023,18_CT,Northeast Asia,Reference,56990.0,6759808.0
+2023,19_THA,Southeast Asia,Carbon Neutral,184932.0,11412063.0
+2023,19_THA,Southeast Asia,Reference,172723.0,11423745.0
+2023,20_USA,USA,Carbon Neutral,1825855.0,118039912.0
+2023,20_USA,USA,Reference,1822144.0,118017823.0
+2023,21_VN,Southeast Asia,Carbon Neutral,10114.0,4326498.0
+2023,21_VN,Southeast Asia,Reference,9320.0,4327293.999999999
+2024,01_AUS,Oceania,Carbon Neutral,150172.0,13963013.0
+2024,01_AUS,Oceania,Reference,129397.00000000001,13980443.0
+2024,02_BD,Southeast Asia,Carbon Neutral,1649.0,147416.0
+2024,02_BD,Southeast Asia,Reference,1203.0,147835.0
+2024,03_CDA,Other Americas,Carbon Neutral,237416.0,12537415.0
+2024,03_CDA,Other Americas,Reference,213199.0,12560310.999999998
+2024,04_CHL,Other Americas,Carbon Neutral,6555.0,5201403.0
+2024,04_CHL,Other Americas,Reference,34841.0,5167497.0
+2024,05_PRC,China,Carbon Neutral,17475129.0,169718257.0
+2024,05_PRC,China,Reference,15626872.0,171400066.0
+2024,06_HKC,Northeast Asia,Carbon Neutral,7574.0,624213.9999999999
+2024,06_HKC,Northeast Asia,Reference,11023.0,620703.0
+2024,07_INA,Southeast Asia,Carbon Neutral,138609.0,18340280.0
+2024,07_INA,Southeast Asia,Reference,89859.0,18379934.0
+2024,08_JPN,Northeast Asia,Carbon Neutral,765240.0,54443082.00000001
+2024,08_JPN,Northeast Asia,Reference,1515727.0,53702633.99999999
+2024,09_ROK,Northeast Asia,Carbon Neutral,425051.0,17247822.0
+2024,09_ROK,Northeast Asia,Reference,305551.0,16558111.0
+2024,10_MAS,Southeast Asia,Carbon Neutral,36357.0,13946488.0
+2024,10_MAS,Southeast Asia,Reference,27684.0,13962980.0
+2024,11_MEX,Other Americas,Carbon Neutral,234701.0,29337798.0
+2024,11_MEX,Other Americas,Reference,189228.0,29374637.0
+2024,12_NZ,Oceania,Carbon Neutral,72033.0,3065003.0
+2024,12_NZ,Oceania,Reference,63811.00000000001,3073204.0
+2024,13_PNG,Oceania,Carbon Neutral,0.0,117113.0
+2024,13_PNG,Oceania,Reference,0.0,117113.0
+2024,14_PE,Other Americas,Carbon Neutral,25624.0,2223725.0
+2024,14_PE,Other Americas,Reference,20305.0,2225627.0000000005
+2024,15_RP,Southeast Asia,Carbon Neutral,9913.0,1070781.0
+2024,15_RP,Southeast Asia,Reference,7613.0,1052287.0
+2024,16_RUS,Russia,Carbon Neutral,89893.0,49816695.0
+2024,16_RUS,Russia,Reference,57868.0,49831869.0
+2024,17_SIN,Southeast Asia,Carbon Neutral,26465.0,520406.99999999994
+2024,17_SIN,Southeast Asia,Reference,21630.0,525516.0
+2024,18_CT,Northeast Asia,Carbon Neutral,90823.0,6807419.0
+2024,18_CT,Northeast Asia,Reference,75721.0,6819331.999999999
+2024,19_THA,Southeast Asia,Carbon Neutral,279173.0,11954515.0
+2024,19_THA,Southeast Asia,Reference,220274.0,12011081.999999998
+2024,20_USA,USA,Carbon Neutral,2474461.0,118218717.0
+2024,20_USA,USA,Reference,2223375.0,118440125.0
+2024,21_VN,Southeast Asia,Carbon Neutral,19307.0,4596667.0
+2024,21_VN,Southeast Asia,Reference,14657.0,4601319.999999999
+2025,01_AUS,Oceania,Carbon Neutral,240711.0,14010322.0
+2025,01_AUS,Oceania,Reference,163185.0,14089962.0
+2025,02_BD,Southeast Asia,Carbon Neutral,3116.0,153107.00000000003
+2025,02_BD,Southeast Asia,Reference,1598.0,154591.99999999997
+2025,03_CDA,Other Americas,Carbon Neutral,363993.0,12376674.000000002
+2025,03_CDA,Other Americas,Reference,267150.0,12468546.0
+2025,04_CHL,Other Americas,Carbon Neutral,18361.0,5339115.000000001
+2025,04_CHL,Other Americas,Reference,50480.0,5327620.000000001
+2025,05_PRC,China,Carbon Neutral,22680201.0,172863023.0
+2025,05_PRC,China,Reference,17519323.0,177578286.0
+2025,06_HKC,Northeast Asia,Carbon Neutral,12435.0,631792.9999999999
+2025,06_HKC,Northeast Asia,Reference,12991.0,634353.0
+2025,07_INA,Southeast Asia,Carbon Neutral,236498.0,18817441.0
+2025,07_INA,Southeast Asia,Reference,110207.0,19130081.0
+2025,08_JPN,Northeast Asia,Carbon Neutral,1205270.0,53864272.0
+2025,08_JPN,Northeast Asia,Reference,1721633.0,53369372.0
+2025,09_ROK,Northeast Asia,Carbon Neutral,695990.0,17276322.0
+2025,09_ROK,Northeast Asia,Reference,405579.0,16711730.0
+2025,10_MAS,Southeast Asia,Carbon Neutral,81296.0,14508283.0
+2025,10_MAS,Southeast Asia,Reference,46681.0,14554272.0
+2025,11_MEX,Other Americas,Carbon Neutral,403891.0,29578134.0
+2025,11_MEX,Other Americas,Reference,255991.00000000003,29888913.000000004
+2025,12_NZ,Oceania,Carbon Neutral,106614.0,3028745.0
+2025,12_NZ,Oceania,Reference,79492.0,3069963.0
+2025,13_PNG,Oceania,Carbon Neutral,3.0,120919.0
+2025,13_PNG,Oceania,Reference,1.0,120921.0
+2025,14_PE,Other Americas,Carbon Neutral,43624.0,2277383.0
+2025,14_PE,Other Americas,Reference,27094.0,2305227.0
+2025,15_RP,Southeast Asia,Carbon Neutral,17793.0,1106331.0
+2025,15_RP,Southeast Asia,Reference,10222.0,1071637.0
+2025,16_RUS,Russia,Carbon Neutral,208627.0,50599698.0
+2025,16_RUS,Russia,Reference,74126.0,50715344.0
+2025,17_SIN,Southeast Asia,Carbon Neutral,38800.0,509377.00000000006
+2025,17_SIN,Southeast Asia,Reference,26242.0,522398.99999999994
+2025,18_CT,Northeast Asia,Carbon Neutral,157802.0,6823670.0
+2025,18_CT,Northeast Asia,Reference,102964.0,6874454.999999999
+2025,19_THA,Southeast Asia,Carbon Neutral,419000.0,12239607.0
+2025,19_THA,Southeast Asia,Reference,272774.0,12509356.0
+2025,20_USA,USA,Carbon Neutral,3607137.0,117261457.0
+2025,20_USA,USA,Reference,2756492.0,118695821.0
+2025,21_VN,Southeast Asia,Carbon Neutral,41789.0,4859318.0
+2025,21_VN,Southeast Asia,Reference,23903.0,4877228.0
+2026,01_AUS,Oceania,Carbon Neutral,398329.0,13870152.0
+2026,01_AUS,Oceania,Reference,206320.0,14203284.0
+2026,02_BD,Southeast Asia,Carbon Neutral,5840.0,157039.99999999997
+2026,02_BD,Southeast Asia,Reference,2080.0,161596.0
+2026,03_CDA,Other Americas,Carbon Neutral,594982.0,12118637.0
+2026,03_CDA,Other Americas,Reference,337851.0,12363759.0
+2026,04_CHL,Other Americas,Carbon Neutral,56506.0,5425090.0
+2026,04_CHL,Other Americas,Reference,74854.0,5460462.000000001
+2026,05_PRC,China,Carbon Neutral,28415697.0,171006884.0
+2026,05_PRC,China,Reference,19232979.0,180932030.00000003
+2026,06_HKC,Northeast Asia,Carbon Neutral,20156.0,625340.0
+2026,06_HKC,Northeast Asia,Reference,14909.0,641572.0
+2026,07_INA,Southeast Asia,Carbon Neutral,445228.0,19298002.0
+2026,07_INA,Southeast Asia,Reference,132709.0,19902428.999999996
+2026,08_JPN,Northeast Asia,Carbon Neutral,2025459.9999999998,52903402.0
+2026,08_JPN,Northeast Asia,Reference,1930419.0,53048981.00000001
+2026,09_ROK,Northeast Asia,Carbon Neutral,1139679.0,17032305.0
+2026,09_ROK,Northeast Asia,Reference,546404.0,16853888.0
+2026,10_MAS,Southeast Asia,Carbon Neutral,181360.0,14927554.0
+2026,10_MAS,Southeast Asia,Reference,78207.0,15041268.0
+2026,11_MEX,Other Americas,Carbon Neutral,733499.0,29566730.000000004
+2026,11_MEX,Other Americas,Reference,349318.0,30394048.0
+2026,12_NZ,Oceania,Carbon Neutral,167745.0,2967587.0
+2026,12_NZ,Oceania,Reference,99411.0,3063315.0
+2026,13_PNG,Oceania,Carbon Neutral,46.0,128543.99999999999
+2026,13_PNG,Oceania,Reference,13.0,128580.0
+2026,14_PE,Other Americas,Carbon Neutral,78871.0,2310848.9999999995
+2026,14_PE,Other Americas,Reference,36235.0,2378955.0
+2026,15_RP,Southeast Asia,Carbon Neutral,32292.0,1136070.0
+2026,15_RP,Southeast Asia,Reference,13741.0,1089833.0
+2026,16_RUS,Russia,Carbon Neutral,532922.0,51095580.0
+2026,16_RUS,Russia,Reference,93412.0,51507958.0
+2026,17_SIN,Southeast Asia,Carbon Neutral,53555.0,493510.0
+2026,17_SIN,Southeast Asia,Reference,31336.000000000004,519566.00000000006
+2026,18_CT,Northeast Asia,Carbon Neutral,266619.0,6729232.000000001
+2026,18_CT,Northeast Asia,Reference,142084.0,6918844.999999999
+2026,19_THA,Southeast Asia,Carbon Neutral,671893.0,12440334.0
+2026,19_THA,Southeast Asia,Reference,337554.0,13031751.0
+2026,20_USA,USA,Carbon Neutral,5700996.0,115289520.0
+2026,20_USA,USA,Reference,3463286.0,118748775.0
+2026,21_VN,Southeast Asia,Carbon Neutral,86030.0,5045833.0
+2026,21_VN,Southeast Asia,Reference,39351.0,5149861.000000001
+2027,01_AUS,Oceania,Carbon Neutral,664335.0,13629007.0
+2027,01_AUS,Oceania,Reference,259218.99999999997,14314645.0
+2027,02_BD,Southeast Asia,Carbon Neutral,10436.0,159271.0
+2027,02_BD,Southeast Asia,Reference,2669.0,168761.00000000003
+2027,03_CDA,Other Americas,Carbon Neutral,956667.0,11735582.999999998
+2027,03_CDA,Other Americas,Reference,426303.0,12244119.0
+2027,04_CHL,Other Americas,Carbon Neutral,157711.0,5435819.0
+2027,04_CHL,Other Americas,Reference,111057.0,5580275.0
+2027,05_PRC,China,Carbon Neutral,36026220.0,166823950.0
+2027,05_PRC,China,Reference,20945201.0,182717149.99999997
+2027,06_HKC,Northeast Asia,Carbon Neutral,35323.0,611626.9999999999
+2027,06_HKC,Northeast Asia,Reference,17140.0,649081.0
+2027,07_INA,Southeast Asia,Carbon Neutral,801213.0,19636980.0
+2027,07_INA,Southeast Asia,Reference,157496.0,20682787.0
+2027,08_JPN,Northeast Asia,Carbon Neutral,3349038.0,51405581.0
+2027,08_JPN,Northeast Asia,Reference,2140548.0,52741014.0
+2027,09_ROK,Northeast Asia,Carbon Neutral,1806661.0,16538466.0
+2027,09_ROK,Northeast Asia,Reference,730617.0,16963266.0
+2027,10_MAS,Southeast Asia,Carbon Neutral,384303.0,15230941.999999998
+2027,10_MAS,Southeast Asia,Reference,129121.00000000001,15496775.0
+2027,11_MEX,Other Americas,Carbon Neutral,1323888.0,29307908.0
+2027,11_MEX,Other Americas,Reference,472845.0,30888073.0
+2027,12_NZ,Oceania,Carbon Neutral,261091.00000000003,2875833.0
+2027,12_NZ,Oceania,Reference,123693.0,3052984.0
+2027,13_PNG,Oceania,Carbon Neutral,293.0,136276.0
+2027,13_PNG,Oceania,Reference,64.0,136522.0
+2027,14_PE,Other Americas,Carbon Neutral,138926.0,2318774.0
+2027,14_PE,Other Americas,Reference,48032.0,2448242.0
+2027,15_RP,Southeast Asia,Carbon Neutral,56160.0,1158679.0
+2027,15_RP,Southeast Asia,Reference,18330.0,1108048.0000000002
+2027,16_RUS,Russia,Carbon Neutral,1220079.0,50966781.0
+2027,16_RUS,Russia,Reference,115086.0,52027895.0
+2027,17_SIN,Southeast Asia,Carbon Neutral,71050.0,474913.0
+2027,17_SIN,Southeast Asia,Reference,36910.0,516101.00000000006
+2027,18_CT,Northeast Asia,Carbon Neutral,453475.0,6559400.999999999
+2027,18_CT,Northeast Asia,Reference,195099.0,6952432.999999999
+2027,19_THA,Southeast Asia,Carbon Neutral,1051822.0,12491034.0
+2027,19_THA,Southeast Asia,Reference,411524.0,13530949.0
+2027,20_USA,USA,Carbon Neutral,9015021.0,112046131.0
+2027,20_USA,USA,Reference,4356087.0,118605679.0
+2027,21_VN,Southeast Asia,Carbon Neutral,169761.0,5188563.0
+2027,21_VN,Southeast Asia,Reference,62849.0,5416320.0
+2028,01_AUS,Oceania,Carbon Neutral,1039630.0,13283365.0
+2028,01_AUS,Oceania,Reference,320210.0,14425710.0
+2028,02_BD,Southeast Asia,Carbon Neutral,16941.0,159694.0
+2028,02_BD,Southeast Asia,Reference,3388.0,176053.0
+2028,03_CDA,Other Americas,Carbon Neutral,1431398.0,11242053.0
+2028,03_CDA,Other Americas,Reference,530338.0,12120528.0
+2028,04_CHL,Other Americas,Carbon Neutral,348973.0,5342746.0
+2028,04_CHL,Other Americas,Reference,159240.0,5685708.0
+2028,05_PRC,China,Carbon Neutral,44925211.0,160829481.00000003
+2028,05_PRC,China,Reference,22825541.0,183831647.0
+2028,06_HKC,Northeast Asia,Carbon Neutral,58258.0,590178.0
+2028,06_HKC,Northeast Asia,Reference,19612.0,655167.0
+2028,07_INA,Southeast Asia,Carbon Neutral,1315221.0,19821635.0
+2028,07_INA,Southeast Asia,Reference,184900.0,21470696.0
+2028,08_JPN,Northeast Asia,Carbon Neutral,5130035.0,49387583.0
+2028,08_JPN,Northeast Asia,Reference,2347395.0,52448332.0
+2028,09_ROK,Northeast Asia,Carbon Neutral,2649228.0,15844646.0
+2028,09_ROK,Northeast Asia,Reference,952781.0,17043661.0
+2028,10_MAS,Southeast Asia,Carbon Neutral,715456.0,15391051.999999998
+2028,10_MAS,Southeast Asia,Reference,200876.0,15918649.0
+2028,11_MEX,Other Americas,Carbon Neutral,2167179.0,28739691.0
+2028,11_MEX,Other Americas,Reference,619537.0,31314339.0
+2028,12_NZ,Oceania,Carbon Neutral,381723.0,2757360.0000000005
+2028,12_NZ,Oceania,Reference,151445.0,3039595.0000000005
+2028,13_PNG,Oceania,Carbon Neutral,1148.0,143687.0
+2028,13_PNG,Oceania,Reference,218.0,144681.0
+2028,14_PE,Other Americas,Carbon Neutral,226210.0,2302876.9999999995
+2028,14_PE,Other Americas,Reference,62438.0,2517777.0
+2028,15_RP,Southeast Asia,Carbon Neutral,89848.0,1173579.0
+2028,15_RP,Southeast Asia,Reference,23866.0,1126333.0
+2028,16_RUS,Russia,Carbon Neutral,2439700.0,50250298.0
+2028,16_RUS,Russia,Reference,141103.0,52484852.0
+2028,17_SIN,Southeast Asia,Carbon Neutral,91038.0,453647.0
+2028,17_SIN,Southeast Asia,Reference,43071.0,512197.0
+2028,18_CT,Northeast Asia,Carbon Neutral,709486.0,6312975.0
+2028,18_CT,Northeast Asia,Reference,259620.00000000003,6968852.0
+2028,19_THA,Southeast Asia,Carbon Neutral,1521522.0,12368640.0
+2028,19_THA,Southeast Asia,Reference,488140.0,13955321.999999998
+2028,20_USA,USA,Carbon Neutral,13401666.0,107666381.0
+2028,20_USA,USA,Reference,5402280.0,118296191.99999999
+2028,21_VN,Southeast Asia,Carbon Neutral,299460.0,5280030.0
+2028,21_VN,Southeast Asia,Reference,94563.0,5676003.0
+2029,01_AUS,Oceania,Carbon Neutral,1491115.0,12861172.0
+2029,01_AUS,Oceania,Reference,386023.0,14539895.0
+2029,02_BD,Southeast Asia,Carbon Neutral,24870.0,158702.0
+2029,02_BD,Southeast Asia,Reference,4263.0,183404.99999999997
+2029,03_CDA,Other Americas,Carbon Neutral,1974194.0,10680819.0
+2029,03_CDA,Other Americas,Reference,644239.0,12001757.000000002
+2029,04_CHL,Other Americas,Carbon Neutral,614402.0,5162365.0
+2029,04_CHL,Other Americas,Reference,216444.0,5778633.0
+2029,05_PRC,China,Carbon Neutral,54398245.0,153700837.0
+2029,05_PRC,China,Reference,24873263.0,184284078.0
+2029,06_HKC,Northeast Asia,Carbon Neutral,86348.0,563229.9999999999
+2029,06_HKC,Northeast Asia,Reference,22359.0,659954.0
+2029,07_INA,Southeast Asia,Carbon Neutral,1952919.0,19882724.0
+2029,07_INA,Southeast Asia,Reference,215289.0,22265498.0
+2029,08_JPN,Northeast Asia,Carbon Neutral,7180380.0,47037651.0
+2029,08_JPN,Northeast Asia,Reference,2545375.0,52174991.99999999
+2029,09_ROK,Northeast Asia,Carbon Neutral,3585234.0,15037137.0
+2029,09_ROK,Northeast Asia,Reference,1199799.0,17107042.0
+2029,10_MAS,Southeast Asia,Carbon Neutral,1156809.0,15424106.0
+2029,10_MAS,Southeast Asia,Reference,289045.0,16310852.0
+2029,11_MEX,Other Americas,Carbon Neutral,3182686.0,27932909.0
+2029,11_MEX,Other Americas,Reference,779836.0,31682454.0
+2029,12_NZ,Oceania,Carbon Neutral,518031.0,2622024.0
+2029,12_NZ,Oceania,Reference,181078.0,3024358.0000000005
+2029,13_PNG,Oceania,Carbon Neutral,3027.0,150338.0
+2029,13_PNG,Oceania,Reference,529.0,152998.0
+2029,14_PE,Other Americas,Carbon Neutral,331841.0,2266036.0
+2029,14_PE,Other Americas,Reference,78306.0,2584059.0000000005
+2029,15_RP,Southeast Asia,Carbon Neutral,131144.0,1182334.0
+2029,15_RP,Southeast Asia,Reference,30006.0,1144560.0
+2029,16_RUS,Russia,Carbon Neutral,4206726.0,49126765.00000001
+2029,16_RUS,Russia,Reference,174487.0,53088234.0
+2029,17_SIN,Southeast Asia,Carbon Neutral,113294.0,429888.99999999994
+2029,17_SIN,Southeast Asia,Reference,49882.0,507583.0
+2029,18_CT,Northeast Asia,Carbon Neutral,1008238.0,6015965.0
+2029,18_CT,Northeast Asia,Reference,331662.0,6974203.0
+2029,19_THA,Southeast Asia,Carbon Neutral,2159593.0,12248117.0
+2029,19_THA,Southeast Asia,Reference,583298.0,14555361.999999998
+2029,20_USA,USA,Carbon Neutral,18451768.0,102567601.00000001
+2029,20_USA,USA,Reference,6538645.0,117885752.0
+2029,21_VN,Southeast Asia,Carbon Neutral,466927.0,5327223.0
+2029,21_VN,Southeast Asia,Reference,132592.0,5930012.000000001
+2030,01_AUS,Oceania,Carbon Neutral,1977711.0,12400746.0
+2030,01_AUS,Oceania,Reference,453165.0,14660975.0
+2030,02_BD,Southeast Asia,Carbon Neutral,33601.0,156861.0
+2030,02_BD,Southeast Asia,Reference,5327.0,190733.0
+2030,03_CDA,Other Americas,Carbon Neutral,2544855.0,10091842.000000002
+2030,03_CDA,Other Americas,Reference,761432.0,11894082.0
+2030,04_CHL,Other Americas,Carbon Neutral,918250.0,4932475.0
+2030,04_CHL,Other Americas,Reference,278065.0,5863370.0
+2030,05_PRC,China,Carbon Neutral,63914282.0,145984444.0
+2030,05_PRC,China,Reference,27085206.0,184084115.0
+2030,06_HKC,Northeast Asia,Carbon Neutral,116624.0,533562.0
+2030,06_HKC,Northeast Asia,Reference,25557.0,665080.0
+2030,07_INA,Southeast Asia,Carbon Neutral,2660258.0,19871508.0
+2030,07_INA,Southeast Asia,Reference,249052.0,23065817.0
+2030,08_JPN,Northeast Asia,Carbon Neutral,9307152.0,44575722.0
+2030,08_JPN,Northeast Asia,Reference,2729961.0,51924206.0
+2030,09_ROK,Northeast Asia,Carbon Neutral,4549192.0,14185217.0
+2030,09_ROK,Northeast Asia,Reference,1456438.0,17165509.999999996
+2030,10_MAS,Southeast Asia,Carbon Neutral,1661580.0,15373455.0
+2030,10_MAS,Southeast Asia,Reference,386701.0,16694806.0
+2030,11_MEX,Other Americas,Carbon Neutral,4362984.0,27083029.000000004
+2030,11_MEX,Other Americas,Reference,956677.0,32183175.999999996
+2030,12_NZ,Oceania,Carbon Neutral,659836.0,2479228.0
+2030,12_NZ,Oceania,Reference,210998.0,3008780.0
+2030,13_PNG,Oceania,Carbon Neutral,5979.0,156529.0
+2030,13_PNG,Oceania,Reference,1000.9999999999999,161820.0
+2030,14_PE,Other Americas,Carbon Neutral,448839.0,2218932.0
+2030,14_PE,Other Americas,Reference,94986.0,2652391.0
+2030,15_RP,Southeast Asia,Carbon Neutral,176842.0,1187649.0
+2030,15_RP,Southeast Asia,Reference,36355.0,1162720.0
+2030,16_RUS,Russia,Carbon Neutral,6125476.0,47568466.0
+2030,16_RUS,Russia,Reference,212079.0,53426227.00000001
+2030,17_SIN,Southeast Asia,Carbon Neutral,137615.0,403985.00000000006
+2030,17_SIN,Southeast Asia,Reference,57435.0,502136.99999999994
+2030,18_CT,Northeast Asia,Carbon Neutral,1320385.0,5693685.0
+2030,18_CT,Northeast Asia,Reference,405771.0,6970717.0
+2030,19_THA,Southeast Asia,Carbon Neutral,2752595.0,11986263.000000002
+2030,19_THA,Southeast Asia,Reference,666664.0,14994356.0
+2030,20_USA,USA,Carbon Neutral,23789134.0,97145156.0
+2030,20_USA,USA,Reference,7698366.0,117446560.99999999
+2030,21_VN,Southeast Asia,Carbon Neutral,656259.0,5346325.999999999
+2030,21_VN,Southeast Asia,Reference,174073.0,6181404.0
+2031,01_AUS,Oceania,Carbon Neutral,2456378.0,11907144.0
+2031,01_AUS,Oceania,Reference,514078.00000000006,14667551.0
+2031,02_BD,Southeast Asia,Carbon Neutral,42696.0,154624.0
+2031,02_BD,Southeast Asia,Reference,6615.0,197971.0
+2031,03_CDA,Other Americas,Carbon Neutral,3120240.0,9498986.0
+2031,03_CDA,Other Americas,Reference,877078.0,11802292.0
+2031,04_CHL,Other Americas,Carbon Neutral,1235736.0,4680842.0
+2031,04_CHL,Other Americas,Reference,340029.0,5944800.0
+2031,05_PRC,China,Carbon Neutral,73191237.0,138004593.0
+2031,05_PRC,China,Reference,29454670.0,183241146.0
+2031,06_HKC,Northeast Asia,Carbon Neutral,147336.0,503040.00000000006
+2031,06_HKC,Northeast Asia,Reference,28947.0,667372.0000000001
+2031,07_INA,Southeast Asia,Carbon Neutral,3392800.0,19832220.0
+2031,07_INA,Southeast Asia,Reference,286621.0,23870602.0
+2031,08_JPN,Northeast Asia,Carbon Neutral,11388521.0,42153929.0
+2031,08_JPN,Northeast Asia,Reference,2898718.0,51697286.0
+2031,09_ROK,Northeast Asia,Carbon Neutral,5505323.0,13327389.0
+2031,09_ROK,Northeast Asia,Reference,1707165.0,17212262.0
+2031,10_MAS,Southeast Asia,Carbon Neutral,2212877.0,15328109.0
+2031,10_MAS,Southeast Asia,Reference,490367.0,17128401.999999996
+2031,11_MEX,Other Americas,Carbon Neutral,5575563.0,26197808.0
+2031,11_MEX,Other Americas,Reference,1132934.0,32704291.999999996
+2031,12_NZ,Oceania,Carbon Neutral,801855.0,2334912.0
+2031,12_NZ,Oceania,Reference,240103.0,2994230.9999999995
+2031,13_PNG,Oceania,Carbon Neutral,9565.0,162368.0
+2031,13_PNG,Oceania,Reference,1565.0,170860.0
+2031,14_PE,Other Americas,Carbon Neutral,565924.0,2163886.0
+2031,14_PE,Other Americas,Reference,111018.0,2715122.0
+2031,15_RP,Southeast Asia,Carbon Neutral,224814.0,1192586.0
+2031,15_RP,Southeast Asia,Reference,42684.0,1181794.0
+2031,16_RUS,Russia,Carbon Neutral,8111599.0,45878359.0
+2031,16_RUS,Russia,Reference,257350.00000000003,53708639.99999999
+2031,17_SIN,Southeast Asia,Carbon Neutral,163814.0,376321.0
+2031,17_SIN,Southeast Asia,Reference,65829.0,495728.0
+2031,18_CT,Northeast Asia,Carbon Neutral,1634304.0,5364848.0
+2031,18_CT,Northeast Asia,Reference,478690.0,6965771.999999999
+2031,19_THA,Southeast Asia,Carbon Neutral,3340429.0,11686523.000000002
+2031,19_THA,Southeast Asia,Reference,746646.0,15407799.999999998
+2031,20_USA,USA,Carbon Neutral,29193246.0,91638072.0
+2031,20_USA,USA,Reference,8832513.0,117034281.0
+2031,21_VN,Southeast Asia,Carbon Neutral,852908.0,5350985.0
+2031,21_VN,Southeast Asia,Reference,216382.0,6431331.999999999
+2032,01_AUS,Oceania,Carbon Neutral,2942794.0,11447398.0
+2032,01_AUS,Oceania,Reference,576957.0,14810994.0
+2032,02_BD,Southeast Asia,Carbon Neutral,51934.0,152222.0
+2032,02_BD,Southeast Asia,Reference,8170.0,205043.0
+2032,03_CDA,Other Americas,Carbon Neutral,3692400.0,8911870.0
+2032,03_CDA,Other Americas,Reference,988557.0,11728221.0
+2032,04_CHL,Other Americas,Carbon Neutral,1556201.0,4420214.0
+2032,04_CHL,Other Americas,Reference,399866.0,6026083.000000001
+2032,05_PRC,China,Carbon Neutral,82120638.0,129901569.0
+2032,05_PRC,China,Reference,31967028.0,181755455.99999997
+2032,06_HKC,Northeast Asia,Carbon Neutral,177850.0,472502.0
+2032,06_HKC,Northeast Asia,Reference,32876.0,669869.0
+2032,07_INA,Southeast Asia,Carbon Neutral,4173673.0,19868102.999999996
+2032,07_INA,Southeast Asia,Reference,331612.0,24807040.0
+2032,08_JPN,Northeast Asia,Carbon Neutral,13372445.0,39843219.00000001
+2032,08_JPN,Northeast Asia,Reference,3051219.0,51493678.0
+2032,09_ROK,Northeast Asia,Carbon Neutral,6440130.0,12478726.0
+2032,09_ROK,Northeast Asia,Reference,1945920.0,17254946.0
+2032,10_MAS,Southeast Asia,Carbon Neutral,2730062.0,15215528.0
+2032,10_MAS,Southeast Asia,Reference,584893.0,17470727.999999996
+2032,11_MEX,Other Americas,Carbon Neutral,6678325.0,25232984.0
+2032,11_MEX,Other Americas,Reference,1289806.0,33070178.0
+2032,12_NZ,Oceania,Carbon Neutral,942577.0,2191554.9999999995
+2032,12_NZ,Oceania,Reference,267853.0,2981542.0
+2032,13_PNG,Oceania,Carbon Neutral,13404.0,168250.0
+2032,13_PNG,Oceania,Reference,2161.0,180176.0
+2032,14_PE,Other Americas,Carbon Neutral,684867.0,2108711.0
+2032,14_PE,Other Americas,Reference,126684.99999999999,2781359.0
+2032,15_RP,Southeast Asia,Carbon Neutral,275007.0,1200563.0
+2032,15_RP,Southeast Asia,Reference,49042.0,1204474.0
+2032,16_RUS,Russia,Carbon Neutral,10184387.0,44256450.0
+2032,16_RUS,Russia,Reference,315632.0,54141627.00000001
+2032,17_SIN,Southeast Asia,Carbon Neutral,191724.0,347202.0
+2032,17_SIN,Southeast Asia,Reference,75175.0,488217.0
+2032,18_CT,Northeast Asia,Carbon Neutral,1947054.0,5037452.0
+2032,18_CT,Northeast Asia,Reference,549549.0,6968319.999999999
+2032,19_THA,Southeast Asia,Carbon Neutral,3974487.0,11415103.0
+2032,19_THA,Southeast Asia,Reference,831507.0,15909683.0
+2032,20_USA,USA,Carbon Neutral,34578779.0,86141508.0
+2032,20_USA,USA,Reference,9915161.0,116678289.99999999
+2032,21_VN,Southeast Asia,Carbon Neutral,1048400.0,5349497.0
+2032,21_VN,Southeast Asia,Reference,257944.0,6680658.0
+2033,01_AUS,Oceania,Carbon Neutral,3400724.0,10974463.0
+2033,01_AUS,Oceania,Reference,631808.0,14842591.0
+2033,02_BD,Southeast Asia,Carbon Neutral,61217.0,149691.0
+2033,02_BD,Southeast Asia,Reference,10034.0,211819.0
+2033,03_CDA,Other Americas,Carbon Neutral,4267576.0,8332243.0
+2033,03_CDA,Other Americas,Reference,1095059.0,11672141.0
+2033,04_CHL,Other Americas,Carbon Neutral,1878192.0,4154125.9999999995
+2033,04_CHL,Other Americas,Reference,456719.0,6110438.0
+2033,05_PRC,China,Carbon Neutral,90702816.0,121709330.0
+2033,05_PRC,China,Reference,34602926.0,179632220.0
+2033,06_HKC,Northeast Asia,Carbon Neutral,208132.0,442113.0
+2033,06_HKC,Northeast Asia,Reference,37212.0,670991.9999999999
+2033,07_INA,Southeast Asia,Carbon Neutral,4950380.0,19915324.0
+2033,07_INA,Southeast Asia,Reference,382011.0,25756451.000000004
+2033,08_JPN,Northeast Asia,Carbon Neutral,15250511.0,37658963.0
+2033,08_JPN,Northeast Asia,Reference,3188358.0,51311640.00000001
+2033,09_ROK,Northeast Asia,Carbon Neutral,7352399.0,11641029.0
+2033,09_ROK,Northeast Asia,Reference,2170640.0,17296594.0
+2033,10_MAS,Southeast Asia,Carbon Neutral,3229432.0,15094379.0
+2033,10_MAS,Southeast Asia,Reference,673533.0,17793339.999999996
+2033,11_MEX,Other Americas,Carbon Neutral,7874334.0,24370437.0
+2033,11_MEX,Other Americas,Reference,1453872.0,33639967.99999999
+2033,12_NZ,Oceania,Carbon Neutral,1082375.0,2049351.0000000002
+2033,12_NZ,Oceania,Reference,294096.0,2971006.0
+2033,13_PNG,Oceania,Carbon Neutral,17295.0,174385.0
+2033,13_PNG,Oceania,Reference,2757.0,189800.0
+2033,14_PE,Other Americas,Carbon Neutral,802307.0,2052636.9999999998
+2033,14_PE,Other Americas,Reference,141487.0,2847089.9999999995
+2033,15_RP,Southeast Asia,Carbon Neutral,323695.0,1206951.0
+2033,15_RP,Southeast Asia,Reference,54845.0,1224160.0000000002
+2033,16_RUS,Russia,Carbon Neutral,12084820.0,42559801.0
+2033,16_RUS,Russia,Reference,381303.0,54319752.0
+2033,17_SIN,Southeast Asia,Carbon Neutral,221188.0,317052.0
+2033,17_SIN,Southeast Asia,Reference,85567.0,479348.0
+2033,18_CT,Northeast Asia,Carbon Neutral,2256630.0,4712013.000000001
+2033,18_CT,Northeast Asia,Reference,615358.0,6966980.0
+2033,19_THA,Southeast Asia,Carbon Neutral,4520145.0,11081526.0
+2033,19_THA,Southeast Asia,Reference,901896.0,16274653.999999998
+2033,20_USA,USA,Carbon Neutral,39941134.0,80660694.99999999
+2033,20_USA,USA,Reference,10937514.0,116385994.0
+2033,21_VN,Southeast Asia,Carbon Neutral,1239168.0,5344999.0
+2033,21_VN,Southeast Asia,Reference,298072.0,6929286.999999999
+2034,01_AUS,Oceania,Carbon Neutral,3867500.0,10539807.0
+2034,01_AUS,Oceania,Reference,688331.0,15009875.0
+2034,02_BD,Southeast Asia,Carbon Neutral,70547.0,146996.0
+2034,02_BD,Southeast Asia,Reference,12256.0,218209.0
+2034,03_CDA,Other Americas,Carbon Neutral,4850070.0,7755034.999999999
+2034,03_CDA,Other Americas,Reference,1196696.0,11633207.0
+2034,04_CHL,Other Americas,Carbon Neutral,2204453.0,3881273.0
+2034,04_CHL,Other Americas,Reference,510622.0,6200500.0
+2034,05_PRC,China,Carbon Neutral,99356840.0,113449082.0
+2034,05_PRC,China,Reference,37333833.0,176873627.0
+2034,06_HKC,Northeast Asia,Carbon Neutral,238401.0,411704.0
+2034,06_HKC,Northeast Asia,Reference,41986.0,670728.9999999999
+2034,07_INA,Southeast Asia,Carbon Neutral,5722718.0,19974650.0
+2034,07_INA,Southeast Asia,Reference,438542.0,26718659.0
+2034,08_JPN,Northeast Asia,Carbon Neutral,17034744.0,35589132.0
+2034,08_JPN,Northeast Asia,Reference,3311611.0,51148947.0
+2034,09_ROK,Northeast Asia,Carbon Neutral,8246343.0,10810171.0
+2034,09_ROK,Northeast Asia,Reference,2381385.0,17337731.0
+2034,10_MAS,Southeast Asia,Carbon Neutral,3709546.0,14968155.0
+2034,10_MAS,Southeast Asia,Reference,756035.0,18098243.999999996
+2034,11_MEX,Other Americas,Carbon Neutral,9058390.0,23523671.0
+2034,11_MEX,Other Americas,Reference,1610853.0,34233037.99999999
+2034,12_NZ,Oceania,Carbon Neutral,1222379.0,1907347.9999999998
+2034,12_NZ,Oceania,Reference,318878.0,2962589.0
+2034,13_PNG,Oceania,Carbon Neutral,21242.0,181117.0
+2034,13_PNG,Oceania,Reference,3351.0,200081.0
+2034,14_PE,Other Americas,Carbon Neutral,921230.0,1997334.9999999998
+2034,14_PE,Other Americas,Reference,155778.0,2916661.0
+2034,15_RP,Southeast Asia,Carbon Neutral,374160.0,1216667.0
+2034,15_RP,Southeast Asia,Reference,60602.0,1247219.0
+2034,16_RUS,Russia,Carbon Neutral,13926738.0,40887792.00000001
+2034,16_RUS,Russia,Reference,460490.0,54449765.0
+2034,17_SIN,Southeast Asia,Carbon Neutral,252087.99999999997,285559.0
+2034,17_SIN,Southeast Asia,Reference,97200.0,469144.0
+2034,18_CT,Northeast Asia,Carbon Neutral,2566509.0,4386817.0
+2034,18_CT,Northeast Asia,Reference,676728.0,6965284.000000001
+2034,19_THA,Southeast Asia,Carbon Neutral,5109246.0,10775075.000000002
+2034,19_THA,Southeast Asia,Reference,976424.0,16722223.0
+2034,20_USA,USA,Carbon Neutral,45314713.0,75156788.99999999
+2034,20_USA,USA,Reference,11899879.0,116153045.0
+2034,21_VN,Southeast Asia,Carbon Neutral,1424266.0,5337611.0
+2034,21_VN,Southeast Asia,Reference,336568.0,7176352.000000001
+2035,01_AUS,Oceania,Carbon Neutral,4328059.0,10113081.0
+2035,01_AUS,Oceania,Reference,742192.0,15187641.999999998
+2035,02_BD,Southeast Asia,Carbon Neutral,79974.0,144080.0
+2035,02_BD,Southeast Asia,Reference,14897.0,224140.99999999997
+2035,03_CDA,Other Americas,Carbon Neutral,5446016.0,7173253.0
+2035,03_CDA,Other Americas,Reference,1293924.0,11610228.0
+2035,04_CHL,Other Americas,Carbon Neutral,2539137.0,3597974.0
+2035,04_CHL,Other Americas,Reference,561905.0,6297850.0
+2035,05_PRC,China,Carbon Neutral,108166222.0,105042560.0
+2035,05_PRC,China,Reference,40217552.0,173655561.0
+2035,06_HKC,Northeast Asia,Carbon Neutral,268975.0,380969.0
+2035,06_HKC,Northeast Asia,Reference,47449.0,670347.0
+2035,07_INA,Southeast Asia,Carbon Neutral,6494036.0,20043214.0
+2035,07_INA,Southeast Asia,Reference,502012.0,27693563.0
+2035,08_JPN,Northeast Asia,Carbon Neutral,18743903.0,33612268.0
+2035,08_JPN,Northeast Asia,Reference,3422556.0,51003365.0
+2035,09_ROK,Northeast Asia,Carbon Neutral,9128147.0,9979968.999999998
+2035,09_ROK,Northeast Asia,Reference,2579032.0,17378013.0
+2035,10_MAS,Southeast Asia,Carbon Neutral,4220085.0,14906852.0
+2035,10_MAS,Southeast Asia,Reference,841174.0,18498115.0
+2035,11_MEX,Other Americas,Carbon Neutral,10115573.0,22614006.999999996
+2035,11_MEX,Other Americas,Reference,1746779.0,34667304.0
+2035,12_NZ,Oceania,Carbon Neutral,1364042.0,1764121.0
+2035,12_NZ,Oceania,Reference,342323.0,2956171.0
+2035,13_PNG,Oceania,Carbon Neutral,25174.0,188171.0
+2035,13_PNG,Oceania,Reference,3933.0,210680.0
+2035,14_PE,Other Americas,Carbon Neutral,1039714.0,1940429.0
+2035,14_PE,Other Americas,Reference,169261.0,2985865.9999999995
+2035,15_RP,Southeast Asia,Carbon Neutral,423286.0,1224709.0
+2035,15_RP,Southeast Asia,Reference,65835.0,1267422.0
+2035,16_RUS,Russia,Carbon Neutral,15849059.0,39309121.99999999
+2035,16_RUS,Russia,Reference,562503.0,54731700.0
+2035,17_SIN,Southeast Asia,Carbon Neutral,277812.0,259859.0
+2035,17_SIN,Southeast Asia,Reference,110233.0,457383.0
+2035,18_CT,Northeast Asia,Carbon Neutral,2879973.0,4058581.0
+2035,18_CT,Northeast Asia,Reference,733501.0,6960868.0
+2035,19_THA,Southeast Asia,Carbon Neutral,5678384.0,10450142.0
+2035,19_THA,Southeast Asia,Reference,1046014.9999999999,17142757.0
+2035,20_USA,USA,Carbon Neutral,50752285.0,69572486.0
+2035,20_USA,USA,Reference,12806261.0,115972472.0
+2035,21_VN,Southeast Asia,Carbon Neutral,1604274.0,5327015.0
+2035,21_VN,Southeast Asia,Reference,373519.0,7421942.0
+2036,01_AUS,Oceania,Carbon Neutral,4785602.0,9691003.0
+2036,01_AUS,Oceania,Reference,795480.0,15371946.000000002
+2036,02_BD,Southeast Asia,Carbon Neutral,89438.0,140907.0
+2036,02_BD,Southeast Asia,Reference,17988.0,229483.0
+2036,03_CDA,Other Americas,Carbon Neutral,6060750.0,6581197.0
+2036,03_CDA,Other Americas,Reference,1387120.0,11602193.999999998
+2036,04_CHL,Other Americas,Carbon Neutral,2882826.0,3307359.0
+2036,04_CHL,Other Americas,Reference,611969.0,6400772.999999999
+2036,05_PRC,China,Carbon Neutral,117226387.0,96398996.0
+2036,05_PRC,China,Reference,43239879.0,169999202.0
+2036,06_HKC,Northeast Asia,Carbon Neutral,300225.0,349539.0
+2036,06_HKC,Northeast Asia,Reference,53208.0,667338.0
+2036,07_INA,Southeast Asia,Carbon Neutral,7282262.0,20102715.999999996
+2036,07_INA,Southeast Asia,Reference,577508.0,28676502.999999996
+2036,08_JPN,Northeast Asia,Carbon Neutral,20397670.0,31705411.0
+2036,08_JPN,Northeast Asia,Reference,3522666.0,50872847.0
+2036,09_ROK,Northeast Asia,Carbon Neutral,10002322.0,9146254.0
+2036,09_ROK,Northeast Asia,Reference,2769008.0,17412464.0
+2036,10_MAS,Southeast Asia,Carbon Neutral,4720237.0,14825308.999999998
+2036,10_MAS,Southeast Asia,Reference,926211.0,18868319.0
+2036,11_MEX,Other Americas,Carbon Neutral,11292774.0,21774223.000000004
+2036,11_MEX,Other Americas,Reference,1901606.0,35287664.0
+2036,12_NZ,Oceania,Carbon Neutral,1508825.0,1618288.0
+2036,12_NZ,Oceania,Reference,364971.0,2951149.0
+2036,13_PNG,Oceania,Carbon Neutral,29271.0,195691.0
+2036,13_PNG,Oceania,Reference,4592.0,221856.0
+2036,14_PE,Other Americas,Carbon Neutral,1158234.0,1881577.0
+2036,14_PE,Other Americas,Reference,182739.0,3054427.0
+2036,15_RP,Southeast Asia,Carbon Neutral,475663.0,1234303.0000000002
+2036,15_RP,Southeast Asia,Reference,71442.0,1290263.9999999998
+2036,16_RUS,Russia,Carbon Neutral,17611676.0,37663184.0
+2036,16_RUS,Russia,Reference,677812.0,54770746.0
+2036,17_SIN,Southeast Asia,Carbon Neutral,301424.0,236471.0
+2036,17_SIN,Southeast Asia,Reference,124770.0,443839.0
+2036,18_CT,Northeast Asia,Carbon Neutral,3200799.0,3723399.0
+2036,18_CT,Northeast Asia,Reference,788390.0,6958221.999999999
+2036,19_THA,Southeast Asia,Carbon Neutral,6229577.0,10107228.0
+2036,19_THA,Southeast Asia,Reference,1117512.0,17531739.0
+2036,20_USA,USA,Carbon Neutral,56312668.0,63846697.0
+2036,20_USA,USA,Reference,13660372.0,115840394.99999999
+2036,21_VN,Southeast Asia,Carbon Neutral,1782240.0,5309303.0
+2036,21_VN,Southeast Asia,Reference,412569.0,7661461.0
+2037,01_AUS,Oceania,Carbon Neutral,5230933.0,9281812.0
+2037,01_AUS,Oceania,Reference,868696.0,15541951.000000002
+2037,02_BD,Southeast Asia,Carbon Neutral,98764.0,137595.00000000003
+2037,02_BD,Southeast Asia,Reference,21534.0,234164.0
+2037,03_CDA,Other Americas,Carbon Neutral,6632651.0,6039273.0
+2037,03_CDA,Other Americas,Reference,1476999.0,11607037.0
+2037,04_CHL,Other Americas,Carbon Neutral,3204887.0,3041083.0
+2037,04_CHL,Other Americas,Reference,669128.0,6500597.0
+2037,05_PRC,China,Carbon Neutral,125531750.0,88479043.0
+2037,05_PRC,China,Reference,46406484.0,166184319.0
+2037,06_HKC,Northeast Asia,Carbon Neutral,328860.0,320747.0
+2037,06_HKC,Northeast Asia,Reference,60086.0,663872.0
+2037,07_INA,Southeast Asia,Carbon Neutral,8130655.000000001,20108523.0
+2037,07_INA,Southeast Asia,Reference,677409.0,29655520.0
+2037,08_JPN,Northeast Asia,Carbon Neutral,21954360.0,29911207.0
+2037,08_JPN,Northeast Asia,Reference,3705749.0,50665037.0
+2037,09_ROK,Northeast Asia,Carbon Neutral,10798019.0,8383079.0
+2037,09_ROK,Northeast Asia,Reference,2999111.0,17389680.0
+2037,10_MAS,Southeast Asia,Carbon Neutral,5189705.0,14637206.999999998
+2037,10_MAS,Southeast Asia,Reference,1023443.0000000001,19088981.0
+2037,11_MEX,Other Americas,Carbon Neutral,12453264.0,20946676.0
+2037,11_MEX,Other Americas,Reference,2107562.0,35865888.0
+2037,12_NZ,Oceania,Carbon Neutral,1641922.0,1484732.9999999998
+2037,12_NZ,Oceania,Reference,393564.0,2940589.0
+2037,13_PNG,Oceania,Carbon Neutral,33647.0,203183.0
+2037,13_PNG,Oceania,Reference,5468.0,233121.0
+2037,14_PE,Other Americas,Carbon Neutral,1275499.0,1822071.0
+2037,14_PE,Other Americas,Reference,199057.0,3121124.0
+2037,15_RP,Southeast Asia,Carbon Neutral,532286.0,1240296.0
+2037,15_RP,Southeast Asia,Reference,78881.0,1310978.0
+2037,16_RUS,Russia,Carbon Neutral,19311576.0,36061373.0
+2037,16_RUS,Russia,Reference,826206.0,54758665.0
+2037,17_SIN,Southeast Asia,Carbon Neutral,322892.0,215189.0
+2037,17_SIN,Southeast Asia,Reference,139177.0,430455.99999999994
+2037,18_CT,Northeast Asia,Carbon Neutral,3494818.0,3416375.0
+2037,18_CT,Northeast Asia,Reference,857349.0,6945263.0
+2037,19_THA,Southeast Asia,Carbon Neutral,6753354.0,9758364.0
+2037,19_THA,Southeast Asia,Reference,1213922.0,17868057.999999996
+2037,20_USA,USA,Carbon Neutral,61403524.0,58600283.0
+2037,20_USA,USA,Reference,14467295.0,115752789.0
+2037,21_VN,Southeast Asia,Carbon Neutral,1966977.0,5271742.0
+2037,21_VN,Southeast Asia,Reference,462955.0,7881543.0
+2038,01_AUS,Oceania,Carbon Neutral,5665667.0,8883747.000000002
+2038,01_AUS,Oceania,Reference,964646.0,15694538.0
+2038,02_BD,Southeast Asia,Carbon Neutral,107943.0,134118.0
+2038,02_BD,Southeast Asia,Reference,25582.0,238098.0
+2038,03_CDA,Other Americas,Carbon Neutral,7165743.0,5542906.0
+2038,03_CDA,Other Americas,Reference,1594966.0,11592661.0
+2038,04_CHL,Other Americas,Carbon Neutral,3507303.0,2796884.9999999995
+2038,04_CHL,Other Americas,Reference,733974.0,6596155.0
+2038,05_PRC,China,Carbon Neutral,133150219.0,81217610.0
+2038,05_PRC,China,Reference,49709426.0,162214121.0
+2038,06_HKC,Northeast Asia,Carbon Neutral,355118.0,294356.0
+2038,06_HKC,Northeast Asia,Reference,67905.0,658764.0
+2038,07_INA,Southeast Asia,Carbon Neutral,9044076.0,20056579.0
+2038,07_INA,Southeast Asia,Reference,807268.0,30626744.0
+2038,08_JPN,Northeast Asia,Carbon Neutral,23426775.0,28214683.0
+2038,08_JPN,Northeast Asia,Reference,3977421.0,50373749.0
+2038,09_ROK,Northeast Asia,Carbon Neutral,11521761.0,7684109.0
+2038,09_ROK,Northeast Asia,Reference,3270673.0,17308888.0
+2038,10_MAS,Southeast Asia,Carbon Neutral,5732480.0,14460837.0
+2038,10_MAS,Southeast Asia,Reference,1158392.0,19361134.0
+2038,11_MEX,Other Americas,Carbon Neutral,13599458.0,20126777.999999996
+2038,11_MEX,Other Americas,Reference,2371964.0,36392483.0
+2038,12_NZ,Oceania,Carbon Neutral,1764517.0,1362356.0
+2038,12_NZ,Oceania,Reference,428493.0,2924201.9999999995
+2038,13_PNG,Oceania,Carbon Neutral,38411.0,210869.0
+2038,13_PNG,Oceania,Reference,6631.0,244755.0
+2038,14_PE,Other Americas,Carbon Neutral,1394928.0,1762910.0
+2038,14_PE,Other Americas,Reference,219019.0,3189642.0
+2038,15_RP,Southeast Asia,Carbon Neutral,593415.0,1242325.0
+2038,15_RP,Southeast Asia,Reference,88401.0,1329266.0
+2038,16_RUS,Russia,Carbon Neutral,20958579.0,34499600.0
+2038,16_RUS,Russia,Reference,1015795.0,54693546.0
+2038,17_SIN,Southeast Asia,Carbon Neutral,342409.0,195822.0
+2038,17_SIN,Southeast Asia,Reference,153517.0,417135.0
+2038,18_CT,Northeast Asia,Carbon Neutral,3764442.0,3134976.9999999995
+2038,18_CT,Northeast Asia,Reference,938262.0,6910462.0
+2038,19_THA,Southeast Asia,Carbon Neutral,7251752.0,9403913.0
+2038,19_THA,Southeast Asia,Reference,1338248.0,18150555.0
+2038,20_USA,USA,Carbon Neutral,66068189.00000001,53790169.0
+2038,20_USA,USA,Reference,15524041.0,115399353.0
+2038,21_VN,Southeast Asia,Carbon Neutral,2158816.0,5214549.0
+2038,21_VN,Southeast Asia,Reference,526354.0,8080868.000000001
+2039,01_AUS,Oceania,Carbon Neutral,6065473.0,8475070.0
+2039,01_AUS,Oceania,Reference,1076749.0,15712829.000000002
+2039,02_BD,Southeast Asia,Carbon Neutral,116928.0,130438.0
+2039,02_BD,Southeast Asia,Reference,30159.0,241161.0
+2039,03_CDA,Other Americas,Carbon Neutral,7663653.0,5087933.0
+2039,03_CDA,Other Americas,Reference,1743156.0,11556156.0
+2039,04_CHL,Other Americas,Carbon Neutral,3791647.0,2572694.0000000005
+2039,04_CHL,Other Americas,Reference,807099.0,6685826.000000001
+2039,05_PRC,China,Carbon Neutral,140143586.0,74555468.0
+2039,05_PRC,China,Reference,53138853.0,158094091.00000003
+2039,06_HKC,Northeast Asia,Carbon Neutral,379212.0,270149.0
+2039,06_HKC,Northeast Asia,Reference,76740.0,652038.0
+2039,07_INA,Southeast Asia,Carbon Neutral,10026731.0,19942357.0
+2039,07_INA,Southeast Asia,Reference,973825.0,31584032.999999996
+2039,08_JPN,Northeast Asia,Carbon Neutral,24826085.0,26602771.0
+2039,08_JPN,Northeast Asia,Reference,4344359.0,49991749.99999999
+2039,09_ROK,Northeast Asia,Carbon Neutral,12179453.0,7043580.0
+2039,09_ROK,Northeast Asia,Reference,3584609.0,17169643.0
+2039,10_MAS,Southeast Asia,Carbon Neutral,6297936.0,14237034.999999998
+2039,10_MAS,Southeast Asia,Reference,1323202.0,19580718.0
+2039,11_MEX,Other Americas,Carbon Neutral,14732930.0,19310403.0
+2039,11_MEX,Other Americas,Reference,2702950.0,36856549.0
+2039,12_NZ,Oceania,Carbon Neutral,1877713.0,1250152.9999999998
+2039,12_NZ,Oceania,Reference,470152.0,2901712.0
+2039,13_PNG,Oceania,Carbon Neutral,43516.0,218443.0
+2039,13_PNG,Oceania,Reference,8130.0,256361.0
+2039,14_PE,Other Americas,Carbon Neutral,1510792.0,1701393.0
+2039,14_PE,Other Americas,Reference,242002.0,3251237.0
+2039,15_RP,Southeast Asia,Carbon Neutral,661279.0,1241700.0
+2039,15_RP,Southeast Asia,Reference,100684.0,1347162.0
+2039,16_RUS,Russia,Carbon Neutral,22562330.0,32974249.999999996
+2039,16_RUS,Russia,Reference,1256582.0,54571948.0
+2039,17_SIN,Southeast Asia,Carbon Neutral,360151.0,178198.00000000003
+2039,17_SIN,Southeast Asia,Reference,167890.0,403845.0
+2039,18_CT,Northeast Asia,Carbon Neutral,4011869.0,2876896.0
+2039,18_CT,Northeast Asia,Reference,1032721.9999999999,6857058.0
+2039,19_THA,Southeast Asia,Carbon Neutral,7782573.0,9065386.0
+2039,19_THA,Southeast Asia,Reference,1507560.0,18454016.0
+2039,20_USA,USA,Carbon Neutral,70346835.0,49377176.99999999
+2039,20_USA,USA,Reference,16846601.0,114765684.0
+2039,21_VN,Southeast Asia,Carbon Neutral,2357941.0,5137950.0
+2039,21_VN,Southeast Asia,Reference,604637.0,8257765.000000001
+2040,01_AUS,Oceania,Carbon Neutral,6483121.0,8095801.999999999
+2040,01_AUS,Oceania,Reference,1227443.0,15820632.999999998
+2040,02_BD,Southeast Asia,Carbon Neutral,125717.0,126551.0
+2040,02_BD,Southeast Asia,Reference,35304.0,243299.00000000003
+2040,03_CDA,Other Americas,Carbon Neutral,8129626.0,4670561.0
+2040,03_CDA,Other Americas,Reference,1923641.0,11494636.0
+2040,04_CHL,Other Americas,Carbon Neutral,4059351.0000000005,2366634.0
+2040,04_CHL,Other Americas,Reference,889140.0,6768012.0
+2040,05_PRC,China,Carbon Neutral,146568081.0,68438715.0
+2040,05_PRC,China,Reference,56683042.0,153831989.00000003
+2040,06_HKC,Northeast Asia,Carbon Neutral,401337.0,247930.99999999997
+2040,06_HKC,Northeast Asia,Reference,86660.0,643725.0
+2040,07_INA,Southeast Asia,Carbon Neutral,11082578.0,19761544.0
+2040,07_INA,Southeast Asia,Reference,1185241.0,32519899.000000004
+2040,08_JPN,Northeast Asia,Carbon Neutral,26162016.0,25064079.0
+2040,08_JPN,Northeast Asia,Reference,4814059.0,49510963.0
+2040,09_ROK,Northeast Asia,Carbon Neutral,12776540.0,6456252.999999999
+2040,09_ROK,Northeast Asia,Reference,3941311.0,16972067.0
+2040,10_MAS,Southeast Asia,Carbon Neutral,6887799.0,13966574.0
+2040,10_MAS,Southeast Asia,Reference,1521933.0,19746168.0
+2040,11_MEX,Other Americas,Carbon Neutral,15854842.0,18494049.0
+2040,11_MEX,Other Americas,Reference,3109431.0,37246491.0
+2040,12_NZ,Oceania,Carbon Neutral,1982523.0,1147210.0
+2040,12_NZ,Oceania,Reference,518914.0,2872869.0
+2040,13_PNG,Oceania,Carbon Neutral,49081.0,226112.0
+2040,13_PNG,Oceania,Reference,10072.0,268186.0
+2040,14_PE,Other Americas,Carbon Neutral,1629668.0,1639606.0
+2040,14_PE,Other Americas,Reference,269547.0,3313576.0
+2040,15_RP,Southeast Asia,Carbon Neutral,732057.0,1234729.9999999998
+2040,15_RP,Southeast Asia,Reference,115203.0,1359484.0
+2040,16_RUS,Russia,Carbon Neutral,24132404.0,31482084.999999996
+2040,16_RUS,Russia,Reference,1560768.0,54388614.99999999
+2040,17_SIN,Southeast Asia,Carbon Neutral,376277.0,162160.0
+2040,17_SIN,Southeast Asia,Reference,182281.0,390386.0
+2040,18_CT,Northeast Asia,Carbon Neutral,4239096.0,2640035.0
+2040,18_CT,Northeast Asia,Reference,1141048.0,6784293.0
+2040,19_THA,Southeast Asia,Carbon Neutral,8232669.0,8700295.0
+2040,19_THA,Southeast Asia,Reference,1697426.0,18620959.0
+2040,20_USA,USA,Carbon Neutral,74275928.0,45325636.0
+2040,20_USA,USA,Reference,18450186.0,113837806.0
+2040,21_VN,Southeast Asia,Carbon Neutral,2563144.0,5041257.0
+2040,21_VN,Southeast Asia,Reference,699425.0,8408069.0
+2041,01_AUS,Oceania,Carbon Neutral,6893972.0,7723418.0
+2041,01_AUS,Oceania,Reference,1411308.0,15899124.0
+2041,02_BD,Southeast Asia,Carbon Neutral,134240.0,122428.0
+2041,02_BD,Southeast Asia,Reference,41019.0,244398.0
+2041,03_CDA,Other Americas,Carbon Neutral,8566512.0,4287339.0
+2041,03_CDA,Other Americas,Reference,2138283.0,11405346.0
+2041,04_CHL,Other Americas,Carbon Neutral,4311950.0,2177017.0
+2041,04_CHL,Other Americas,Reference,980840.0,6841551.000000001
+2041,05_PRC,China,Carbon Neutral,152474873.0,62818306.0
+2041,05_PRC,China,Reference,60328495.0,149437765.0
+2041,06_HKC,Northeast Asia,Carbon Neutral,421670.0,227522.0
+2041,06_HKC,Northeast Asia,Reference,98107.0,634674.0000000001
+2041,07_INA,Southeast Asia,Carbon Neutral,12215514.0,19510301.0
+2041,07_INA,Southeast Asia,Reference,1451334.0,33425788.000000004
+2041,08_JPN,Northeast Asia,Carbon Neutral,27443021.0,23588703.0
+2041,08_JPN,Northeast Asia,Reference,5394489.0,48922785.00000001
+2041,09_ROK,Northeast Asia,Carbon Neutral,13318056.0,5917367.0
+2041,09_ROK,Northeast Asia,Reference,4340532.0,16716988.999999998
+2041,10_MAS,Southeast Asia,Carbon Neutral,7557990.0,13686806.0
+2041,10_MAS,Southeast Asia,Reference,1776563.0,19931419.0
+2041,11_MEX,Other Americas,Carbon Neutral,16819314.0,17631508.999999996
+2041,11_MEX,Other Americas,Reference,3562849.0,37395114.0
+2041,12_NZ,Oceania,Carbon Neutral,2079835.9999999998,1052692.9999999998
+2041,12_NZ,Oceania,Reference,575090.0,2837413.0
+2041,13_PNG,Oceania,Carbon Neutral,55050.0,233577.0
+2041,13_PNG,Oceania,Reference,12529.0,279812.0
+2041,14_PE,Other Americas,Carbon Neutral,1751979.0,1577168.0
+2041,14_PE,Other Americas,Reference,302290.0,3375956.0
+2041,15_RP,Southeast Asia,Carbon Neutral,810090.0,1224138.0
+2041,15_RP,Southeast Asia,Reference,133206.0,1370353.0
+2041,16_RUS,Russia,Carbon Neutral,25678398.0,30020145.999999996
+2041,16_RUS,Russia,Reference,1943039.0,54136199.0
+2041,17_SIN,Southeast Asia,Carbon Neutral,390932.0,147565.0
+2041,17_SIN,Southeast Asia,Reference,196823.0,376794.0
+2041,18_CT,Northeast Asia,Carbon Neutral,4447942.0,2422485.0
+2041,18_CT,Northeast Asia,Reference,1263163.0,6691289.0
+2041,19_THA,Southeast Asia,Carbon Neutral,8715828.0,8347253.0
+2041,19_THA,Southeast Asia,Reference,1943417.0,18794225.0
+2041,20_USA,USA,Carbon Neutral,77887879.0,41603044.0
+2041,20_USA,USA,Reference,20347881.0,112602815.99999999
+2041,21_VN,Southeast Asia,Carbon Neutral,2774929.0,4925526.0
+2041,21_VN,Southeast Asia,Reference,813026.0,8530937.999999998
+2042,01_AUS,Oceania,Carbon Neutral,7299166.0,7356934.0
+2042,01_AUS,Oceania,Reference,1632463.0,15944025.0
+2042,02_BD,Southeast Asia,Carbon Neutral,142485.0,118076.0
+2042,02_BD,Southeast Asia,Reference,47319.0,244427.0
+2042,03_CDA,Other Americas,Carbon Neutral,8976827.0,3935124.9999999995
+2042,03_CDA,Other Americas,Reference,2388588.0,11285844.0
+2042,04_CHL,Other Americas,Carbon Neutral,4551548.0,2002349.9999999998
+2042,04_CHL,Other Americas,Reference,1083205.0,6906439.000000001
+2042,05_PRC,China,Carbon Neutral,157910520.0,57649612.00000001
+2042,05_PRC,China,Reference,64060086.0,144923450.0
+2042,06_HKC,Northeast Asia,Carbon Neutral,440372.0,208758.0
+2042,06_HKC,Northeast Asia,Reference,110374.0,623273.0000000001
+2042,07_INA,Southeast Asia,Carbon Neutral,13429068.0,19185146.0
+2042,07_INA,Southeast Asia,Reference,1783725.0,34291485.0
+2042,08_JPN,Northeast Asia,Carbon Neutral,28676418.0,22168053.0
+2042,08_JPN,Northeast Asia,Reference,6093624.0,48218522.0
+2042,09_ROK,Northeast Asia,Carbon Neutral,13808655.0,5422594.999999999
+2042,09_ROK,Northeast Asia,Reference,4781281.0,16406050.999999998
+2042,10_MAS,Southeast Asia,Carbon Neutral,8198931.0,13324330.0
+2042,10_MAS,Southeast Asia,Reference,2055731.0000000002,19979440.999999996
+2042,11_MEX,Other Americas,Carbon Neutral,17921080.0,16807327.0
+2042,11_MEX,Other Americas,Reference,4149378.9999999995,37601412.0
+2042,12_NZ,Oceania,Carbon Neutral,2170533.0,965841.0
+2042,12_NZ,Oceania,Reference,638948.0,2795222.0
+2042,13_PNG,Oceania,Carbon Neutral,61552.0,241028.0
+2042,13_PNG,Oceania,Reference,15657.0,291438.0
+2042,14_PE,Other Americas,Carbon Neutral,1874577.0,1512849.0
+2042,14_PE,Other Americas,Reference,340144.0,3433435.0
+2042,15_RP,Southeast Asia,Carbon Neutral,893340.0,1208110.0
+2042,15_RP,Southeast Asia,Reference,154527.0,1377060.0
+2042,16_RUS,Russia,Carbon Neutral,27105168.0,28554885.0
+2042,16_RUS,Russia,Reference,2399488.0,53688267.0
+2042,17_SIN,Southeast Asia,Carbon Neutral,404250.0,134285.00000000003
+2042,17_SIN,Southeast Asia,Reference,211492.0,362901.00000000006
+2042,18_CT,Northeast Asia,Carbon Neutral,4640060.0,2222507.0
+2042,18_CT,Northeast Asia,Reference,1400687.0,6580915.0
+2042,19_THA,Southeast Asia,Carbon Neutral,9176175.0,7987935.999999999
+2042,19_THA,Southeast Asia,Reference,2233409.0,18898021.0
+2042,20_USA,USA,Carbon Neutral,81212279.0,38179821.0
+2042,20_USA,USA,Reference,22549718.0,111050966.0
+2042,21_VN,Southeast Asia,Carbon Neutral,2992455.0,4791043.999999999
+2042,21_VN,Southeast Asia,Reference,947378.0,8623385.0
+2043,01_AUS,Oceania,Carbon Neutral,7699512.0,6995369.0
+2043,01_AUS,Oceania,Reference,1895030.0,15950408.0
+2043,02_BD,Southeast Asia,Carbon Neutral,150363.0,113483.0
+2043,02_BD,Southeast Asia,Reference,54164.0,243303.00000000003
+2043,03_CDA,Other Americas,Carbon Neutral,9362773.0,3611061.0000000005
+2043,03_CDA,Other Americas,Reference,2675542.0,11134175.0
+2043,04_CHL,Other Americas,Carbon Neutral,4779415.0,1841223.0
+2043,04_CHL,Other Americas,Reference,1197132.0,6961313.0
+2043,05_PRC,China,Carbon Neutral,162917391.0,52892020.0
+2043,05_PRC,China,Reference,67861266.0,140302959.99999997
+2043,06_HKC,Northeast Asia,Carbon Neutral,457591.0,191493.0
+2043,06_HKC,Northeast Asia,Reference,124330.0,611091.0
+2043,07_INA,Southeast Asia,Carbon Neutral,14726396.0,18783088.0
+2043,07_INA,Southeast Asia,Reference,2195973.0,35105137.0
+2043,08_JPN,Northeast Asia,Carbon Neutral,29868529.0,20794704.999999996
+2043,08_JPN,Northeast Asia,Reference,6918850.0,47389941.0
+2043,09_ROK,Northeast Asia,Carbon Neutral,14256297.0,4968064.0
+2043,09_ROK,Northeast Asia,Reference,5261934.0,16041947.0
+2043,10_MAS,Southeast Asia,Carbon Neutral,8868625.0,12917860.000000002
+2043,10_MAS,Southeast Asia,Reference,2382644.0,19966337.0
+2043,11_MEX,Other Americas,Carbon Neutral,19013209.0,15976752.0
+2043,11_MEX,Other Americas,Reference,4840133.0,37698563.0
+2043,12_NZ,Oceania,Carbon Neutral,2255321.0,885960.0
+2043,12_NZ,Oceania,Reference,710622.0,2746161.0000000005
+2043,13_PNG,Oceania,Carbon Neutral,68624.0,248400.0
+2043,13_PNG,Oceania,Reference,19607.0,302919.0
+2043,14_PE,Other Americas,Carbon Neutral,2001027.0,1447223.0
+2043,14_PE,Other Americas,Reference,384624.0,3488988.0
+2043,15_RP,Southeast Asia,Carbon Neutral,981825.0,1186409.0
+2043,15_RP,Southeast Asia,Reference,179460.0,1379198.0000000002
+2043,16_RUS,Russia,Carbon Neutral,28633280.0,27145457.999999996
+2043,16_RUS,Russia,Reference,2992924.0,53267540.00000001
+2043,17_SIN,Southeast Asia,Carbon Neutral,416349.0,122199.0
+2043,17_SIN,Southeast Asia,Reference,226422.0,348731.0
+2043,18_CT,Northeast Asia,Carbon Neutral,4816957.0,2038520.0
+2043,18_CT,Northeast Asia,Reference,1551482.0,6450106.0
+2043,19_THA,Southeast Asia,Carbon Neutral,9615430.0,7623289.0
+2043,19_THA,Southeast Asia,Reference,2571507.0,18930339.0
+2043,20_USA,USA,Carbon Neutral,84277002.0,35029064.0
+2043,20_USA,USA,Reference,25061889.0,109177472.00000001
+2043,21_VN,Southeast Asia,Carbon Neutral,3214468.0,4638255.0
+2043,21_VN,Southeast Asia,Reference,1104184.0,8682246.0
+2044,01_AUS,Oceania,Carbon Neutral,8095688.000000001,6637885.0
+2044,01_AUS,Oceania,Reference,2202975.0,15913402.999999998
+2044,02_BD,Southeast Asia,Carbon Neutral,157833.0,108661.00000000001
+2044,02_BD,Southeast Asia,Reference,61519.0,241015.0
+2044,03_CDA,Other Americas,Carbon Neutral,9726256.0,3312548.0
+2044,03_CDA,Other Americas,Reference,2999457.0,10949020.0
+2044,04_CHL,Other Americas,Carbon Neutral,4996706.0,1692361.0
+2044,04_CHL,Other Americas,Reference,1323580.0,7004744.0
+2044,05_PRC,China,Carbon Neutral,167534038.0,48508577.0
+2044,05_PRC,China,Reference,71714304.0,135591869.0
+2044,06_HKC,Northeast Asia,Carbon Neutral,473459.0,175591.0
+2044,06_HKC,Northeast Asia,Reference,139584.0,597429.9999999999
+2044,07_INA,Southeast Asia,Carbon Neutral,16109728.0,18301528.0
+2044,07_INA,Southeast Asia,Reference,2703490.0,35852606.0
+2044,08_JPN,Northeast Asia,Carbon Neutral,31024786.0,19462266.0
+2044,08_JPN,Northeast Asia,Reference,7876267.0,46429940.0
+2044,09_ROK,Northeast Asia,Carbon Neutral,14667994.0,4550223.0
+2044,09_ROK,Northeast Asia,Reference,5780235.0,15628364.0
+2044,10_MAS,Southeast Asia,Carbon Neutral,9625269.0,12491895.0
+2044,10_MAS,Southeast Asia,Reference,2785920.0,19949019.0
+2044,11_MEX,Other Americas,Carbon Neutral,20095694.0,15138411.000000002
+2044,11_MEX,Other Americas,Reference,5644179.0,37675121.0
+2044,12_NZ,Oceania,Carbon Neutral,2334862.0,812415.0
+2044,12_NZ,Oceania,Reference,790135.0,2690232.0
+2044,13_PNG,Oceania,Carbon Neutral,76196.0,255407.0
+2044,13_PNG,Oceania,Reference,24498.0,313799.0
+2044,14_PE,Other Americas,Carbon Neutral,2125126.0,1378851.0
+2044,14_PE,Other Americas,Reference,434856.0,3534633.0
+2044,15_RP,Southeast Asia,Carbon Neutral,1075478.0,1158860.0
+2044,15_RP,Southeast Asia,Reference,208258.0,1376386.0
+2044,16_RUS,Russia,Carbon Neutral,30166884.0,25758447.999999996
+2044,16_RUS,Russia,Reference,3723979.0,52742623.0
+2044,17_SIN,Southeast Asia,Carbon Neutral,427340.0,111201.0
+2044,17_SIN,Southeast Asia,Reference,241631.0,334183.0
+2044,18_CT,Northeast Asia,Carbon Neutral,4980003.0,1869084.0
+2044,18_CT,Northeast Asia,Reference,1716415.0,6301454.0
+2044,19_THA,Southeast Asia,Carbon Neutral,10035195.0,7254248.000000001
+2044,19_THA,Southeast Asia,Reference,2961508.0,18889364.999999996
+2044,20_USA,USA,Carbon Neutral,87107643.0,32126275.0
+2044,20_USA,USA,Reference,27885447.0,106983019.0
+2044,21_VN,Southeast Asia,Carbon Neutral,3440056.0,4468139.0
+2044,21_VN,Southeast Asia,Reference,1285131.0,8705391.0
+2045,01_AUS,Oceania,Carbon Neutral,8488231.0,6283767.0
+2045,01_AUS,Oceania,Reference,2559856.0,15828439.0
+2045,02_BD,Southeast Asia,Carbon Neutral,164803.0,103617.0
+2045,02_BD,Southeast Asia,Reference,69297.0,237541.0
+2045,03_CDA,Other Americas,Carbon Neutral,10068935.0,3037224.0
+2045,03_CDA,Other Americas,Reference,3359858.0,10729862.0
+2045,04_CHL,Other Americas,Carbon Neutral,5204485.0,1554595.0
+2045,04_CHL,Other Americas,Reference,1463565.0,7035255.0
+2045,05_PRC,China,Carbon Neutral,171795541.0,44465654.0
+2045,05_PRC,China,Reference,75600571.0,130807128.0
+2045,06_HKC,Northeast Asia,Carbon Neutral,488098.0,160930.0
+2045,06_HKC,Northeast Asia,Reference,155712.0,581874.0
+2045,07_INA,Southeast Asia,Carbon Neutral,17579173.0,17738111.0
+2045,07_INA,Southeast Asia,Reference,3323036.0,36516433.0
+2045,08_JPN,Northeast Asia,Carbon Neutral,32149836.999999996,18165262.000000004
+2045,08_JPN,Northeast Asia,Reference,8969901.0,45333309.0
+2045,09_ROK,Northeast Asia,Carbon Neutral,15046975.0,4165777.0000000005
+2045,09_ROK,Northeast Asia,Reference,6333307.0,15169835.0
+2045,10_MAS,Southeast Asia,Carbon Neutral,10353102.0,12000677.0
+2045,10_MAS,Southeast Asia,Reference,3220762.0,19804672.0
+2045,11_MEX,Other Americas,Carbon Neutral,21003420.0,14267123.000000002
+2045,11_MEX,Other Americas,Reference,6503755.0,37394038.0
+2045,12_NZ,Oceania,Carbon Neutral,2409764.0,744629.0
+2045,12_NZ,Oceania,Reference,877382.0,2627571.0
+2045,13_PNG,Oceania,Carbon Neutral,84063.0,261563.0
+2045,13_PNG,Oceania,Reference,30373.0,323355.0
+2045,14_PE,Other Americas,Carbon Neutral,2254106.0,1308851.0
+2045,14_PE,Other Americas,Reference,493716.0,3576839.0
+2045,15_RP,Southeast Asia,Carbon Neutral,1174137.0,1125357.9999999998
+2045,15_RP,Southeast Asia,Reference,241107.0,1368295.0
+2045,16_RUS,Russia,Carbon Neutral,31557955.0,24360668.0
+2045,16_RUS,Russia,Reference,4563875.0,51957576.0
+2045,17_SIN,Southeast Asia,Carbon Neutral,437321.0,101192.99999999999
+2045,17_SIN,Southeast Asia,Reference,257129.0,319171.0
+2045,18_CT,Northeast Asia,Carbon Neutral,5130443.0,1712893.0
+2045,18_CT,Northeast Asia,Reference,1894248.0,6135244.0
+2045,19_THA,Southeast Asia,Carbon Neutral,10436958.0,6881735.0
+2045,19_THA,Southeast Asia,Reference,3406643.0,18773727.0
+2045,20_USA,USA,Carbon Neutral,89727565.0,29449144.0
+2045,20_USA,USA,Reference,31015403.0,104474541.0
+2045,21_VN,Southeast Asia,Carbon Neutral,3666869.0,4281453.0
+2045,21_VN,Southeast Asia,Reference,1490839.0,8689585.000000002
+2046,01_AUS,Oceania,Carbon Neutral,8877554.0,5932424.0
+2046,01_AUS,Oceania,Reference,2968538.0,15691550.0
+2046,02_BD,Southeast Asia,Carbon Neutral,171230.0,98375.99999999999
+2046,02_BD,Southeast Asia,Reference,77418.0,232928.0
+2046,03_CDA,Other Americas,Carbon Neutral,10392290.0,2782945.0
+2046,03_CDA,Other Americas,Reference,3755426.0,10477096.000000002
+2046,04_CHL,Other Americas,Carbon Neutral,5403742.0,1426869.9999999998
+2046,04_CHL,Other Americas,Reference,1618166.0,7051331.0
+2046,05_PRC,China,Carbon Neutral,175733822.0,40732654.0
+2046,05_PRC,China,Reference,79500851.0,125966754.0
+2046,06_HKC,Northeast Asia,Carbon Neutral,501619.99999999994,147398.0
+2046,06_HKC,Northeast Asia,Reference,174599.0,566493.0
+2046,07_INA,Southeast Asia,Carbon Neutral,19133946.0,17091524.0
+2046,07_INA,Southeast Asia,Reference,4072636.0,37078147.0
+2046,08_JPN,Northeast Asia,Carbon Neutral,33247631.0,16899027.0
+2046,08_JPN,Northeast Asia,Reference,10200918.0,44097496.0
+2046,09_ROK,Northeast Asia,Carbon Neutral,15396176.0,3811731.0
+2046,09_ROK,Northeast Asia,Reference,6917660.0,14671578.0
+2046,10_MAS,Southeast Asia,Carbon Neutral,11170875.0,11485228.999999998
+2046,10_MAS,Southeast Asia,Reference,3744580.0,19641498.0
+2046,11_MEX,Other Americas,Carbon Neutral,22066463.0,13411059.0
+2046,11_MEX,Other Americas,Reference,7556230.0,37101631.99999999
+2046,12_NZ,Oceania,Carbon Neutral,2480601.0,682076.0
+2046,12_NZ,Oceania,Reference,972128.0,2558465.9999999995
+2046,13_PNG,Oceania,Carbon Neutral,92825.0,267878.0
+2046,13_PNG,Oceania,Reference,37783.0,332775.0
+2046,14_PE,Other Americas,Carbon Neutral,2384720.0,1236553.0
+2046,14_PE,Other Americas,Reference,561278.0,3610877.0
+2046,15_RP,Southeast Asia,Carbon Neutral,1277537.0,1085880.0
+2046,15_RP,Southeast Asia,Reference,278096.0,1354680.0
+2046,16_RUS,Russia,Carbon Neutral,33135223.000000004,23010364.000000004
+2046,16_RUS,Russia,Reference,5644078.0,51178198.0
+2046,17_SIN,Southeast Asia,Carbon Neutral,446385.0,92086.0
+2046,17_SIN,Southeast Asia,Reference,273097.0,303721.0
+2046,18_CT,Northeast Asia,Carbon Neutral,5269414.0,1568752.0000000002
+2046,18_CT,Northeast Asia,Reference,2085983.9999999998,5954564.0
+2046,19_THA,Southeast Asia,Carbon Neutral,10822113.0,6506655.0
+2046,19_THA,Southeast Asia,Reference,3909295.0,18582790.000000004
+2046,20_USA,USA,Carbon Neutral,92157901.0,26977344.000000004
+2046,20_USA,USA,Reference,34440115.0,101665683.0
+2046,21_VN,Southeast Asia,Carbon Neutral,3894403.0,4079942.0
+2046,21_VN,Southeast Asia,Reference,1722437.0,8634586.0
+2047,01_AUS,Oceania,Carbon Neutral,9263597.0,5583293.0
+2047,01_AUS,Oceania,Reference,3430679.0,15499126.0
+2047,02_BD,Southeast Asia,Carbon Neutral,177044.0,92967.0
+2047,02_BD,Southeast Asia,Reference,85759.0,227226.0
+2047,03_CDA,Other Americas,Carbon Neutral,10697608.0,2547764.0
+2047,03_CDA,Other Americas,Reference,4183962.0,10192048.999999998
+2047,04_CHL,Other Americas,Carbon Neutral,5594734.0,1308208.0
+2047,04_CHL,Other Americas,Reference,1788225.0,7050466.0
+2047,05_PRC,China,Carbon Neutral,179377928.0,37281735.00000001
+2047,05_PRC,China,Reference,83395660.0,121089490.0
+2047,06_HKC,Northeast Asia,Carbon Neutral,514124.0,134892.99999999997
+2047,06_HKC,Northeast Asia,Reference,194198.0,549326.0
+2047,07_INA,Southeast Asia,Carbon Neutral,20773696.0,16361847.999999998
+2047,07_INA,Southeast Asia,Reference,4971522.0,37520242.99999999
+2047,08_JPN,Northeast Asia,Carbon Neutral,34321501.0,15659618.0
+2047,08_JPN,Northeast Asia,Reference,11566896.0,42723331.0
+2047,09_ROK,Northeast Asia,Carbon Neutral,15718270.0,3485356.0
+2047,09_ROK,Northeast Asia,Reference,7529993.0,14139721.0
+2047,10_MAS,Southeast Asia,Carbon Neutral,12018492.0,10927914.999999998
+2047,10_MAS,Southeast Asia,Reference,4332531.0,19403298.0
+2047,11_MEX,Other Americas,Carbon Neutral,23116996.0,12546088.000000002
+2047,11_MEX,Other Americas,Reference,8737485.0,36664639.0
+2047,12_NZ,Oceania,Carbon Neutral,2547817.0,624271.9999999999
+2047,12_NZ,Oceania,Reference,1073952.0,2483298.0
+2047,13_PNG,Oceania,Carbon Neutral,103271.0,275436.0
+2047,13_PNG,Oceania,Reference,47573.0,343297.0
+2047,14_PE,Other Americas,Carbon Neutral,2520896.0,1162190.0
+2047,14_PE,Other Americas,Reference,640123.0,3638841.0
+2047,15_RP,Southeast Asia,Carbon Neutral,1387951.0,1041003.0000000001
+2047,15_RP,Southeast Asia,Reference,320128.0,1336631.0
+2047,16_RUS,Russia,Carbon Neutral,34750370.0,21674293.000000004
+2047,16_RUS,Russia,Reference,6934559.0,50249413.0
+2047,17_SIN,Southeast Asia,Carbon Neutral,454613.0,83798.0
+2047,17_SIN,Southeast Asia,Reference,289458.0,287698.0
+2047,18_CT,Northeast Asia,Carbon Neutral,5397946.0,1435579.0
+2047,18_CT,Northeast Asia,Reference,2288141.0,5758878.0
+2047,19_THA,Southeast Asia,Carbon Neutral,11236668.0,6135304.0
+2047,19_THA,Southeast Asia,Reference,4499575.0,18353151.0
+2047,20_USA,USA,Carbon Neutral,94418287.0,24692365.0
+2047,20_USA,USA,Reference,38141539.0,98577204.0
+2047,21_VN,Southeast Asia,Carbon Neutral,4121092.0,3865197.0
+2047,21_VN,Southeast Asia,Reference,1979906.0,8539743.0
+2048,01_AUS,Oceania,Carbon Neutral,9646430.0,5236032.000000001
+2048,01_AUS,Oceania,Reference,3946770.0,15249318.0
+2048,02_BD,Southeast Asia,Carbon Neutral,182284.0,87432.0
+2048,02_BD,Southeast Asia,Reference,94169.0,220510.0
+2048,03_CDA,Other Americas,Carbon Neutral,10985971.0,2329917.0
+2048,03_CDA,Other Americas,Reference,4642392.0,9876925.0
+2048,04_CHL,Other Americas,Carbon Neutral,5778188.0,1197737.0
+2048,04_CHL,Other Americas,Reference,1974803.0,7030986.0
+2048,05_PRC,China,Carbon Neutral,182754288.0,34087560.0
+2048,05_PRC,China,Reference,87265573.0,116194470.0
+2048,06_HKC,Northeast Asia,Carbon Neutral,525702.0,123324.0
+2048,06_HKC,Northeast Asia,Reference,215491.0,531365.0000000001
+2048,07_INA,Southeast Asia,Carbon Neutral,22497905.0,15550226.0
+2048,07_INA,Southeast Asia,Reference,6039302.0,37825987.0
+2048,08_JPN,Northeast Asia,Carbon Neutral,35374229.0,14443730.0
+2048,08_JPN,Northeast Asia,Reference,13061283.0,41215587.0
+2048,09_ROK,Northeast Asia,Carbon Neutral,16015687.0,3184170.0
+2048,09_ROK,Northeast Asia,Reference,8165654.0,13580129.0
+2048,10_MAS,Southeast Asia,Carbon Neutral,12896032.0,10331064.0
+2048,10_MAS,Southeast Asia,Reference,4986163.0,19090639.0
+2048,11_MEX,Other Americas,Carbon Neutral,24155362.0,11672573.000000002
+2048,11_MEX,Other Americas,Reference,10048086.0,36081677.0
+2048,12_NZ,Oceania,Carbon Neutral,2611902.0,570780.0
+2048,12_NZ,Oceania,Reference,1182357.0,2402637.0
+2048,13_PNG,Oceania,Carbon Neutral,112927.0,280222.0
+2048,13_PNG,Oceania,Reference,58070.0,349711.0
+2048,14_PE,Other Americas,Carbon Neutral,2659233.0,1085319.9999999998
+2048,14_PE,Other Americas,Reference,730432.0,3655888.0
+2048,15_RP,Southeast Asia,Carbon Neutral,1502243.0,990251.0
+2048,15_RP,Southeast Asia,Reference,366135.0,1312737.0
+2048,16_RUS,Russia,Carbon Neutral,36415370.0,20349202.0
+2048,16_RUS,Russia,Reference,8456826.0,49159466.0
+2048,17_SIN,Southeast Asia,Carbon Neutral,462080.0,76257.0
+2048,17_SIN,Southeast Asia,Reference,306356.0,271088.0
+2048,18_CT,Northeast Asia,Carbon Neutral,5516979.0,1312387.0
+2048,18_CT,Northeast Asia,Reference,2500385.0,5550888.0
+2048,19_THA,Southeast Asia,Carbon Neutral,11633533.0,5761642.0
+2048,19_THA,Southeast Asia,Reference,5149047.0,18044721.0
+2048,20_USA,USA,Carbon Neutral,96527288.0,22577341.999999996
+2048,20_USA,USA,Reference,42095883.0,95236649.0
+2048,21_VN,Southeast Asia,Carbon Neutral,4345548.0,3639048.0
+2048,21_VN,Southeast Asia,Reference,2262638.0,8405503.0
+2049,01_AUS,Oceania,Carbon Neutral,10026023.0,4890420.000000001
+2049,01_AUS,Oceania,Reference,4515811.0,14941814.0
+2049,02_BD,Southeast Asia,Carbon Neutral,187559.0,81858.0
+2049,02_BD,Southeast Asia,Reference,102497.0,212892.0
+2049,03_CDA,Other Americas,Carbon Neutral,11258276.0,2127803.0
+2049,03_CDA,Other Americas,Reference,5126861.0,9534729.0
+2049,04_CHL,Other Americas,Carbon Neutral,5954720.0,1094671.0
+2049,04_CHL,Other Americas,Reference,2178959.0,6991149.999999999
+2049,05_PRC,China,Carbon Neutral,185886952.0,31127077.0
+2049,05_PRC,China,Reference,91091533.0,111300863.0
+2049,06_HKC,Northeast Asia,Carbon Neutral,536437.0,112605.0
+2049,06_HKC,Northeast Asia,Reference,237780.0,512293.0
+2049,07_INA,Southeast Asia,Carbon Neutral,24305305.0,14658723.0
+2049,07_INA,Southeast Asia,Reference,7294812.0,37979721.99999999
+2049,08_JPN,Northeast Asia,Carbon Neutral,36408111.0,13248627.0
+2049,08_JPN,Northeast Asia,Reference,14673119.0,39583283.0
+2049,09_ROK,Northeast Asia,Carbon Neutral,16290641.999999998,2905918.0
+2049,09_ROK,Northeast Asia,Reference,8819644.0,12998880.0
+2049,10_MAS,Southeast Asia,Carbon Neutral,13803211.0,9697257.0
+2049,10_MAS,Southeast Asia,Reference,5705536.0,18705434.999999996
+2049,11_MEX,Other Americas,Carbon Neutral,25180981.0,10791093.0
+2049,11_MEX,Other Americas,Reference,11484565.0,35354339.0
+2049,12_NZ,Oceania,Carbon Neutral,2673333.0,521200.0
+2049,12_NZ,Oceania,Reference,1296761.0,2317179.0
+2049,13_PNG,Oceania,Carbon Neutral,124367.0,285985.0
+2049,13_PNG,Oceania,Reference,71635.0,356570.0
+2049,14_PE,Other Americas,Carbon Neutral,2799970.0,1005903.9999999999
+2049,14_PE,Other Americas,Reference,833820.0,3660399.0000000005
+2049,15_RP,Southeast Asia,Carbon Neutral,1617015.0,933628.0
+2049,15_RP,Southeast Asia,Reference,414732.0,1282176.0
+2049,16_RUS,Russia,Carbon Neutral,38142782.0,19031561.0
+2049,16_RUS,Russia,Reference,10227703.0,47901452.0
+2049,17_SIN,Southeast Asia,Carbon Neutral,468854.0,69393.00000000001
+2049,17_SIN,Southeast Asia,Reference,323801.0,253816.0
+2049,18_CT,Northeast Asia,Carbon Neutral,5627368.0,1198278.0
+2049,18_CT,Northeast Asia,Reference,2721087.0,5332561.999999999
+2049,19_THA,Southeast Asia,Carbon Neutral,11995587.0,5385268.999999999
+2049,19_THA,Southeast Asia,Reference,5824087.0,17633152.000000004
+2049,20_USA,USA,Carbon Neutral,98502120.0,20616902.0
+2049,20_USA,USA,Reference,46274243.0,91677202.0
+2049,21_VN,Southeast Asia,Carbon Neutral,4566192.0,3403440.0000000005
+2049,21_VN,Southeast Asia,Reference,2569117.0,8233105.0
+2050,01_AUS,Oceania,Carbon Neutral,10402289.0,4546355.0
+2050,01_AUS,Oceania,Reference,5135228.0,14578020.0
+2050,02_BD,Southeast Asia,Carbon Neutral,192863.0,76249.0
+2050,02_BD,Southeast Asia,Reference,110828.0,204628.99999999997
+2050,03_CDA,Other Americas,Carbon Neutral,11515306.0,1939975.0
+2050,03_CDA,Other Americas,Reference,5632909.0,9169149.0
+2050,04_CHL,Other Americas,Carbon Neutral,6124881.0,998290.0
+2050,04_CHL,Other Americas,Reference,2401746.0,6929216.999999999
+2050,05_PRC,China,Carbon Neutral,188797803.0,28379310.999999996
+2050,05_PRC,China,Reference,94855150.0,106427556.00000001
+2050,06_HKC,Northeast Asia,Carbon Neutral,546406.0,102661.0
+2050,06_HKC,Northeast Asia,Reference,260846.00000000003,492236.0
+2050,07_INA,Southeast Asia,Carbon Neutral,26193725.0,13690319.0
+2050,07_INA,Southeast Asia,Reference,8754880.0,37967868.0
+2050,08_JPN,Northeast Asia,Carbon Neutral,37425011.0,12072073.999999998
+2050,08_JPN,Northeast Asia,Reference,16387101.000000002,37839669.0
+2050,09_ROK,Northeast Asia,Carbon Neutral,16545147.0,2648541.0
+2050,09_ROK,Northeast Asia,Reference,9486919.0,12402136.0
+2050,10_MAS,Southeast Asia,Carbon Neutral,14678810.0,9025995.0
+2050,10_MAS,Southeast Asia,Reference,6452013.0,18221144.0
+2050,11_MEX,Other Americas,Carbon Neutral,26193434.0,9902484.000000002
+2050,11_MEX,Other Americas,Reference,13039841.0,34488224.0
+2050,12_NZ,Oceania,Carbon Neutral,2732554.0,475166.0
+2050,12_NZ,Oceania,Reference,1416505.0,2227703.0
+2050,13_PNG,Oceania,Carbon Neutral,134914.0,289057.0
+2050,13_PNG,Oceania,Reference,85957.0,359316.0
+2050,14_PE,Other Americas,Carbon Neutral,2948024.0,923912.0000000001
+2050,14_PE,Other Americas,Reference,954421.0,3653788.0
+2050,15_RP,Southeast Asia,Carbon Neutral,1737110.0,872035.9999999999
+2050,15_RP,Southeast Asia,Reference,467578.0,1247192.0
+2050,16_RUS,Russia,Carbon Neutral,40123196.0,17727020.0
+2050,16_RUS,Russia,Reference,12366393.0,46560259.0
+2050,17_SIN,Southeast Asia,Carbon Neutral,474998.0,63148.00000000001
+2050,17_SIN,Southeast Asia,Reference,341848.0,235824.0
+2050,18_CT,Northeast Asia,Carbon Neutral,5729890.0,1092435.0
+2050,18_CT,Northeast Asia,Reference,2946033.0,5104901.0
+2050,19_THA,Southeast Asia,Carbon Neutral,12363872.0,5009862.999999999
+2050,19_THA,Southeast Asia,Reference,6587214.0,17179858.0
+2050,20_USA,USA,Carbon Neutral,100358564.0,18797020.0
+2050,20_USA,USA,Reference,50643655.0,87936358.0
+2050,21_VN,Southeast Asia,Carbon Neutral,4791121.0,3160962.0
+2050,21_VN,Southeast Asia,Reference,2903838.0,8030255.0

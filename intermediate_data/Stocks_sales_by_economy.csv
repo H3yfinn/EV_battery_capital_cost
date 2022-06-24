@@ -1,0 +1,1387 @@
+Year,Economy,Region,Scenario,Value,Sales,Unit
+2018,01_AUS,Oceania,Carbon Neutral,0.000426,0.020361,Million
+2018,12_NZ,Oceania,Reference,0.001652,0.010797999999999999,Million
+2018,13_PNG,Oceania,Carbon Neutral,0.0,0.0,Million
+2018,13_PNG,Oceania,Reference,0.0,0.0,Million
+2018,14_PE,Other Americas,Carbon Neutral,0.000849,0.002519,Million
+2018,14_PE,Other Americas,Reference,0.000849,0.002519,Million
+2018,15_RP,Southeast Asia,Carbon Neutral,0.000196,0.00099,Million
+2018,15_RP,Southeast Asia,Reference,0.000196,0.00099,Million
+2018,16_RUS,Russia,Carbon Neutral,0.002833,0.006159999999999999,Million
+2018,12_NZ,Oceania,Carbon Neutral,0.001652,0.010797999999999999,Million
+2018,17_SIN,Southeast Asia,Carbon Neutral,0.000134,0.003133,Million
+2018,18_CT,Northeast Asia,Carbon Neutral,0.00094,0.011216,Million
+2018,18_CT,Northeast Asia,Reference,0.00094,0.011216,Million
+2018,19_THA,Southeast Asia,Carbon Neutral,0.027127,0.028315,Million
+2018,19_THA,Southeast Asia,Reference,0.027127,0.028315,Million
+2018,20_USA,USA,Carbon Neutral,0.39153,0.292746,Million
+2018,20_USA,USA,Reference,0.391905,0.29636999999999997,Million
+2018,21_VN,Southeast Asia,Carbon Neutral,0.00061,0.0013380000000000002,Million
+2018,21_VN,Southeast Asia,Reference,0.00061,0.0013380000000000002,Million
+2018,17_SIN,Southeast Asia,Reference,0.000134,0.003133,Million
+2018,11_MEX,Other Americas,Reference,0.007602,0.022972,Million
+2018,16_RUS,Russia,Reference,0.002833,0.006159999999999999,Million
+2018,10_MAS,Southeast Asia,Reference,0.00046,0.001634,Million
+2018,11_MEX,Other Americas,Carbon Neutral,0.007602,0.022972,Million
+2018,01_AUS,Oceania,Reference,0.000426,0.020361,Million
+2018,02_BD,Southeast Asia,Carbon Neutral,8e-05,0.000101,Million
+2018,02_BD,Southeast Asia,Reference,8e-05,0.000101,Million
+2018,03_CDA,Other Americas,Carbon Neutral,0.004908,0.033891,Million
+2018,03_CDA,Other Americas,Reference,0.004908,0.033891,Million
+2018,04_CHL,Other Americas,Reference,0.001438,0.003536,Million
+2018,05_PRC,China,Carbon Neutral,4.540679,6.539145,Million
+2018,05_PRC,China,Reference,4.540679,6.539145,Million
+2018,04_CHL,Other Americas,Carbon Neutral,0.000175,0.000294,Million
+2018,09_ROK,Northeast Asia,Reference,0.008393,0.044942,Million
+2018,06_HKC,Northeast Asia,Reference,0.004439,0.0006119999999999997,Million
+2018,07_INA,Southeast Asia,Carbon Neutral,0.005513,0.014012,Million
+2018,07_INA,Southeast Asia,Reference,0.005513,0.014012,Million
+2018,08_JPN,Northeast Asia,Carbon Neutral,0.050273,0.085545,Million
+2018,08_JPN,Northeast Asia,Reference,0.050273,0.296267,Million
+2018,09_ROK,Northeast Asia,Carbon Neutral,0.008943,0.048911,Million
+2018,06_HKC,Northeast Asia,Carbon Neutral,0.00414,1.1000000000000593e-05,Million
+2018,10_MAS,Southeast Asia,Carbon Neutral,0.00046,0.001634,Million
+2019,15_RP,Southeast Asia,Reference,0.001186,0.00099,Million
+2019,15_RP,Southeast Asia,Carbon Neutral,0.001186,0.00099,Million
+2019,14_PE,Other Americas,Reference,0.003368,0.002519,Million
+2019,12_NZ,Oceania,Reference,0.01245,0.010797999999999999,Million
+2019,13_PNG,Oceania,Reference,0.0,0.0,Million
+2019,13_PNG,Oceania,Carbon Neutral,0.0,0.0,Million
+2019,16_RUS,Russia,Carbon Neutral,0.008993,0.006159999999999999,Million
+2019,14_PE,Other Americas,Carbon Neutral,0.003368,0.002519,Million
+2019,16_RUS,Russia,Reference,0.008993,0.006159999999999999,Million
+2019,21_VN,Southeast Asia,Reference,0.001948,0.0013380000000000002,Million
+2019,17_SIN,Southeast Asia,Reference,0.003267,0.003133,Million
+2019,18_CT,Northeast Asia,Carbon Neutral,0.012156,0.011216,Million
+2019,18_CT,Northeast Asia,Reference,0.012156,0.011216,Million
+2019,19_THA,Southeast Asia,Carbon Neutral,0.055442,0.028315,Million
+2019,19_THA,Southeast Asia,Reference,0.055442,0.028315,Million
+2019,20_USA,USA,Carbon Neutral,0.684276,0.292746,Million
+2019,20_USA,USA,Reference,0.688275,0.29636999999999997,Million
+2019,21_VN,Southeast Asia,Carbon Neutral,0.001948,0.0013380000000000002,Million
+2019,12_NZ,Oceania,Carbon Neutral,0.01245,0.010797999999999999,Million
+2019,17_SIN,Southeast Asia,Carbon Neutral,0.003267,0.003133,Million
+2019,11_MEX,Other Americas,Reference,0.030574,0.022972,Million
+2019,06_HKC,Northeast Asia,Carbon Neutral,0.004151,1.1000000000000593e-05,Million
+2019,10_MAS,Southeast Asia,Reference,0.002094,0.001634,Million
+2019,11_MEX,Other Americas,Carbon Neutral,0.030574,0.022972,Million
+2019,01_AUS,Oceania,Carbon Neutral,0.020787,0.020361,Million
+2019,01_AUS,Oceania,Reference,0.020787,0.020361,Million
+2019,02_BD,Southeast Asia,Carbon Neutral,0.000181,0.000101,Million
+2019,02_BD,Southeast Asia,Reference,0.000181,0.000101,Million
+2019,03_CDA,Other Americas,Carbon Neutral,0.038799,0.033891,Million
+2019,04_CHL,Other Americas,Carbon Neutral,0.000469,0.000294,Million
+2019,04_CHL,Other Americas,Reference,0.004974,0.003536,Million
+2019,05_PRC,China,Carbon Neutral,11.079824,6.539145,Million
+2019,03_CDA,Other Americas,Reference,0.038799,0.033891,Million
+2019,09_ROK,Northeast Asia,Reference,0.053335,0.044942,Million
+2019,06_HKC,Northeast Asia,Reference,0.005051,0.0006119999999999997,Million
+2019,07_INA,Southeast Asia,Carbon Neutral,0.019525,0.014012,Million
+2019,07_INA,Southeast Asia,Reference,0.019525,0.014012,Million
+2019,08_JPN,Northeast Asia,Carbon Neutral,0.135818,0.085545,Million
+2019,08_JPN,Northeast Asia,Reference,0.34654,0.296267,Million
+2019,09_ROK,Northeast Asia,Carbon Neutral,0.057854,0.048911,Million
+2019,05_PRC,China,Reference,11.079824,6.539145,Million
+2019,10_MAS,Southeast Asia,Carbon Neutral,0.002094,0.001634,Million
+2020,15_RP,Southeast Asia,Reference,0.002048,0.0008619999999999999,Million
+2020,15_RP,Southeast Asia,Carbon Neutral,0.002048,0.0008619999999999999,Million
+2020,14_PE,Other Americas,Reference,0.005368,0.0020000000000000005,Million
+2020,12_NZ,Oceania,Reference,0.021997,0.009547,Million
+2020,13_PNG,Oceania,Reference,0.0,0.0,Million
+2020,13_PNG,Oceania,Carbon Neutral,0.0,0.0,Million
+2020,16_RUS,Russia,Carbon Neutral,0.014143,0.00515,Million
+2020,14_PE,Other Americas,Carbon Neutral,0.005368,0.0020000000000000005,Million
+2020,16_RUS,Russia,Reference,0.014143,0.00515,Million
+2020,21_VN,Southeast Asia,Reference,0.002694,0.0007460000000000001,Million
+2020,17_SIN,Southeast Asia,Reference,0.00644,0.0031730000000000005,Million
+2020,18_CT,Northeast Asia,Carbon Neutral,0.021655,0.009499,Million
+2020,18_CT,Northeast Asia,Reference,0.021655,0.009499,Million
+2020,19_THA,Southeast Asia,Carbon Neutral,0.073704,0.018262000000000007,Million
+2020,19_THA,Southeast Asia,Reference,0.073704,0.018262000000000007,Million
+2020,20_USA,USA,Carbon Neutral,0.936428,0.25215200000000004,Million
+2020,20_USA,USA,Reference,0.946407,0.25813200000000003,Million
+2020,21_VN,Southeast Asia,Carbon Neutral,0.002694,0.0007460000000000001,Million
+2020,12_NZ,Oceania,Carbon Neutral,0.021997,0.009547,Million
+2020,17_SIN,Southeast Asia,Carbon Neutral,0.00644,0.0031730000000000005,Million
+2020,11_MEX,Other Americas,Reference,0.05128,0.020706,Million
+2020,06_HKC,Northeast Asia,Carbon Neutral,0.004229,7.799999999999994e-05,Million
+2020,10_MAS,Southeast Asia,Reference,0.003703,0.0016090000000000002,Million
+2020,01_AUS,Oceania,Reference,0.039447,0.018660000000000003,Million
+2020,02_BD,Southeast Asia,Carbon Neutral,0.000276,9.499999999999998e-05,Million
+2020,02_BD,Southeast Asia,Reference,0.000276,9.499999999999998e-05,Million
+2020,03_CDA,Other Americas,Carbon Neutral,0.071887,0.033088000000000006,Million
+2020,03_CDA,Other Americas,Reference,0.071887,0.033088000000000006,Million
+2020,04_CHL,Other Americas,Carbon Neutral,0.000785,0.000316,Million
+2020,04_CHL,Other Americas,Reference,0.008484,0.00351,Million
+2020,05_PRC,China,Carbon Neutral,11.15,0.07017600000000002,Million
+2020,05_PRC,China,Reference,11.15,0.07017600000000002,Million
+2020,01_AUS,Oceania,Carbon Neutral,0.039447,0.018660000000000003,Million
+2020,06_HKC,Northeast Asia,Reference,0.005744,0.000693,Million
+2020,10_MAS,Southeast Asia,Carbon Neutral,0.003703,0.0016090000000000002,Million
+2020,09_ROK,Northeast Asia,Reference,0.090894,0.037559,Million
+2020,09_ROK,Northeast Asia,Carbon Neutral,0.100328,0.042474,Million
+2020,11_MEX,Other Americas,Carbon Neutral,0.05128,0.020706,Million
+2020,08_JPN,Northeast Asia,Carbon Neutral,0.223386,0.08756800000000001,Million
+2020,07_INA,Southeast Asia,Reference,0.027725,0.008199999999999999,Million
+2020,07_INA,Southeast Asia,Carbon Neutral,0.027725,0.008199999999999999,Million
+2020,08_JPN,Northeast Asia,Reference,0.617429,0.270889,Million
+2021,12_NZ,Oceania,Reference,0.031279,0.009282000000000002,Million
+2021,13_PNG,Oceania,Carbon Neutral,0.0,0.0,Million
+2021,13_PNG,Oceania,Reference,0.0,0.0,Million
+2021,14_PE,Other Americas,Carbon Neutral,0.007388,0.0020199999999999992,Million
+2021,14_PE,Other Americas,Reference,0.007483,0.0021149999999999997,Million
+2021,15_RP,Southeast Asia,Carbon Neutral,0.002962,0.0009139999999999999,Million
+2021,15_RP,Southeast Asia,Reference,0.002962,0.0009139999999999999,Million
+2021,16_RUS,Russia,Carbon Neutral,0.020076,0.005933000000000001,Million
+2021,16_RUS,Russia,Reference,0.020076,0.005933000000000001,Million
+2021,17_SIN,Southeast Asia,Reference,0.009756,0.0033160000000000004,Million
+2021,18_CT,Northeast Asia,Carbon Neutral,0.031331,0.009675999999999997,Million
+2021,21_VN,Southeast Asia,Reference,0.003581,0.0008869999999999998,Million
+2021,19_THA,Southeast Asia,Carbon Neutral,0.092061,0.018357,Million
+2021,19_THA,Southeast Asia,Reference,0.092061,0.018357,Million
+2021,20_USA,USA,Carbon Neutral,1.183377,0.24694899999999986,Million
+2021,20_USA,USA,Reference,1.202478,0.25607099999999994,Million
+2021,21_VN,Southeast Asia,Carbon Neutral,0.003581,0.0008869999999999998,Million
+2021,12_NZ,Oceania,Carbon Neutral,0.031279,0.009282000000000002,Million
+2021,17_SIN,Southeast Asia,Carbon Neutral,0.009756,0.0033160000000000004,Million
+2021,18_CT,Northeast Asia,Reference,0.031331,0.009675999999999997,Million
+2021,11_MEX,Other Americas,Reference,0.073353,0.022073000000000002,Million
+2021,10_MAS,Southeast Asia,Reference,0.005638,0.0019349999999999997,Million
+2021,11_MEX,Other Americas,Carbon Neutral,0.073353,0.022073000000000002,Million
+2021,01_AUS,Oceania,Carbon Neutral,0.058506,0.019059,Million
+2021,01_AUS,Oceania,Reference,0.058506,0.019059,Million
+2021,02_BD,Southeast Asia,Carbon Neutral,0.000384,0.00010800000000000002,Million
+2021,02_BD,Southeast Asia,Reference,0.000384,0.00010800000000000002,Million
+2021,03_CDA,Other Americas,Carbon Neutral,0.104381,0.032493999999999995,Million
+2021,04_CHL,Other Americas,Carbon Neutral,0.001152,0.00036700000000000003,Million
+2021,04_CHL,Other Americas,Reference,0.012216,0.003731999999999999,Million
+2021,05_PRC,China,Carbon Neutral,11.365211,0.21521100000000004,Million
+2021,03_CDA,Other Americas,Reference,0.104381,0.032493999999999995,Million
+2021,06_HKC,Northeast Asia,Carbon Neutral,0.004379,0.00014999999999999996,Million
+2021,05_PRC,China,Reference,11.365211,0.21521100000000004,Million
+2021,09_ROK,Northeast Asia,Reference,0.128539,0.037644999999999984,Million
+2021,09_ROK,Northeast Asia,Carbon Neutral,0.142912,0.04258400000000001,Million
+2021,08_JPN,Northeast Asia,Reference,0.866315,0.24888599999999994,Million
+2021,10_MAS,Southeast Asia,Carbon Neutral,0.005638,0.0019349999999999997,Million
+2021,07_INA,Southeast Asia,Reference,0.036177,0.008452000000000001,Million
+2021,07_INA,Southeast Asia,Carbon Neutral,0.036177,0.008452000000000001,Million
+2021,06_HKC,Northeast Asia,Reference,0.00653,0.0007860000000000002,Million
+2021,08_JPN,Northeast Asia,Carbon Neutral,0.314355,0.090969,Million
+2022,16_RUS,Russia,Carbon Neutral,0.032337,0.012260999999999998,Million
+2022,12_NZ,Oceania,Reference,0.041054,0.009774999999999999,Million
+2022,13_PNG,Oceania,Carbon Neutral,0.0,0.0,Million
+2022,13_PNG,Oceania,Reference,0.0,0.0,Million
+2022,14_PE,Other Americas,Carbon Neutral,0.011073,0.003685,Million
+2022,14_PE,Other Americas,Reference,0.011203,0.0037199999999999993,Million
+2022,15_RP,Southeast Asia,Carbon Neutral,0.004263,0.0013010000000000005,Million
+2022,15_RP,Southeast Asia,Reference,0.004254,0.0012920000000000002,Million
+2022,16_RUS,Russia,Reference,0.032096,0.01202,Million
+2022,12_NZ,Oceania,Carbon Neutral,0.041054,0.009774999999999999,Million
+2022,17_SIN,Southeast Asia,Reference,0.013436,0.0036799999999999992,Million
+2022,18_CT,Northeast Asia,Carbon Neutral,0.043403,0.012072,Million
+2022,18_CT,Northeast Asia,Reference,0.043265,0.011934,Million
+2022,19_THA,Southeast Asia,Carbon Neutral,0.132434,0.04037299999999999,Million
+2022,19_THA,Southeast Asia,Reference,0.13158,0.039519,Million
+2022,20_USA,USA,Carbon Neutral,1.470468,0.2870910000000002,Million
+2022,20_USA,USA,Reference,1.49905,0.29657200000000006,Million
+2022,21_VN,Southeast Asia,Carbon Neutral,0.006045,0.002464,Million
+2022,21_VN,Southeast Asia,Reference,0.006005,0.002424,Million
+2022,17_SIN,Southeast Asia,Carbon Neutral,0.013436,0.0036799999999999992,Million
+2022,11_MEX,Other Americas,Reference,0.105246,0.031893000000000005,Million
+2022,06_HKC,Northeast Asia,Carbon Neutral,0.004882,0.000503,Million
+2022,10_MAS,Southeast Asia,Reference,0.010451,0.0048130000000000004,Million
+2022,01_AUS,Oceania,Carbon Neutral,0.080062,0.021555999999999992,Million
+2022,01_AUS,Oceania,Reference,0.07998,0.021473999999999993,Million
+2022,02_BD,Southeast Asia,Carbon Neutral,0.000613,0.00022900000000000004,Million
+2022,02_BD,Southeast Asia,Reference,0.000609,0.00022499999999999994,Million
+2022,03_CDA,Other Americas,Carbon Neutral,0.138046,0.033665,Million
+2022,03_CDA,Other Americas,Reference,0.138046,0.033665,Million
+2022,04_CHL,Other Americas,Carbon Neutral,0.001802,0.00065,Million
+2022,04_CHL,Other Americas,Reference,0.017974,0.005758000000000001,Million
+2022,05_PRC,China,Carbon Neutral,12.546857,1.1816459999999989,Million
+2022,11_MEX,Other Americas,Carbon Neutral,0.105611,0.032257999999999995,Million
+2022,10_MAS,Southeast Asia,Carbon Neutral,0.010524,0.004886000000000001,Million
+2022,06_HKC,Northeast Asia,Reference,0.00798,0.001449999999999999,Million
+2022,07_INA,Southeast Asia,Carbon Neutral,0.055496,0.019318999999999996,Million
+2022,07_INA,Southeast Asia,Reference,0.053501,0.017324,Million
+2022,08_JPN,Northeast Asia,Carbon Neutral,0.410183,0.09582800000000002,Million
+2022,08_JPN,Northeast Asia,Reference,1.096271,0.22995600000000005,Million
+2022,09_ROK,Northeast Asia,Carbon Neutral,0.199063,0.05615099999999998,Million
+2022,09_ROK,Northeast Asia,Reference,0.177186,0.048647000000000024,Million
+2022,05_PRC,China,Reference,12.546857,1.1816459999999989,Million
+2023,15_RP,Southeast Asia,Reference,0.005719,0.0014650000000000002,Million
+2023,15_RP,Southeast Asia,Carbon Neutral,0.005908,0.0016449999999999998,Million
+2023,14_PE,Other Americas,Reference,0.015348,0.004145000000000001,Million
+2023,14_PE,Other Americas,Carbon Neutral,0.016243,0.005170000000000001,Million
+2023,13_PNG,Oceania,Carbon Neutral,0.0,0.0,Million
+2023,12_NZ,Oceania,Reference,0.051434,0.01038,Million
+2023,16_RUS,Russia,Carbon Neutral,0.048207,0.015870000000000002,Million
+2023,13_PNG,Oceania,Reference,0.0,0.0,Million
+2023,16_RUS,Russia,Reference,0.04391,0.011813999999999998,Million
+2023,19_THA,Southeast Asia,Carbon Neutral,0.184932,0.05249800000000002,Million
+2023,17_SIN,Southeast Asia,Reference,0.01738,0.003944,Million
+2023,18_CT,Northeast Asia,Carbon Neutral,0.05934,0.015937,Million
+2023,18_CT,Northeast Asia,Reference,0.05699,0.013725000000000001,Million
+2023,12_NZ,Oceania,Carbon Neutral,0.051841,0.010786999999999998,Million
+2023,19_THA,Southeast Asia,Reference,0.172723,0.041142999999999985,Million
+2023,20_USA,USA,Carbon Neutral,1.825855,0.3553869999999999,Million
+2023,20_USA,USA,Reference,1.822144,0.323094,Million
+2023,21_VN,Southeast Asia,Carbon Neutral,0.010114,0.004069,Million
+2023,21_VN,Southeast Asia,Reference,0.00932,0.0033150000000000002,Million
+2023,17_SIN,Southeast Asia,Carbon Neutral,0.017542,0.0041059999999999985,Million
+2023,11_MEX,Other Americas,Reference,0.141567,0.03632099999999999,Million
+2023,11_MEX,Other Americas,Carbon Neutral,0.148401,0.04279000000000001,Million
+2023,10_MAS,Southeast Asia,Reference,0.016992,0.006541,Million
+2023,01_AUS,Oceania,Reference,0.102566,0.02258600000000001,Million
+2023,02_BD,Southeast Asia,Carbon Neutral,0.000957,0.0003439999999999999,Million
+2023,02_BD,Southeast Asia,Reference,0.000877,0.000268,Million
+2023,03_CDA,Other Americas,Carbon Neutral,0.171834,0.033787999999999985,Million
+2023,03_CDA,Other Americas,Reference,0.171834,0.033787999999999985,Million
+2023,04_CHL,Other Americas,Carbon Neutral,0.002962,0.0011599999999999998,Million
+2023,04_CHL,Other Americas,Reference,0.024917,0.006943000000000001,Million
+2023,05_PRC,China,Carbon Neutral,14.317384,1.7705270000000013,Million
+2023,05_PRC,China,Reference,13.982744,1.435887000000001,Million
+2023,01_AUS,Oceania,Carbon Neutral,0.104832,0.02477,Million
+2023,06_HKC,Northeast Asia,Reference,0.009419,0.001439000000000001,Million
+2023,07_INA,Southeast Asia,Carbon Neutral,0.083931,0.02843500000000001,Million
+2023,07_INA,Southeast Asia,Reference,0.07108,0.017579000000000004,Million
+2023,08_JPN,Northeast Asia,Carbon Neutral,0.538971,0.12878799999999996,Million
+2023,08_JPN,Northeast Asia,Reference,1.309936,0.213665,Million
+2023,09_ROK,Northeast Asia,Carbon Neutral,0.280942,0.08187900000000004,Million
+2023,09_ROK,Northeast Asia,Reference,0.233273,0.056087,Million
+2023,10_MAS,Southeast Asia,Carbon Neutral,0.018416,0.007891999999999998,Million
+2023,06_HKC,Northeast Asia,Carbon Neutral,0.005651,0.0007689999999999997,Million
+2024,15_RP,Southeast Asia,Reference,0.007613,0.0018939999999999999,Million
+2024,15_RP,Southeast Asia,Carbon Neutral,0.009913,0.004005,Million
+2024,14_PE,Other Americas,Reference,0.020305,0.004957,Million
+2024,12_NZ,Oceania,Reference,0.063811,0.012377000000000006,Million
+2024,13_PNG,Oceania,Reference,0.0,0.0,Million
+2024,13_PNG,Oceania,Carbon Neutral,0.0,0.0,Million
+2024,16_RUS,Russia,Carbon Neutral,0.089893,0.041686,Million
+2024,14_PE,Other Americas,Carbon Neutral,0.025624,0.009381,Million
+2024,16_RUS,Russia,Reference,0.057868,0.013958000000000005,Million
+2024,18_CT,Northeast Asia,Reference,0.075721,0.018730999999999998,Million
+2024,17_SIN,Southeast Asia,Reference,0.02163,0.00425,Million
+2024,18_CT,Northeast Asia,Carbon Neutral,0.090823,0.031483000000000004,Million
+2024,19_THA,Southeast Asia,Carbon Neutral,0.279173,0.09424099999999999,Million
+2024,19_THA,Southeast Asia,Reference,0.220274,0.04755100000000001,Million
+2024,20_USA,USA,Carbon Neutral,2.474461,0.6486059999999998,Million
+2024,20_USA,USA,Reference,2.223375,0.4012309999999999,Million
+2024,21_VN,Southeast Asia,Carbon Neutral,0.019307,0.009193000000000002,Million
+2024,12_NZ,Oceania,Carbon Neutral,0.072033,0.020192,Million
+2024,17_SIN,Southeast Asia,Carbon Neutral,0.026465,0.008923,Million
+2024,21_VN,Southeast Asia,Reference,0.014657,0.005337,Million
+2024,11_MEX,Other Americas,Reference,0.189228,0.04766100000000001,Million
+2024,10_MAS,Southeast Asia,Reference,0.027684,0.010692,Million
+2024,01_AUS,Oceania,Carbon Neutral,0.150172,0.045340000000000005,Million
+2024,01_AUS,Oceania,Reference,0.129397,0.026831000000000008,Million
+2024,02_BD,Southeast Asia,Carbon Neutral,0.001649,0.0006920000000000001,Million
+2024,02_BD,Southeast Asia,Reference,0.001203,0.0003260000000000001,Million
+2024,03_CDA,Other Americas,Carbon Neutral,0.237416,0.065582,Million
+2024,03_CDA,Other Americas,Reference,0.213199,0.04136500000000001,Million
+2024,04_CHL,Other Americas,Carbon Neutral,0.006555,0.0035930000000000003,Million
+2024,04_CHL,Other Americas,Reference,0.034841,0.009923999999999995,Million
+2024,05_PRC,China,Carbon Neutral,17.475129,3.1577449999999985,Million
+2024,11_MEX,Other Americas,Carbon Neutral,0.234701,0.08629999999999999,Million
+2024,06_HKC,Northeast Asia,Carbon Neutral,0.007574,0.0019230000000000002,Million
+2024,06_HKC,Northeast Asia,Reference,0.011023,0.0016039999999999995,Million
+2024,07_INA,Southeast Asia,Carbon Neutral,0.138609,0.054678000000000004,Million
+2024,07_INA,Southeast Asia,Reference,0.089859,0.01877899999999999,Million
+2024,08_JPN,Northeast Asia,Carbon Neutral,0.76524,0.22626900000000005,Million
+2024,08_JPN,Northeast Asia,Reference,1.515727,0.20579100000000006,Million
+2024,09_ROK,Northeast Asia,Carbon Neutral,0.425051,0.144109,Million
+2024,09_ROK,Northeast Asia,Reference,0.305551,0.07227800000000001,Million
+2024,10_MAS,Southeast Asia,Carbon Neutral,0.036357,0.017941000000000002,Million
+2024,05_PRC,China,Reference,15.626872,1.6441280000000003,Million
+2025,15_RP,Southeast Asia,Carbon Neutral,0.017793,0.00788,Million
+2025,14_PE,Other Americas,Reference,0.027094,0.006789,Million
+2025,14_PE,Other Americas,Carbon Neutral,0.043624,0.018000000000000002,Million
+2025,12_NZ,Oceania,Carbon Neutral,0.106614,0.034581,Million
+2025,13_PNG,Oceania,Carbon Neutral,3e-06,3e-06,Million
+2025,12_NZ,Oceania,Reference,0.079492,0.015680999999999987,Million
+2025,15_RP,Southeast Asia,Reference,0.010222,0.002609,Million
+2025,13_PNG,Oceania,Reference,1e-06,1e-06,Million
+2025,16_RUS,Russia,Carbon Neutral,0.208627,0.118734,Million
+2025,18_CT,Northeast Asia,Reference,0.102964,0.027243000000000003,Million
+2025,17_SIN,Southeast Asia,Carbon Neutral,0.0388,0.012335000000000002,Million
+2025,17_SIN,Southeast Asia,Reference,0.026242,0.0046120000000000015,Million
+2025,18_CT,Northeast Asia,Carbon Neutral,0.157802,0.066979,Million
+2025,19_THA,Southeast Asia,Carbon Neutral,0.419,0.13982699999999998,Million
+2025,19_THA,Southeast Asia,Reference,0.272774,0.05250000000000002,Million
+2025,20_USA,USA,Carbon Neutral,3.607137,1.132676,Million
+2025,20_USA,USA,Reference,2.756492,0.5331170000000003,Million
+2025,21_VN,Southeast Asia,Carbon Neutral,0.041789,0.022482,Million
+2025,11_MEX,Other Americas,Reference,0.255991,0.06676300000000002,Million
+2025,16_RUS,Russia,Reference,0.074126,0.016257999999999995,Million
+2025,21_VN,Southeast Asia,Reference,0.023903,0.009246,Million
+2025,11_MEX,Other Americas,Carbon Neutral,0.403891,0.16919,Million
+2025,10_MAS,Southeast Asia,Carbon Neutral,0.081296,0.04493899999999999,Million
+2025,10_MAS,Southeast Asia,Reference,0.046681,0.018997,Million
+2025,01_AUS,Oceania,Carbon Neutral,0.240711,0.09053900000000001,Million
+2025,01_AUS,Oceania,Reference,0.163185,0.033787999999999985,Million
+2025,02_BD,Southeast Asia,Carbon Neutral,0.003116,0.0014669999999999998,Million
+2025,02_BD,Southeast Asia,Reference,0.001598,0.00039499999999999995,Million
+2025,03_CDA,Other Americas,Reference,0.26715,0.053951,Million
+2025,04_CHL,Other Americas,Carbon Neutral,0.018361,0.011805999999999999,Million
+2025,04_CHL,Other Americas,Reference,0.05048,0.015639,Million
+2025,05_PRC,China,Carbon Neutral,22.680201,5.205072000000001,Million
+2025,03_CDA,Other Americas,Carbon Neutral,0.363993,0.12657700000000002,Million
+2025,06_HKC,Northeast Asia,Carbon Neutral,0.012435,0.004861,Million
+2025,06_HKC,Northeast Asia,Reference,0.012991,0.001968000000000001,Million
+2025,07_INA,Southeast Asia,Carbon Neutral,0.236498,0.097889,Million
+2025,07_INA,Southeast Asia,Reference,0.110207,0.020348000000000005,Million
+2025,08_JPN,Northeast Asia,Carbon Neutral,1.20527,0.44003000000000003,Million
+2025,08_JPN,Northeast Asia,Reference,1.721633,0.20590599999999992,Million
+2025,09_ROK,Northeast Asia,Carbon Neutral,0.69599,0.270939,Million
+2025,05_PRC,China,Reference,17.519323,1.8924509999999994,Million
+2025,09_ROK,Northeast Asia,Reference,0.405579,0.100028,Million
+2026,15_RP,Southeast Asia,Reference,0.013741,0.0035189999999999996,Million
+2026,15_RP,Southeast Asia,Carbon Neutral,0.032292,0.014499000000000001,Million
+2026,14_PE,Other Americas,Reference,0.036235,0.009141000000000003,Million
+2026,12_NZ,Oceania,Reference,0.099411,0.019919000000000006,Million
+2026,13_PNG,Oceania,Reference,1.3e-05,1.1999999999999999e-05,Million
+2026,13_PNG,Oceania,Carbon Neutral,4.6e-05,4.3e-05,Million
+2026,16_RUS,Russia,Carbon Neutral,0.532922,0.324295,Million
+2026,14_PE,Other Americas,Carbon Neutral,0.078871,0.035246999999999994,Million
+2026,16_RUS,Russia,Reference,0.093412,0.019285999999999998,Million
+2026,21_VN,Southeast Asia,Reference,0.039351,0.015447999999999996,Million
+2026,17_SIN,Southeast Asia,Reference,0.031336,0.005094000000000001,Million
+2026,18_CT,Northeast Asia,Carbon Neutral,0.266619,0.108817,Million
+2026,18_CT,Northeast Asia,Reference,0.142084,0.03911999999999999,Million
+2026,19_THA,Southeast Asia,Carbon Neutral,0.671893,0.252893,Million
+2026,19_THA,Southeast Asia,Reference,0.337554,0.06478,Million
+2026,20_USA,USA,Carbon Neutral,5.700996,2.093859,Million
+2026,20_USA,USA,Reference,3.463286,0.7067939999999999,Million
+2026,21_VN,Southeast Asia,Carbon Neutral,0.08603,0.044240999999999996,Million
+2026,12_NZ,Oceania,Carbon Neutral,0.167745,0.061131000000000005,Million
+2026,17_SIN,Southeast Asia,Carbon Neutral,0.053555,0.014754999999999997,Million
+2026,11_MEX,Other Americas,Reference,0.349318,0.093327,Million
+2026,06_HKC,Northeast Asia,Carbon Neutral,0.020156,0.007721,Million
+2026,10_MAS,Southeast Asia,Reference,0.078207,0.031526,Million
+2026,01_AUS,Oceania,Carbon Neutral,0.398329,0.15761799999999998,Million
+2026,01_AUS,Oceania,Reference,0.20632,0.04313500000000001,Million
+2026,02_BD,Southeast Asia,Carbon Neutral,0.00584,0.002724,Million
+2026,02_BD,Southeast Asia,Reference,0.00208,0.0004819999999999998,Million
+2026,03_CDA,Other Americas,Carbon Neutral,0.594982,0.230989,Million
+2026,03_CDA,Other Americas,Reference,0.337851,0.07070100000000001,Million
+2026,04_CHL,Other Americas,Carbon Neutral,0.056506,0.038145,Million
+2026,04_CHL,Other Americas,Reference,0.074854,0.024374000000000007,Million
+2026,05_PRC,China,Carbon Neutral,28.415697,5.735496000000001,Million
+2026,11_MEX,Other Americas,Carbon Neutral,0.733499,0.329608,Million
+2026,05_PRC,China,Reference,19.232979,1.7136560000000003,Million
+2026,06_HKC,Northeast Asia,Reference,0.014909,0.0019179999999999996,Million
+2026,07_INA,Southeast Asia,Carbon Neutral,0.445228,0.20873,Million
+2026,07_INA,Southeast Asia,Reference,0.132709,0.022501999999999994,Million
+2026,08_JPN,Northeast Asia,Carbon Neutral,2.02546,0.8201899999999998,Million
+2026,08_JPN,Northeast Asia,Reference,1.930419,0.20878600000000014,Million
+2026,09_ROK,Northeast Asia,Carbon Neutral,1.139679,0.4436890000000001,Million
+2026,09_ROK,Northeast Asia,Reference,0.546404,0.14082499999999998,Million
+2026,10_MAS,Southeast Asia,Carbon Neutral,0.18136,0.100064,Million
+2027,16_RUS,Russia,Carbon Neutral,1.220079,0.6871569999999999,Million
+2027,15_RP,Southeast Asia,Reference,0.01833,0.004588999999999999,Million
+2027,15_RP,Southeast Asia,Carbon Neutral,0.05616,0.023868,Million
+2027,14_PE,Other Americas,Reference,0.048032,0.011796999999999995,Million
+2027,14_PE,Other Americas,Carbon Neutral,0.138926,0.060055,Million
+2027,13_PNG,Oceania,Carbon Neutral,0.000293,0.00024700000000000004,Million
+2027,12_NZ,Oceania,Reference,0.123693,0.024281999999999998,Million
+2027,16_RUS,Russia,Reference,0.115086,0.021674,Million
+2027,13_PNG,Oceania,Reference,6.4e-05,5.1e-05,Million
+2027,17_SIN,Southeast Asia,Carbon Neutral,0.07105,0.017495000000000004,Million
+2027,19_THA,Southeast Asia,Reference,0.411524,0.07396999999999998,Million
+2027,18_CT,Northeast Asia,Carbon Neutral,0.453475,0.18685600000000002,Million
+2027,18_CT,Northeast Asia,Reference,0.195099,0.05301500000000001,Million
+2027,19_THA,Southeast Asia,Carbon Neutral,1.051822,0.37992900000000007,Million
+2027,12_NZ,Oceania,Carbon Neutral,0.261091,0.09334600000000001,Million
+2027,20_USA,USA,Carbon Neutral,9.015021,3.314025000000001,Million
+2027,20_USA,USA,Reference,4.356087,0.8928009999999995,Million
+2027,21_VN,Southeast Asia,Carbon Neutral,0.169761,0.083731,Million
+2027,21_VN,Southeast Asia,Reference,0.062849,0.023498000000000005,Million
+2027,17_SIN,Southeast Asia,Reference,0.03691,0.005573999999999996,Million
+2027,11_MEX,Other Americas,Reference,0.472845,0.123527,Million
+2027,11_MEX,Other Americas,Carbon Neutral,1.323888,0.5903889999999999,Million
+2027,10_MAS,Southeast Asia,Reference,0.129121,0.050914000000000015,Million
+2027,01_AUS,Oceania,Carbon Neutral,0.664335,0.266006,Million
+2027,01_AUS,Oceania,Reference,0.259219,0.052898999999999974,Million
+2027,02_BD,Southeast Asia,Carbon Neutral,0.010436,0.004596000000000001,Million
+2027,02_BD,Southeast Asia,Reference,0.002669,0.0005890000000000001,Million
+2027,03_CDA,Other Americas,Carbon Neutral,0.956667,0.36168500000000003,Million
+2027,03_CDA,Other Americas,Reference,0.426303,0.08845199999999998,Million
+2027,04_CHL,Other Americas,Reference,0.111057,0.036203,Million
+2027,05_PRC,China,Carbon Neutral,36.02622,7.610523000000001,Million
+2027,05_PRC,China,Reference,20.945201,1.7122220000000006,Million
+2027,04_CHL,Other Americas,Carbon Neutral,0.157711,0.10120499999999999,Million
+2027,06_HKC,Northeast Asia,Reference,0.01714,0.0022309999999999986,Million
+2027,10_MAS,Southeast Asia,Carbon Neutral,0.384303,0.202943,Million
+2027,06_HKC,Northeast Asia,Carbon Neutral,0.035323,0.015167,Million
+2027,09_ROK,Northeast Asia,Carbon Neutral,1.806661,0.666982,Million
+2027,08_JPN,Northeast Asia,Reference,2.140548,0.2101289999999998,Million
+2027,09_ROK,Northeast Asia,Reference,0.730617,0.18421299999999996,Million
+2027,07_INA,Southeast Asia,Reference,0.157496,0.024787000000000003,Million
+2027,07_INA,Southeast Asia,Carbon Neutral,0.801213,0.35598499999999994,Million
+2027,08_JPN,Northeast Asia,Carbon Neutral,3.349038,1.3235780000000004,Million
+2028,12_NZ,Oceania,Reference,0.151445,0.027752,Million
+2028,16_RUS,Russia,Reference,0.141103,0.026017000000000012,Million
+2028,13_PNG,Oceania,Carbon Neutral,0.001148,0.0008549999999999999,Million
+2028,13_PNG,Oceania,Reference,0.000218,0.000154,Million
+2028,14_PE,Other Americas,Reference,0.062438,0.014406000000000002,Million
+2028,15_RP,Southeast Asia,Carbon Neutral,0.089848,0.033687999999999996,Million
+2028,15_RP,Southeast Asia,Reference,0.023866,0.005535999999999999,Million
+2028,16_RUS,Russia,Carbon Neutral,2.4397,1.2196210000000003,Million
+2028,17_SIN,Southeast Asia,Carbon Neutral,0.091038,0.019987999999999992,Million
+2028,14_PE,Other Americas,Carbon Neutral,0.22621,0.087284,Million
+2028,18_CT,Northeast Asia,Carbon Neutral,0.709486,0.25601099999999993,Million
+2028,18_CT,Northeast Asia,Reference,0.25962,0.06452100000000002,Million
+2028,19_THA,Southeast Asia,Carbon Neutral,1.521522,0.4697,Million
+2028,19_THA,Southeast Asia,Reference,0.48814,0.07661600000000002,Million
+2028,20_USA,USA,Carbon Neutral,13.401666,4.386645,Million
+2028,20_USA,USA,Reference,5.40228,1.0461930000000006,Million
+2028,21_VN,Southeast Asia,Carbon Neutral,0.29946,0.129699,Million
+2028,21_VN,Southeast Asia,Reference,0.094563,0.03171399999999999,Million
+2028,12_NZ,Oceania,Carbon Neutral,0.381723,0.12063199999999996,Million
+2028,17_SIN,Southeast Asia,Reference,0.043071,0.006161,Million
+2028,11_MEX,Other Americas,Reference,0.619537,0.146692,Million
+2028,11_MEX,Other Americas,Carbon Neutral,2.167179,0.843291,Million
+2028,10_MAS,Southeast Asia,Reference,0.200876,0.07175499999999999,Million
+2028,01_AUS,Oceania,Carbon Neutral,1.03963,0.37529500000000005,Million
+2028,01_AUS,Oceania,Reference,0.32021,0.06099100000000002,Million
+2028,02_BD,Southeast Asia,Carbon Neutral,0.016941,0.006505,Million
+2028,02_BD,Southeast Asia,Reference,0.003388,0.000719,Million
+2028,03_CDA,Other Americas,Carbon Neutral,1.431398,0.4747309999999999,Million
+2028,04_CHL,Other Americas,Carbon Neutral,0.348973,0.191262,Million
+2028,04_CHL,Other Americas,Reference,0.15924,0.04818299999999999,Million
+2028,05_PRC,China,Carbon Neutral,44.925211,8.898990999999995,Million
+2028,05_PRC,China,Reference,22.825541,1.8803400000000003,Million
+2028,03_CDA,Other Americas,Reference,0.530338,0.10403499999999999,Million
+2028,06_HKC,Northeast Asia,Reference,0.019612,0.002472000000000002,Million
+2028,06_HKC,Northeast Asia,Carbon Neutral,0.058258,0.022934999999999997,Million
+2028,09_ROK,Northeast Asia,Reference,0.952781,0.22216400000000003,Million
+2028,09_ROK,Northeast Asia,Carbon Neutral,2.649228,0.8425669999999998,Million
+2028,08_JPN,Northeast Asia,Reference,2.347395,0.20684700000000023,Million
+2028,10_MAS,Southeast Asia,Carbon Neutral,0.715456,0.331153,Million
+2028,07_INA,Southeast Asia,Reference,0.1849,0.02740400000000001,Million
+2028,07_INA,Southeast Asia,Carbon Neutral,1.315221,0.514008,Million
+2028,08_JPN,Northeast Asia,Carbon Neutral,5.130035,1.7809970000000002,Million
+2029,16_RUS,Russia,Carbon Neutral,4.206726,1.7670259999999995,Million
+2029,12_NZ,Oceania,Reference,0.181078,0.029632999999999993,Million
+2029,13_PNG,Oceania,Carbon Neutral,0.003027,0.0018790000000000002,Million
+2029,13_PNG,Oceania,Reference,0.000529,0.00031099999999999997,Million
+2029,14_PE,Other Americas,Carbon Neutral,0.331841,0.105631,Million
+2029,14_PE,Other Americas,Reference,0.078306,0.015868,Million
+2029,15_RP,Southeast Asia,Carbon Neutral,0.131144,0.04129600000000001,Million
+2029,15_RP,Southeast Asia,Reference,0.030006,0.006140000000000003,Million
+2029,16_RUS,Russia,Reference,0.174487,0.033384,Million
+2029,21_VN,Southeast Asia,Reference,0.132592,0.03802899999999999,Million
+2029,17_SIN,Southeast Asia,Reference,0.049882,0.0068110000000000046,Million
+2029,18_CT,Northeast Asia,Carbon Neutral,1.008238,0.298752,Million
+2029,18_CT,Northeast Asia,Reference,0.331662,0.072042,Million
+2029,19_THA,Southeast Asia,Carbon Neutral,2.159593,0.638071,Million
+2029,19_THA,Southeast Asia,Reference,0.583298,0.09515799999999996,Million
+2029,20_USA,USA,Carbon Neutral,18.451768,5.050102000000001,Million
+2029,20_USA,USA,Reference,6.538645,1.1363649999999996,Million
+2029,21_VN,Southeast Asia,Carbon Neutral,0.466927,0.16746699999999998,Million
+2029,12_NZ,Oceania,Carbon Neutral,0.518031,0.13630800000000004,Million
+2029,17_SIN,Southeast Asia,Carbon Neutral,0.113294,0.022256000000000012,Million
+2029,11_MEX,Other Americas,Reference,0.779836,0.16029899999999997,Million
+2029,11_MEX,Other Americas,Carbon Neutral,3.182686,1.015507,Million
+2029,10_MAS,Southeast Asia,Reference,0.289045,0.088169,Million
+2029,01_AUS,Oceania,Reference,0.386023,0.06581300000000001,Million
+2029,02_BD,Southeast Asia,Carbon Neutral,0.02487,0.007928999999999999,Million
+2029,02_BD,Southeast Asia,Reference,0.004263,0.0008750000000000003,Million
+2029,03_CDA,Other Americas,Carbon Neutral,1.974194,0.5427960000000001,Million
+2029,03_CDA,Other Americas,Reference,0.644239,0.11390100000000003,Million
+2029,04_CHL,Other Americas,Carbon Neutral,0.614402,0.265429,Million
+2029,04_CHL,Other Americas,Reference,0.216444,0.057204000000000005,Million
+2029,05_PRC,China,Carbon Neutral,54.398245,9.473034000000006,Million
+2029,05_PRC,China,Reference,24.873263,2.0477220000000003,Million
+2029,01_AUS,Oceania,Carbon Neutral,1.491115,0.4514849999999999,Million
+2029,06_HKC,Northeast Asia,Reference,0.022359,0.0027469999999999994,Million
+2029,07_INA,Southeast Asia,Carbon Neutral,1.952919,0.6376980000000001,Million
+2029,07_INA,Southeast Asia,Reference,0.215289,0.030389,Million
+2029,08_JPN,Northeast Asia,Carbon Neutral,7.18038,2.050345,Million
+2029,08_JPN,Northeast Asia,Reference,2.545375,0.19797999999999982,Million
+2029,09_ROK,Northeast Asia,Carbon Neutral,3.585234,0.9360059999999999,Million
+2029,09_ROK,Northeast Asia,Reference,1.199799,0.24701800000000007,Million
+2029,10_MAS,Southeast Asia,Carbon Neutral,1.156809,0.441353,Million
+2029,06_HKC,Northeast Asia,Carbon Neutral,0.086348,0.028089999999999997,Million
+2030,15_RP,Southeast Asia,Reference,0.036355,0.006348999999999997,Million
+2030,15_RP,Southeast Asia,Carbon Neutral,0.176842,0.04569799999999999,Million
+2030,14_PE,Other Americas,Reference,0.094986,0.01668,Million
+2030,12_NZ,Oceania,Reference,0.210998,0.029920000000000002,Million
+2030,13_PNG,Oceania,Reference,0.001001,0.000472,Million
+2030,13_PNG,Oceania,Carbon Neutral,0.005979,0.0029519999999999998,Million
+2030,16_RUS,Russia,Carbon Neutral,6.125476,1.9187500000000002,Million
+2030,14_PE,Other Americas,Carbon Neutral,0.448839,0.11699799999999999,Million
+2030,16_RUS,Russia,Reference,0.212079,0.03759199999999999,Million
+2030,18_CT,Northeast Asia,Reference,0.405771,0.07410899999999998,Million
+2030,17_SIN,Southeast Asia,Reference,0.057435,0.007552999999999997,Million
+2030,18_CT,Northeast Asia,Carbon Neutral,1.320385,0.31214699999999995,Million
+2030,19_THA,Southeast Asia,Carbon Neutral,2.752595,0.5930019999999998,Million
+2030,19_THA,Southeast Asia,Reference,0.666664,0.08336600000000005,Million
+2030,20_USA,USA,Carbon Neutral,23.789134,5.337365999999999,Million
+2030,20_USA,USA,Reference,7.698366,1.1597210000000002,Million
+2030,21_VN,Southeast Asia,Carbon Neutral,0.656259,0.18933200000000006,Million
+2030,12_NZ,Oceania,Carbon Neutral,0.659836,0.14180499999999996,Million
+2030,17_SIN,Southeast Asia,Carbon Neutral,0.137615,0.02432099999999998,Million
+2030,21_VN,Southeast Asia,Reference,0.174073,0.04148100000000002,Million
+2030,11_MEX,Other Americas,Reference,0.956677,0.17684100000000003,Million
+2030,10_MAS,Southeast Asia,Reference,0.386701,0.09765600000000002,Million
+2030,01_AUS,Oceania,Carbon Neutral,1.977711,0.48659600000000003,Million
+2030,01_AUS,Oceania,Reference,0.453165,0.06714199999999998,Million
+2030,02_BD,Southeast Asia,Carbon Neutral,0.033601,0.008731,Million
+2030,02_BD,Southeast Asia,Reference,0.005327,0.0010639999999999998,Million
+2030,03_CDA,Other Americas,Carbon Neutral,2.544855,0.5706610000000001,Million
+2030,03_CDA,Other Americas,Reference,0.761432,0.11719299999999999,Million
+2030,04_CHL,Other Americas,Carbon Neutral,0.91825,0.303848,Million
+2030,04_CHL,Other Americas,Reference,0.278065,0.06162100000000001,Million
+2030,05_PRC,China,Carbon Neutral,63.914282,9.516036999999997,Million
+2030,11_MEX,Other Americas,Carbon Neutral,4.362984,1.180298,Million
+2030,06_HKC,Northeast Asia,Carbon Neutral,0.116624,0.03027600000000001,Million
+2030,05_PRC,China,Reference,27.085206,2.211942999999998,Million
+2030,09_ROK,Northeast Asia,Reference,1.456438,0.25663899999999984,Million
+2030,09_ROK,Northeast Asia,Carbon Neutral,4.549192,0.9639579999999999,Million
+2030,08_JPN,Northeast Asia,Reference,2.729961,0.18458599999999992,Million
+2030,10_MAS,Southeast Asia,Carbon Neutral,1.66158,0.5047710000000001,Million
+2030,07_INA,Southeast Asia,Reference,0.249052,0.03376299999999999,Million
+2030,07_INA,Southeast Asia,Carbon Neutral,2.660258,0.7073389999999997,Million
+2030,06_HKC,Northeast Asia,Reference,0.025557,0.0031979999999999995,Million
+2030,08_JPN,Northeast Asia,Carbon Neutral,9.307152,2.126772,Million
+2031,16_RUS,Russia,Carbon Neutral,8.111599,1.986123,Million
+2031,12_NZ,Oceania,Reference,0.240103,0.02910500000000002,Million
+2031,13_PNG,Oceania,Carbon Neutral,0.009565,0.0035860000000000006,Million
+2031,13_PNG,Oceania,Reference,0.001565,0.000564,Million
+2031,14_PE,Other Americas,Reference,0.111018,0.016032000000000005,Million
+2031,15_RP,Southeast Asia,Carbon Neutral,0.224814,0.047972000000000015,Million
+2031,15_RP,Southeast Asia,Reference,0.042684,0.006329000000000001,Million
+2031,16_RUS,Russia,Reference,0.25735,0.04527100000000003,Million
+2031,19_THA,Southeast Asia,Carbon Neutral,3.340429,0.587834,Million
+2031,17_SIN,Southeast Asia,Reference,0.065829,0.008393999999999999,Million
+2031,18_CT,Northeast Asia,Carbon Neutral,1.634304,0.31391900000000006,Million
+2031,18_CT,Northeast Asia,Reference,0.47869,0.07291900000000001,Million
+2031,12_NZ,Oceania,Carbon Neutral,0.801855,0.142019,Million
+2031,19_THA,Southeast Asia,Reference,0.746646,0.079982,Million
+2031,20_USA,USA,Carbon Neutral,29.193246,5.404111999999998,Million
+2031,20_USA,USA,Reference,8.832513,1.1341470000000005,Million
+2031,21_VN,Southeast Asia,Carbon Neutral,0.852908,0.19664899999999996,Million
+2031,21_VN,Southeast Asia,Reference,0.216382,0.042308999999999986,Million
+2031,17_SIN,Southeast Asia,Carbon Neutral,0.163814,0.026199,Million
+2031,11_MEX,Other Americas,Reference,1.132934,0.1762570000000001,Million
+2031,14_PE,Other Americas,Carbon Neutral,0.565924,0.117085,Million
+2031,10_MAS,Southeast Asia,Reference,0.490367,0.10366599999999998,Million
+2031,01_AUS,Oceania,Carbon Neutral,2.456378,0.47866699999999995,Million
+2031,01_AUS,Oceania,Reference,0.514078,0.06091300000000005,Million
+2031,02_BD,Southeast Asia,Carbon Neutral,0.042696,0.009094999999999999,Million
+2031,02_BD,Southeast Asia,Reference,0.006615,0.001288,Million
+2031,03_CDA,Other Americas,Carbon Neutral,3.12024,0.5753849999999998,Million
+2031,03_CDA,Other Americas,Reference,0.877078,0.11564600000000003,Million
+2031,04_CHL,Other Americas,Carbon Neutral,1.235736,0.31748599999999993,Million
+2031,04_CHL,Other Americas,Reference,0.340029,0.06196400000000002,Million
+2031,05_PRC,China,Carbon Neutral,73.191237,9.276955000000001,Million
+2031,11_MEX,Other Americas,Carbon Neutral,5.575563,1.2125789999999999,Million
+2031,06_HKC,Northeast Asia,Carbon Neutral,0.147336,0.03071199999999999,Million
+2031,06_HKC,Northeast Asia,Reference,0.028947,0.0033900000000000007,Million
+2031,07_INA,Southeast Asia,Carbon Neutral,3.3928,0.732542,Million
+2031,07_INA,Southeast Asia,Reference,0.286621,0.03756900000000002,Million
+2031,08_JPN,Northeast Asia,Carbon Neutral,11.388521,2.0813690000000005,Million
+2031,08_JPN,Northeast Asia,Reference,2.898718,0.16875700000000027,Million
+2031,09_ROK,Northeast Asia,Carbon Neutral,5.505323,0.9561310000000001,Million
+2031,09_ROK,Northeast Asia,Reference,1.707165,0.25072700000000014,Million
+2031,10_MAS,Southeast Asia,Carbon Neutral,2.212877,0.5512970000000001,Million
+2031,05_PRC,China,Reference,29.45467,2.3694640000000007,Million
+2032,15_RP,Southeast Asia,Carbon Neutral,0.275007,0.05019299999999999,Million
+2032,14_PE,Other Americas,Reference,0.126685,0.015666999999999986,Million
+2032,14_PE,Other Americas,Carbon Neutral,0.684867,0.11894300000000002,Million
+2032,12_NZ,Oceania,Carbon Neutral,0.942577,0.140722,Million
+2032,13_PNG,Oceania,Carbon Neutral,0.013404,0.0038389999999999987,Million
+2032,12_NZ,Oceania,Reference,0.267853,0.027749999999999997,Million
+2032,15_RP,Southeast Asia,Reference,0.049042,0.0063580000000000025,Million
+2032,13_PNG,Oceania,Reference,0.002161,0.0005960000000000002,Million
+2032,16_RUS,Russia,Carbon Neutral,10.184387,2.072787999999999,Million
+2032,18_CT,Northeast Asia,Reference,0.549549,0.07085899999999995,Million
+2032,17_SIN,Southeast Asia,Carbon Neutral,0.191724,0.027910000000000018,Million
+2032,17_SIN,Southeast Asia,Reference,0.075175,0.009346000000000007,Million
+2032,18_CT,Northeast Asia,Carbon Neutral,1.947054,0.3127500000000001,Million
+2032,19_THA,Southeast Asia,Carbon Neutral,3.974487,0.634058,Million
+2032,19_THA,Southeast Asia,Reference,0.831507,0.08486099999999996,Million
+2032,20_USA,USA,Carbon Neutral,34.578779,5.385532999999999,Million
+2032,20_USA,USA,Reference,9.915161,1.082647999999999,Million
+2032,21_VN,Southeast Asia,Carbon Neutral,1.0484,0.195492,Million
+2032,11_MEX,Other Americas,Reference,1.289806,0.1568719999999999,Million
+2032,16_RUS,Russia,Reference,0.315632,0.058282,Million
+2032,21_VN,Southeast Asia,Reference,0.257944,0.041562000000000016,Million
+2032,11_MEX,Other Americas,Carbon Neutral,6.678325,1.1027620000000002,Million
+2032,10_MAS,Southeast Asia,Carbon Neutral,2.730062,0.517185,Million
+2032,01_AUS,Oceania,Carbon Neutral,2.942794,0.4864160000000002,Million
+2032,01_AUS,Oceania,Reference,0.576957,0.06287900000000002,Million
+2032,02_BD,Southeast Asia,Carbon Neutral,0.051934,0.009238000000000003,Million
+2032,02_BD,Southeast Asia,Reference,0.00817,0.001555,Million
+2032,03_CDA,Other Americas,Carbon Neutral,3.6924,0.5721600000000002,Million
+2032,03_CDA,Other Americas,Reference,0.988557,0.111479,Million
+2032,04_CHL,Other Americas,Carbon Neutral,1.556201,0.320465,Million
+2032,04_CHL,Other Americas,Reference,0.399866,0.059836999999999974,Million
+2032,05_PRC,China,Carbon Neutral,82.120638,8.929400999999999,Million
+2032,10_MAS,Southeast Asia,Reference,0.584893,0.094526,Million
+2032,06_HKC,Northeast Asia,Carbon Neutral,0.17785,0.030514000000000013,Million
+2032,06_HKC,Northeast Asia,Reference,0.032876,0.003929000000000002,Million
+2032,07_INA,Southeast Asia,Carbon Neutral,4.173673,0.7808730000000002,Million
+2032,07_INA,Southeast Asia,Reference,0.331612,0.044991,Million
+2032,08_JPN,Northeast Asia,Carbon Neutral,13.372445,1.983924,Million
+2032,08_JPN,Northeast Asia,Reference,3.051219,0.152501,Million
+2032,09_ROK,Northeast Asia,Carbon Neutral,6.44013,0.9348070000000002,Million
+2032,09_ROK,Northeast Asia,Reference,1.94592,0.23875500000000005,Million
+2032,05_PRC,China,Reference,31.967028,2.512357999999999,Million
+2033,15_RP,Southeast Asia,Reference,0.054845,0.005802999999999996,Million
+2033,15_RP,Southeast Asia,Carbon Neutral,0.323695,0.04868800000000001,Million
+2033,14_PE,Other Americas,Reference,0.141487,0.01480200000000001,Million
+2033,12_NZ,Oceania,Reference,0.294096,0.026243000000000016,Million
+2033,13_PNG,Oceania,Reference,0.002757,0.0005959999999999997,Million
+2033,13_PNG,Oceania,Carbon Neutral,0.017295,0.003891000000000002,Million
+2033,16_RUS,Russia,Carbon Neutral,12.08482,1.9004330000000014,Million
+2033,14_PE,Other Americas,Carbon Neutral,0.802307,0.11743999999999999,Million
+2033,16_RUS,Russia,Reference,0.381303,0.06567099999999998,Million
+2033,18_CT,Northeast Asia,Reference,0.615358,0.065809,Million
+2033,17_SIN,Southeast Asia,Reference,0.085567,0.010391999999999998,Million
+2033,18_CT,Northeast Asia,Carbon Neutral,2.25663,0.30957599999999985,Million
+2033,19_THA,Southeast Asia,Carbon Neutral,4.520145,0.5456580000000004,Million
+2033,19_THA,Southeast Asia,Reference,0.901896,0.07038900000000003,Million
+2033,20_USA,USA,Carbon Neutral,39.941134,5.362355000000001,Million
+2033,20_USA,USA,Reference,10.937514,1.0223530000000007,Million
+2033,21_VN,Southeast Asia,Carbon Neutral,1.239168,0.19076800000000005,Million
+2033,12_NZ,Oceania,Carbon Neutral,1.082375,0.1397980000000001,Million
+2033,17_SIN,Southeast Asia,Carbon Neutral,0.221188,0.02946399999999999,Million
+2033,21_VN,Southeast Asia,Reference,0.298072,0.040128,Million
+2033,11_MEX,Other Americas,Reference,1.453872,0.16406600000000005,Million
+2033,10_MAS,Southeast Asia,Reference,0.673533,0.08864000000000005,Million
+2033,11_MEX,Other Americas,Carbon Neutral,7.874334,1.196009,Million
+2033,01_AUS,Oceania,Carbon Neutral,3.400724,0.4579299999999997,Million
+2033,01_AUS,Oceania,Reference,0.631808,0.05485099999999998,Million
+2033,02_BD,Southeast Asia,Carbon Neutral,0.061217,0.009283,Million
+2033,02_BD,Southeast Asia,Reference,0.010034,0.0018639999999999993,Million
+2033,03_CDA,Other Americas,Carbon Neutral,4.267576,0.5751759999999999,Million
+2033,04_CHL,Other Americas,Carbon Neutral,1.878192,0.32199100000000014,Million
+2033,04_CHL,Other Americas,Reference,0.456719,0.05685299999999999,Million
+2033,05_PRC,China,Carbon Neutral,90.702816,8.582177999999999,Million
+2033,03_CDA,Other Americas,Reference,1.095059,0.10650199999999999,Million
+2033,06_HKC,Northeast Asia,Carbon Neutral,0.208132,0.030282000000000003,Million
+2033,05_PRC,China,Reference,34.602926,2.6358979999999974,Million
+2033,09_ROK,Northeast Asia,Reference,2.17064,0.22472000000000003,Million
+2033,09_ROK,Northeast Asia,Carbon Neutral,7.352399,0.9122690000000002,Million
+2033,08_JPN,Northeast Asia,Reference,3.188358,0.1371389999999999,Million
+2033,10_MAS,Southeast Asia,Carbon Neutral,3.229432,0.49936999999999987,Million
+2033,07_INA,Southeast Asia,Reference,0.382011,0.05039899999999997,Million
+2033,07_INA,Southeast Asia,Carbon Neutral,4.95038,0.776707,Million
+2033,06_HKC,Northeast Asia,Reference,0.037212,0.004336,Million
+2033,08_JPN,Northeast Asia,Carbon Neutral,15.250511,1.8780659999999987,Million
+2034,16_RUS,Russia,Carbon Neutral,13.926738,1.8419179999999997,Million
+2034,12_NZ,Oceania,Reference,0.318878,0.02478199999999997,Million
+2034,13_PNG,Oceania,Carbon Neutral,0.021242,0.003946999999999999,Million
+2034,13_PNG,Oceania,Reference,0.003351,0.0005939999999999999,Million
+2034,14_PE,Other Americas,Carbon Neutral,0.92123,0.118923,Million
+2034,14_PE,Other Americas,Reference,0.155778,0.014290999999999998,Million
+2034,15_RP,Southeast Asia,Carbon Neutral,0.37416,0.05046499999999998,Million
+2034,15_RP,Southeast Asia,Reference,0.060602,0.005757000000000005,Million
+2034,16_RUS,Russia,Reference,0.46049,0.07918700000000001,Million
+2034,12_NZ,Oceania,Carbon Neutral,1.222379,0.14000400000000002,Million
+2034,17_SIN,Southeast Asia,Reference,0.0972,0.01163299999999999,Million
+2034,18_CT,Northeast Asia,Carbon Neutral,2.566509,0.309879,Million
+2034,18_CT,Northeast Asia,Reference,0.676728,0.061370000000000036,Million
+2034,19_THA,Southeast Asia,Carbon Neutral,5.109246,0.5891009999999994,Million
+2034,19_THA,Southeast Asia,Reference,0.976424,0.07452799999999993,Million
+2034,20_USA,USA,Carbon Neutral,45.314713,5.373578999999999,Million
+2034,20_USA,USA,Reference,11.899879,0.9623650000000001,Million
+2034,21_VN,Southeast Asia,Carbon Neutral,1.424266,0.18509799999999998,Million
+2034,21_VN,Southeast Asia,Reference,0.336568,0.038495999999999975,Million
+2034,17_SIN,Southeast Asia,Carbon Neutral,0.252088,0.030899999999999983,Million
+2034,11_MEX,Other Americas,Reference,1.610853,0.15698100000000004,Million
+2034,11_MEX,Other Americas,Carbon Neutral,9.05839,1.184055999999999,Million
+2034,10_MAS,Southeast Asia,Reference,0.756035,0.08250199999999996,Million
+2034,01_AUS,Oceania,Carbon Neutral,3.8675,0.4667760000000003,Million
+2034,01_AUS,Oceania,Reference,0.688331,0.05652299999999999,Million
+2034,02_BD,Southeast Asia,Carbon Neutral,0.070547,0.009329999999999998,Million
+2034,02_BD,Southeast Asia,Reference,0.012256,0.002222,Million
+2034,03_CDA,Other Americas,Carbon Neutral,4.85007,0.5824939999999996,Million
+2034,04_CHL,Other Americas,Carbon Neutral,2.204453,0.3262609999999999,Million
+2034,04_CHL,Other Americas,Reference,0.510622,0.053903000000000034,Million
+2034,05_PRC,China,Carbon Neutral,99.35684,8.654024000000007,Million
+2034,05_PRC,China,Reference,37.333833,2.730907000000002,Million
+2034,03_CDA,Other Americas,Reference,1.196696,0.10163699999999998,Million
+2034,06_HKC,Northeast Asia,Reference,0.041986,0.0047740000000000005,Million
+2034,06_HKC,Northeast Asia,Carbon Neutral,0.238401,0.03026899999999999,Million
+2034,09_ROK,Northeast Asia,Reference,2.381385,0.21074499999999974,Million
+2034,09_ROK,Northeast Asia,Carbon Neutral,8.246343,0.8939439999999994,Million
+2034,08_JPN,Northeast Asia,Reference,3.311611,0.12325300000000006,Million
+2034,10_MAS,Southeast Asia,Carbon Neutral,3.709546,0.48011399999999993,Million
+2034,07_INA,Southeast Asia,Reference,0.438542,0.056531,Million
+2034,07_INA,Southeast Asia,Carbon Neutral,5.722718,0.7723380000000004,Million
+2034,08_JPN,Northeast Asia,Carbon Neutral,17.034744,1.7842330000000004,Million
+2035,16_RUS,Russia,Carbon Neutral,15.849059,1.9223210000000002,Million
+2035,12_NZ,Oceania,Reference,0.342323,0.023444999999999994,Million
+2035,13_PNG,Oceania,Carbon Neutral,0.025174,0.003931999999999998,Million
+2035,13_PNG,Oceania,Reference,0.003933,0.000582,Million
+2035,14_PE,Other Americas,Carbon Neutral,1.039714,0.11848400000000003,Million
+2035,14_PE,Other Americas,Reference,0.169261,0.013482999999999995,Million
+2035,15_RP,Southeast Asia,Carbon Neutral,0.423286,0.049126,Million
+2035,15_RP,Southeast Asia,Reference,0.065835,0.0052330000000000015,Million
+2035,16_RUS,Russia,Reference,0.562503,0.10201299999999996,Million
+2035,21_VN,Southeast Asia,Reference,0.373519,0.03695100000000001,Million
+2035,17_SIN,Southeast Asia,Reference,0.110233,0.013033000000000003,Million
+2035,18_CT,Northeast Asia,Carbon Neutral,2.879973,0.3134640000000002,Million
+2035,18_CT,Northeast Asia,Reference,0.733501,0.05677299999999996,Million
+2035,19_THA,Southeast Asia,Carbon Neutral,5.678384,0.5691380000000006,Million
+2035,19_THA,Southeast Asia,Reference,1.046015,0.06959099999999996,Million
+2035,20_USA,USA,Carbon Neutral,50.752285,5.437572000000003,Million
+2035,20_USA,USA,Reference,12.806261,0.9063819999999989,Million
+2035,21_VN,Southeast Asia,Carbon Neutral,1.604274,0.18000799999999995,Million
+2035,12_NZ,Oceania,Carbon Neutral,1.364042,0.14166299999999987,Million
+2035,17_SIN,Southeast Asia,Carbon Neutral,0.277812,0.025724000000000025,Million
+2035,11_MEX,Other Americas,Reference,1.746779,0.135926,Million
+2035,11_MEX,Other Americas,Carbon Neutral,10.115573,1.0571830000000002,Million
+2035,10_MAS,Southeast Asia,Reference,0.841174,0.08513899999999996,Million
+2035,01_AUS,Oceania,Reference,0.742192,0.05386099999999994,Million
+2035,02_BD,Southeast Asia,Carbon Neutral,0.079974,0.009427000000000005,Million
+2035,02_BD,Southeast Asia,Reference,0.014897,0.002641000000000001,Million
+2035,03_CDA,Other Americas,Carbon Neutral,5.446016,0.5959460000000005,Million
+2035,03_CDA,Other Americas,Reference,1.293924,0.09722800000000009,Million
+2035,04_CHL,Other Americas,Carbon Neutral,2.539137,0.3346840000000002,Million
+2035,04_CHL,Other Americas,Reference,0.561905,0.05128299999999997,Million
+2035,05_PRC,China,Carbon Neutral,108.166222,8.809382,Million
+2035,05_PRC,China,Reference,40.217552,2.8837189999999993,Million
+2035,01_AUS,Oceania,Carbon Neutral,4.328059,0.4605589999999995,Million
+2035,06_HKC,Northeast Asia,Reference,0.047449,0.005462999999999996,Million
+2035,07_INA,Southeast Asia,Carbon Neutral,6.494036,0.771318,Million
+2035,07_INA,Southeast Asia,Reference,0.502012,0.06347000000000003,Million
+2035,08_JPN,Northeast Asia,Carbon Neutral,18.743903,1.7091589999999997,Million
+2035,08_JPN,Northeast Asia,Reference,3.422556,0.11094500000000007,Million
+2035,09_ROK,Northeast Asia,Carbon Neutral,9.128147,0.8818040000000007,Million
+2035,09_ROK,Northeast Asia,Reference,2.579032,0.19764700000000035,Million
+2035,10_MAS,Southeast Asia,Carbon Neutral,4.220085,0.5105390000000001,Million
+2035,06_HKC,Northeast Asia,Carbon Neutral,0.268975,0.030574000000000018,Million
+2036,16_RUS,Russia,Carbon Neutral,17.611676,1.7626169999999988,Million
+2036,15_RP,Southeast Asia,Reference,0.071442,0.005607000000000001,Million
+2036,15_RP,Southeast Asia,Carbon Neutral,0.475663,0.05237700000000001,Million
+2036,13_PNG,Oceania,Carbon Neutral,0.029271,0.004097,Million
+2036,14_PE,Other Americas,Carbon Neutral,1.158234,0.11851999999999996,Million
+2036,13_PNG,Oceania,Reference,0.004592,0.0006589999999999999,Million
+2036,16_RUS,Russia,Reference,0.677812,0.115309,Million
+2036,14_PE,Other Americas,Reference,0.182739,0.013478000000000018,Million
+2036,17_SIN,Southeast Asia,Carbon Neutral,0.301424,0.023612000000000022,Million
+2036,19_THA,Southeast Asia,Carbon Neutral,6.229577,0.5511929999999996,Million
+2036,18_CT,Northeast Asia,Carbon Neutral,3.200799,0.32082599999999983,Million
+2036,18_CT,Northeast Asia,Reference,0.78839,0.05488900000000008,Million
+2036,19_THA,Southeast Asia,Reference,1.117512,0.07149700000000014,Million
+2036,20_USA,USA,Carbon Neutral,56.312668,5.560383000000002,Million
+2036,20_USA,USA,Reference,13.660372,0.8541110000000014,Million
+2036,21_VN,Southeast Asia,Carbon Neutral,1.78224,0.17796600000000007,Million
+2036,21_VN,Southeast Asia,Reference,0.412569,0.03905000000000003,Million
+2036,12_NZ,Oceania,Reference,0.364971,0.022648,Million
+2036,17_SIN,Southeast Asia,Reference,0.12477,0.014537000000000008,Million
+2036,12_NZ,Oceania,Carbon Neutral,1.508825,0.1447830000000001,Million
+2036,11_MEX,Other Americas,Reference,1.901606,0.15482699999999983,Million
+2036,01_AUS,Oceania,Carbon Neutral,4.785602,0.45754300000000026,Million
+2036,01_AUS,Oceania,Reference,0.79548,0.053288,Million
+2036,02_BD,Southeast Asia,Carbon Neutral,0.089438,0.009464,Million
+2036,02_BD,Southeast Asia,Reference,0.017988,0.003091,Million
+2036,03_CDA,Other Americas,Carbon Neutral,6.06075,0.6147339999999994,Million
+2036,03_CDA,Other Americas,Reference,1.38712,0.09319599999999983,Million
+2036,04_CHL,Other Americas,Carbon Neutral,2.882826,0.3436889999999999,Million
+2036,04_CHL,Other Americas,Reference,0.611969,0.050064,Million
+2036,05_PRC,China,Carbon Neutral,117.226387,9.060164999999998,Million
+2036,05_PRC,China,Reference,43.239879,3.022327000000004,Million
+2036,11_MEX,Other Americas,Carbon Neutral,11.292774,1.1772010000000002,Million
+2036,06_HKC,Northeast Asia,Reference,0.053208,0.005759,Million
+2036,07_INA,Southeast Asia,Carbon Neutral,7.282262,0.7882259999999999,Million
+2036,07_INA,Southeast Asia,Reference,0.577508,0.07549600000000001,Million
+2036,08_JPN,Northeast Asia,Carbon Neutral,20.39767,1.653767000000002,Million
+2036,08_JPN,Northeast Asia,Reference,3.522666,0.10010999999999992,Million
+2036,09_ROK,Northeast Asia,Carbon Neutral,10.002322,0.8741749999999993,Million
+2036,09_ROK,Northeast Asia,Reference,2.769008,0.1899759999999997,Million
+2036,10_MAS,Southeast Asia,Carbon Neutral,4.720237,0.5001519999999999,Million
+2036,10_MAS,Southeast Asia,Reference,0.926211,0.08503700000000003,Million
+2036,06_HKC,Northeast Asia,Carbon Neutral,0.300225,0.03125,Million
+2037,15_RP,Southeast Asia,Reference,0.078881,0.007439000000000001,Million
+2037,15_RP,Southeast Asia,Carbon Neutral,0.532286,0.056623000000000034,Million
+2037,14_PE,Other Americas,Reference,0.199057,0.016318,Million
+2037,12_NZ,Oceania,Reference,0.393564,0.028593000000000035,Million
+2037,13_PNG,Oceania,Reference,0.005468,0.000876,Million
+2037,13_PNG,Oceania,Carbon Neutral,0.033647,0.004376000000000005,Million
+2037,16_RUS,Russia,Carbon Neutral,19.311576,1.6998999999999995,Million
+2037,14_PE,Other Americas,Carbon Neutral,1.275499,0.11726499999999995,Million
+2037,16_RUS,Russia,Reference,0.826206,0.14839400000000003,Million
+2037,19_THA,Southeast Asia,Carbon Neutral,6.753354,0.5237769999999999,Million
+2037,17_SIN,Southeast Asia,Reference,0.139177,0.01440699999999999,Million
+2037,18_CT,Northeast Asia,Carbon Neutral,3.494818,0.29401900000000003,Million
+2037,18_CT,Northeast Asia,Reference,0.857349,0.06895899999999999,Million
+2037,19_THA,Southeast Asia,Reference,1.213922,0.09640999999999988,Million
+2037,20_USA,USA,Carbon Neutral,61.403524,5.090855999999995,Million
+2037,20_USA,USA,Reference,14.467295,0.8069229999999994,Million
+2037,21_VN,Southeast Asia,Carbon Neutral,1.966977,0.18473699999999993,Million
+2037,21_VN,Southeast Asia,Reference,0.462955,0.050385999999999986,Million
+2037,12_NZ,Oceania,Carbon Neutral,1.641922,0.13309700000000002,Million
+2037,17_SIN,Southeast Asia,Carbon Neutral,0.322892,0.021467999999999987,Million
+2037,11_MEX,Other Americas,Carbon Neutral,12.453264,1.1604900000000011,Million
+2037,08_JPN,Northeast Asia,Carbon Neutral,21.95436,1.5566899999999997,Million
+2037,10_MAS,Southeast Asia,Reference,1.023443,0.0972320000000001,Million
+2037,01_AUS,Oceania,Carbon Neutral,5.230933,0.44533100000000037,Million
+2037,01_AUS,Oceania,Reference,0.868696,0.07321600000000006,Million
+2037,02_BD,Southeast Asia,Carbon Neutral,0.098764,0.009326000000000001,Million
+2037,02_BD,Southeast Asia,Reference,0.021534,0.0035460000000000005,Million
+2037,03_CDA,Other Americas,Carbon Neutral,6.632651,0.5719010000000004,Million
+2037,11_MEX,Other Americas,Reference,2.107562,0.20595600000000025,Million
+2037,04_CHL,Other Americas,Carbon Neutral,3.204887,0.3220609999999997,Million
+2037,04_CHL,Other Americas,Reference,0.669128,0.05715899999999996,Million
+2037,05_PRC,China,Carbon Neutral,125.53175,8.305363,Million
+2037,03_CDA,Other Americas,Reference,1.476999,0.08987900000000004,Million
+2037,06_HKC,Northeast Asia,Carbon Neutral,0.32886,0.028634999999999966,Million
+2037,05_PRC,China,Reference,46.406484,3.166604999999997,Million
+2037,09_ROK,Northeast Asia,Reference,2.999111,0.23010300000000017,Million
+2037,09_ROK,Northeast Asia,Carbon Neutral,10.798019,0.7956970000000005,Million
+2037,08_JPN,Northeast Asia,Reference,3.705749,0.18308299999999988,Million
+2037,10_MAS,Southeast Asia,Carbon Neutral,5.189705,0.469468,Million
+2037,07_INA,Southeast Asia,Reference,0.677409,0.09990100000000002,Million
+2037,07_INA,Southeast Asia,Carbon Neutral,8.130655,0.8483930000000006,Million
+2037,06_HKC,Northeast Asia,Reference,0.060086,0.006878000000000002,Million
+2038,12_NZ,Oceania,Reference,0.428493,0.03492899999999999,Million
+2038,13_PNG,Oceania,Carbon Neutral,0.038411,0.004763999999999997,Million
+2038,13_PNG,Oceania,Reference,0.006631,0.001163,Million
+2038,14_PE,Other Americas,Carbon Neutral,1.394928,0.11942900000000001,Million
+2038,14_PE,Other Americas,Reference,0.219019,0.01996199999999998,Million
+2038,15_RP,Southeast Asia,Carbon Neutral,0.593415,0.06112899999999999,Million
+2038,15_RP,Southeast Asia,Reference,0.088401,0.009519999999999987,Million
+2038,16_RUS,Russia,Carbon Neutral,20.958579,1.6470030000000015,Million
+2038,16_RUS,Russia,Reference,1.015795,0.189589,Million
+2038,12_NZ,Oceania,Carbon Neutral,1.764517,0.12259499999999979,Million
+2038,17_SIN,Southeast Asia,Reference,0.153517,0.014339999999999992,Million
+2038,18_CT,Northeast Asia,Carbon Neutral,3.764442,0.26962399999999986,Million
+2038,18_CT,Northeast Asia,Reference,0.938262,0.08091300000000001,Million
+2038,19_THA,Southeast Asia,Carbon Neutral,7.251752,0.4983979999999999,Million
+2038,19_THA,Southeast Asia,Reference,1.338248,0.12432600000000016,Million
+2038,20_USA,USA,Carbon Neutral,66.068189,4.6646650000000065,Million
+2038,20_USA,USA,Reference,15.524041,1.0567460000000004,Million
+2038,21_VN,Southeast Asia,Carbon Neutral,2.158816,0.19183899999999987,Million
+2038,21_VN,Southeast Asia,Reference,0.526354,0.06339899999999998,Million
+2038,17_SIN,Southeast Asia,Carbon Neutral,0.342409,0.019517000000000007,Million
+2038,11_MEX,Other Americas,Reference,2.371964,0.264402,Million
+2038,11_MEX,Other Americas,Carbon Neutral,13.599458,1.1461939999999995,Million
+2038,10_MAS,Southeast Asia,Reference,1.158392,0.13494899999999999,Million
+2038,01_AUS,Oceania,Reference,0.964646,0.09594999999999998,Million
+2038,02_BD,Southeast Asia,Carbon Neutral,0.107943,0.009178999999999993,Million
+2038,02_BD,Southeast Asia,Reference,0.025582,0.0040479999999999995,Million
+2038,03_CDA,Other Americas,Carbon Neutral,7.165743,0.5330919999999999,Million
+2038,03_CDA,Other Americas,Reference,1.594966,0.11796700000000016,Million
+2038,04_CHL,Other Americas,Carbon Neutral,3.507303,0.302416,Million
+2038,04_CHL,Other Americas,Reference,0.733974,0.06484600000000007,Million
+2038,05_PRC,China,Carbon Neutral,133.150219,7.61846899999999,Million
+2038,05_PRC,China,Reference,49.709426,3.3029420000000016,Million
+2038,01_AUS,Oceania,Carbon Neutral,5.665667,0.43473399999999973,Million
+2038,06_HKC,Northeast Asia,Reference,0.067905,0.007818999999999993,Million
+2038,07_INA,Southeast Asia,Carbon Neutral,9.044076,0.9134209999999996,Million
+2038,07_INA,Southeast Asia,Reference,0.807268,0.12985899999999995,Million
+2038,08_JPN,Northeast Asia,Carbon Neutral,23.426775,1.472414999999998,Million
+2038,08_JPN,Northeast Asia,Reference,3.977421,0.27167200000000014,Million
+2038,09_ROK,Northeast Asia,Carbon Neutral,11.521761,0.7237419999999997,Million
+2038,09_ROK,Northeast Asia,Reference,3.270673,0.27156199999999986,Million
+2038,10_MAS,Southeast Asia,Carbon Neutral,5.73248,0.5427749999999998,Million
+2038,06_HKC,Northeast Asia,Carbon Neutral,0.355118,0.026258000000000004,Million
+2039,16_RUS,Russia,Carbon Neutral,22.56233,1.603750999999999,Million
+2039,15_RP,Southeast Asia,Reference,0.100684,0.012283000000000002,Million
+2039,15_RP,Southeast Asia,Carbon Neutral,0.661279,0.06786399999999992,Million
+2039,13_PNG,Oceania,Carbon Neutral,0.043516,0.005104999999999998,Million
+2039,14_PE,Other Americas,Carbon Neutral,1.510792,0.11586399999999997,Million
+2039,13_PNG,Oceania,Reference,0.00813,0.0014990000000000003,Million
+2039,16_RUS,Russia,Reference,1.256582,0.24078700000000008,Million
+2039,14_PE,Other Americas,Reference,0.242002,0.022983000000000003,Million
+2039,17_SIN,Southeast Asia,Carbon Neutral,0.360151,0.01774199999999998,Million
+2039,19_THA,Southeast Asia,Carbon Neutral,7.782573,0.5308210000000004,Million
+2039,18_CT,Northeast Asia,Carbon Neutral,4.011869,0.24742700000000006,Million
+2039,18_CT,Northeast Asia,Reference,1.032722,0.09445999999999988,Million
+2039,19_THA,Southeast Asia,Reference,1.50756,0.1693119999999999,Million
+2039,20_USA,USA,Carbon Neutral,70.346835,4.278645999999995,Million
+2039,20_USA,USA,Reference,16.846601,1.3225599999999993,Million
+2039,21_VN,Southeast Asia,Carbon Neutral,2.357941,0.199125,Million
+2039,21_VN,Southeast Asia,Reference,0.604637,0.07828299999999999,Million
+2039,12_NZ,Oceania,Reference,0.470152,0.041659,Million
+2039,17_SIN,Southeast Asia,Reference,0.16789,0.014373000000000025,Million
+2039,12_NZ,Oceania,Carbon Neutral,1.877713,0.11319600000000007,Million
+2039,11_MEX,Other Americas,Reference,2.70295,0.3309859999999998,Million
+2039,01_AUS,Oceania,Carbon Neutral,6.065473,0.3998059999999999,Million
+2039,11_MEX,Other Americas,Carbon Neutral,14.73293,1.1334719999999994,Million
+2039,01_AUS,Oceania,Reference,1.076749,0.11210299999999995,Million
+2039,02_BD,Southeast Asia,Carbon Neutral,0.116928,0.008985000000000007,Million
+2039,02_BD,Southeast Asia,Reference,0.030159,0.004576999999999998,Million
+2039,03_CDA,Other Americas,Carbon Neutral,7.663653,0.4979100000000001,Million
+2039,03_CDA,Other Americas,Reference,1.743156,0.14818999999999982,Million
+2039,04_CHL,Other Americas,Reference,0.807099,0.073125,Million
+2039,05_PRC,China,Carbon Neutral,140.143586,6.993367000000006,Million
+2039,05_PRC,China,Reference,53.138853,3.429426999999997,Million
+2039,04_CHL,Other Americas,Carbon Neutral,3.791647,0.2843440000000004,Million
+2039,06_HKC,Northeast Asia,Reference,0.07674,0.00883500000000001,Million
+2039,06_HKC,Northeast Asia,Carbon Neutral,0.379212,0.024094000000000004,Million
+2039,10_MAS,Southeast Asia,Carbon Neutral,6.297936,0.5654560000000002,Million
+2039,09_ROK,Northeast Asia,Reference,3.584609,0.313936,Million
+2039,09_ROK,Northeast Asia,Carbon Neutral,12.179453,0.6576920000000008,Million
+2039,10_MAS,Southeast Asia,Reference,1.323202,0.1648099999999999,Million
+2039,08_JPN,Northeast Asia,Carbon Neutral,24.826085,1.3993099999999998,Million
+2039,07_INA,Southeast Asia,Reference,0.973825,0.16655700000000007,Million
+2039,07_INA,Southeast Asia,Carbon Neutral,10.026731,0.9826549999999994,Million
+2039,08_JPN,Northeast Asia,Reference,4.344359,0.36693799999999976,Million
+2040,16_RUS,Russia,Carbon Neutral,24.132404,1.5700740000000017,Million
+2040,12_NZ,Oceania,Reference,0.518914,0.04876199999999997,Million
+2040,13_PNG,Oceania,Carbon Neutral,0.049081,0.0055650000000000005,Million
+2040,13_PNG,Oceania,Reference,0.010072,0.0019419999999999993,Million
+2040,14_PE,Other Americas,Carbon Neutral,1.629668,0.11887599999999998,Million
+2040,14_PE,Other Americas,Reference,0.269547,0.027544999999999986,Million
+2040,15_RP,Southeast Asia,Carbon Neutral,0.732057,0.07077800000000001,Million
+2040,15_RP,Southeast Asia,Reference,0.115203,0.014519000000000004,Million
+2040,16_RUS,Russia,Reference,1.560768,0.30418599999999985,Million
+2040,12_NZ,Oceania,Carbon Neutral,1.982523,0.10481000000000007,Million
+2040,17_SIN,Southeast Asia,Reference,0.182281,0.014390999999999987,Million
+2040,18_CT,Northeast Asia,Carbon Neutral,4.239096,0.22722700000000007,Million
+2040,18_CT,Northeast Asia,Reference,1.141048,0.10832600000000014,Million
+2040,19_THA,Southeast Asia,Carbon Neutral,8.232669,0.4500959999999994,Million
+2040,19_THA,Southeast Asia,Reference,1.697426,0.1898660000000001,Million
+2040,20_USA,USA,Carbon Neutral,74.275928,3.9290929999999946,Million
+2040,20_USA,USA,Reference,18.450186,1.603584999999999,Million
+2040,21_VN,Southeast Asia,Carbon Neutral,2.563144,0.20520300000000002,Million
+2040,21_VN,Southeast Asia,Reference,0.699425,0.09478799999999998,Million
+2040,17_SIN,Southeast Asia,Carbon Neutral,0.376277,0.016125999999999974,Million
+2040,11_MEX,Other Americas,Reference,3.109431,0.40648099999999987,Million
+2040,11_MEX,Other Americas,Carbon Neutral,15.854842,1.121912,Million
+2040,10_MAS,Southeast Asia,Reference,1.521933,0.198731,Million
+2040,01_AUS,Oceania,Carbon Neutral,6.483121,0.4176479999999998,Million
+2040,01_AUS,Oceania,Reference,1.227443,0.1506940000000001,Million
+2040,02_BD,Southeast Asia,Carbon Neutral,0.125717,0.008788999999999991,Million
+2040,02_BD,Southeast Asia,Reference,0.035304,0.005145000000000004,Million
+2040,03_CDA,Other Americas,Carbon Neutral,8.129626,0.46597299999999997,Million
+2040,04_CHL,Other Americas,Carbon Neutral,4.059351,0.26770400000000016,Million
+2040,04_CHL,Other Americas,Reference,0.88914,0.08204100000000003,Million
+2040,05_PRC,China,Carbon Neutral,146.568081,6.424495000000007,Million
+2040,05_PRC,China,Reference,56.683042,3.544189000000003,Million
+2040,03_CDA,Other Americas,Reference,1.923641,0.180485,Million
+2040,06_HKC,Northeast Asia,Reference,0.08666,0.009919999999999998,Million
+2040,06_HKC,Northeast Asia,Carbon Neutral,0.401337,0.022125000000000006,Million
+2040,09_ROK,Northeast Asia,Reference,3.941311,0.35670199999999985,Million
+2040,09_ROK,Northeast Asia,Carbon Neutral,12.77654,0.5970870000000001,Million
+2040,08_JPN,Northeast Asia,Reference,4.814059,0.46970000000000045,Million
+2040,10_MAS,Southeast Asia,Carbon Neutral,6.887799,0.5898630000000002,Million
+2040,07_INA,Southeast Asia,Reference,1.185241,0.21141599999999994,Million
+2040,07_INA,Southeast Asia,Carbon Neutral,11.082578,1.055847,Million
+2040,08_JPN,Northeast Asia,Carbon Neutral,26.162016,1.3359310000000022,Million
+2041,16_RUS,Russia,Carbon Neutral,25.678398,1.5459940000000003,Million
+2041,12_NZ,Oceania,Reference,0.57509,0.056176000000000004,Million
+2041,13_PNG,Oceania,Carbon Neutral,0.05505,0.005969000000000002,Million
+2041,13_PNG,Oceania,Reference,0.012529,0.002457000000000001,Million
+2041,14_PE,Other Americas,Carbon Neutral,1.751979,0.12231100000000006,Million
+2041,14_PE,Other Americas,Reference,0.30229,0.03274300000000002,Million
+2041,15_RP,Southeast Asia,Carbon Neutral,0.81009,0.07803300000000002,Million
+2041,15_RP,Southeast Asia,Reference,0.133206,0.01800299999999999,Million
+2041,16_RUS,Russia,Reference,1.943039,0.382271,Million
+2041,21_VN,Southeast Asia,Reference,0.813026,0.11360100000000006,Million
+2041,17_SIN,Southeast Asia,Reference,0.196823,0.014542,Million
+2041,18_CT,Northeast Asia,Carbon Neutral,4.447942,0.2088460000000003,Million
+2041,18_CT,Northeast Asia,Reference,1.263163,0.12211499999999997,Million
+2041,19_THA,Southeast Asia,Carbon Neutral,8.715828,0.48315900000000056,Million
+2041,19_THA,Southeast Asia,Reference,1.943417,0.24599099999999985,Million
+2041,20_USA,USA,Carbon Neutral,77.887879,3.611951000000005,Million
+2041,20_USA,USA,Reference,20.347881,1.8976950000000024,Million
+2041,21_VN,Southeast Asia,Carbon Neutral,2.774929,0.21178500000000033,Million
+2041,12_NZ,Oceania,Carbon Neutral,2.079836,0.09731299999999976,Million
+2041,17_SIN,Southeast Asia,Carbon Neutral,0.390932,0.014655000000000029,Million
+2041,11_MEX,Other Americas,Reference,3.562849,0.4534180000000001,Million
+2041,11_MEX,Other Americas,Carbon Neutral,16.819314,0.9644719999999989,Million
+2041,10_MAS,Southeast Asia,Reference,1.776563,0.2546299999999999,Million
+2041,01_AUS,Oceania,Reference,1.411308,0.18386499999999995,Million
+2041,02_BD,Southeast Asia,Carbon Neutral,0.13424,0.008523000000000003,Million
+2041,02_BD,Southeast Asia,Reference,0.041019,0.005714999999999998,Million
+2041,03_CDA,Other Americas,Carbon Neutral,8.566512,0.43688599999999944,Million
+2041,03_CDA,Other Americas,Reference,2.138283,0.214642,Million
+2041,04_CHL,Other Americas,Carbon Neutral,4.31195,0.252599,Million
+2041,04_CHL,Other Americas,Reference,0.98084,0.0917,Million
+2041,05_PRC,China,Carbon Neutral,152.474873,5.906791999999996,Million
+2041,05_PRC,China,Reference,60.328495,3.6454529999999963,Million
+2041,01_AUS,Oceania,Carbon Neutral,6.893972,0.4108510000000001,Million
+2041,06_HKC,Northeast Asia,Reference,0.098107,0.011446999999999999,Million
+2041,07_INA,Southeast Asia,Carbon Neutral,12.215514,1.1329360000000008,Million
+2041,07_INA,Southeast Asia,Reference,1.451334,0.2660929999999999,Million
+2041,08_JPN,Northeast Asia,Carbon Neutral,27.443021,1.2810050000000004,Million
+2041,08_JPN,Northeast Asia,Reference,5.394489,0.5804299999999998,Million
+2041,09_ROK,Northeast Asia,Carbon Neutral,13.318056,0.5415159999999997,Million
+2041,09_ROK,Northeast Asia,Reference,4.340532,0.3992209999999998,Million
+2041,10_MAS,Southeast Asia,Carbon Neutral,7.55799,0.670191,Million
+2041,06_HKC,Northeast Asia,Carbon Neutral,0.42167,0.02033299999999999,Million
+2042,15_RP,Southeast Asia,Reference,0.154527,0.021321000000000007,Million
+2042,15_RP,Southeast Asia,Carbon Neutral,0.89334,0.08325000000000005,Million
+2042,14_PE,Other Americas,Reference,0.340144,0.037854,Million
+2042,12_NZ,Oceania,Reference,0.638948,0.06385799999999997,Million
+2042,13_PNG,Oceania,Reference,0.015657,0.0031280000000000006,Million
+2042,13_PNG,Oceania,Carbon Neutral,0.061552,0.006502000000000001,Million
+2042,16_RUS,Russia,Carbon Neutral,27.105168,1.4267699999999977,Million
+2042,14_PE,Other Americas,Carbon Neutral,1.874577,0.12259799999999998,Million
+2042,17_SIN,Southeast Asia,Carbon Neutral,0.40425,0.013317999999999997,Million
+2042,19_THA,Southeast Asia,Carbon Neutral,9.176175,0.4603470000000005,Million
+2042,18_CT,Northeast Asia,Carbon Neutral,4.64006,0.1921179999999998,Million
+2042,18_CT,Northeast Asia,Reference,1.400687,0.13752399999999998,Million
+2042,19_THA,Southeast Asia,Reference,2.233409,0.289992,Million
+2042,20_USA,USA,Carbon Neutral,81.212279,3.324399999999997,Million
+2042,20_USA,USA,Reference,22.549718,2.2018369999999976,Million
+2042,21_VN,Southeast Asia,Carbon Neutral,2.992455,0.21752599999999989,Million
+2042,21_VN,Southeast Asia,Reference,0.947378,0.13435200000000003,Million
+2042,12_NZ,Oceania,Carbon Neutral,2.170533,0.09069700000000003,Million
+2042,17_SIN,Southeast Asia,Reference,0.211492,0.014669000000000015,Million
+2042,11_MEX,Other Americas,Reference,4.149379,0.5865299999999998,Million
+2042,16_RUS,Russia,Reference,2.399488,0.4564489999999999,Million
+2042,10_MAS,Southeast Asia,Reference,2.055731,0.2791680000000003,Million
+2042,01_AUS,Oceania,Reference,1.632463,0.221155,Million
+2042,02_BD,Southeast Asia,Carbon Neutral,0.142485,0.008245000000000002,Million
+2042,02_BD,Southeast Asia,Reference,0.047319,0.0063,Million
+2042,03_CDA,Other Americas,Carbon Neutral,8.976827,0.41031500000000065,Million
+2042,03_CDA,Other Americas,Reference,2.388588,0.250305,Million
+2042,04_CHL,Other Americas,Carbon Neutral,4.551548,0.23959799999999998,Million
+2042,04_CHL,Other Americas,Reference,1.083205,0.10236499999999993,Million
+2042,05_PRC,China,Carbon Neutral,157.91052,5.435646999999989,Million
+2042,05_PRC,China,Reference,64.060086,3.7315910000000017,Million
+2042,01_AUS,Oceania,Carbon Neutral,7.299166,0.40519399999999983,Million
+2042,06_HKC,Northeast Asia,Carbon Neutral,0.440372,0.018701999999999996,Million
+2042,06_HKC,Northeast Asia,Reference,0.110374,0.012267,Million
+2042,07_INA,Southeast Asia,Carbon Neutral,13.429068,1.2135539999999985,Million
+2042,07_INA,Southeast Asia,Reference,1.783725,0.3323910000000001,Million
+2042,08_JPN,Northeast Asia,Carbon Neutral,28.676418,1.233397,Million
+2042,08_JPN,Northeast Asia,Reference,6.093624,0.6991350000000001,Million
+2042,09_ROK,Northeast Asia,Carbon Neutral,13.808655,0.49059899999999956,Million
+2042,09_ROK,Northeast Asia,Reference,4.781281,0.4407490000000003,Million
+2042,10_MAS,Southeast Asia,Carbon Neutral,8.198931,0.6409409999999998,Million
+2042,11_MEX,Other Americas,Carbon Neutral,17.92108,1.1017660000000014,Million
+2043,15_RP,Southeast Asia,Reference,0.17946,0.02493300000000001,Million
+2043,15_RP,Southeast Asia,Carbon Neutral,0.981825,0.08848499999999992,Million
+2043,14_PE,Other Americas,Reference,0.384624,0.04448000000000002,Million
+2043,12_NZ,Oceania,Reference,0.710622,0.07167400000000002,Million
+2043,13_PNG,Oceania,Reference,0.019607,0.003949999999999999,Million
+2043,13_PNG,Oceania,Carbon Neutral,0.068624,0.007072000000000002,Million
+2043,16_RUS,Russia,Carbon Neutral,28.63328,1.5281120000000001,Million
+2043,14_PE,Other Americas,Carbon Neutral,2.001027,0.12645000000000017,Million
+2043,16_RUS,Russia,Reference,2.992924,0.5934360000000001,Million
+2043,19_THA,Southeast Asia,Carbon Neutral,9.61543,0.4392549999999993,Million
+2043,17_SIN,Southeast Asia,Reference,0.226422,0.014929999999999999,Million
+2043,18_CT,Northeast Asia,Carbon Neutral,4.816957,0.1768970000000003,Million
+2043,18_CT,Northeast Asia,Reference,1.551482,0.150795,Million
+2043,19_THA,Southeast Asia,Reference,2.571507,0.338098,Million
+2043,20_USA,USA,Carbon Neutral,84.277002,3.0647230000000008,Million
+2043,20_USA,USA,Reference,25.061889,2.512171000000002,Million
+2043,21_VN,Southeast Asia,Carbon Neutral,3.214468,0.22201300000000002,Million
+2043,21_VN,Southeast Asia,Reference,1.104184,0.156806,Million
+2043,12_NZ,Oceania,Carbon Neutral,2.255321,0.08478800000000009,Million
+2043,17_SIN,Southeast Asia,Carbon Neutral,0.416349,0.012099000000000026,Million
+2043,11_MEX,Other Americas,Reference,4.840133,0.6907540000000001,Million
+2043,11_MEX,Other Americas,Carbon Neutral,19.013209,1.092129,Million
+2043,10_MAS,Southeast Asia,Reference,2.382644,0.3269129999999998,Million
+2043,01_AUS,Oceania,Carbon Neutral,7.699512,0.40034600000000076,Million
+2043,01_AUS,Oceania,Reference,1.89503,0.262567,Million
+2043,02_BD,Southeast Asia,Carbon Neutral,0.150363,0.007877999999999996,Million
+2043,02_BD,Southeast Asia,Reference,0.054164,0.006844999999999997,Million
+2043,03_CDA,Other Americas,Carbon Neutral,9.362773,0.38594600000000057,Million
+2043,04_CHL,Other Americas,Carbon Neutral,4.779415,0.22786699999999982,Million
+2043,04_CHL,Other Americas,Reference,1.197132,0.11392700000000011,Million
+2043,05_PRC,China,Carbon Neutral,162.917391,5.006871000000018,Million
+2043,05_PRC,China,Reference,67.861266,3.8011800000000022,Million
+2043,03_CDA,Other Americas,Reference,2.675542,0.28695400000000015,Million
+2043,06_HKC,Northeast Asia,Reference,0.12433,0.013955999999999996,Million
+2043,06_HKC,Northeast Asia,Carbon Neutral,0.457591,0.01721900000000004,Million
+2043,09_ROK,Northeast Asia,Reference,5.261934,0.4806530000000002,Million
+2043,09_ROK,Northeast Asia,Carbon Neutral,14.256297,0.4476420000000001,Million
+2043,08_JPN,Northeast Asia,Reference,6.91885,0.8252259999999998,Million
+2043,10_MAS,Southeast Asia,Carbon Neutral,8.868625,0.6696939999999998,Million
+2043,07_INA,Southeast Asia,Reference,2.195973,0.41224799999999995,Million
+2043,07_INA,Southeast Asia,Carbon Neutral,14.726396,1.2973280000000003,Million
+2043,08_JPN,Northeast Asia,Carbon Neutral,29.868529,1.192110999999997,Million
+2044,16_RUS,Russia,Carbon Neutral,30.166884,1.5336040000000004,Million
+2044,12_NZ,Oceania,Reference,0.790135,0.07951300000000006,Million
+2044,13_PNG,Oceania,Carbon Neutral,0.076196,0.007571999999999995,Million
+2044,13_PNG,Oceania,Reference,0.024498,0.0048909999999999995,Million
+2044,14_PE,Other Americas,Carbon Neutral,2.125126,0.12409899999999974,Million
+2044,14_PE,Other Americas,Reference,0.434856,0.050232,Million
+2044,15_RP,Southeast Asia,Carbon Neutral,1.075478,0.09365299999999999,Million
+2044,15_RP,Southeast Asia,Reference,0.208258,0.02879799999999999,Million
+2044,16_RUS,Russia,Reference,3.723979,0.731055,Million
+2044,21_VN,Southeast Asia,Reference,1.285131,0.18094699999999997,Million
+2044,17_SIN,Southeast Asia,Reference,0.241631,0.015209,Million
+2044,18_CT,Northeast Asia,Carbon Neutral,4.980003,0.16304599999999958,Million
+2044,18_CT,Northeast Asia,Reference,1.716415,0.164933,Million
+2044,19_THA,Southeast Asia,Carbon Neutral,10.035195,0.41976499999999994,Million
+2044,19_THA,Southeast Asia,Reference,2.961508,0.3900009999999998,Million
+2044,20_USA,USA,Carbon Neutral,87.107643,2.830641,Million
+2044,20_USA,USA,Reference,27.885447,2.8235579999999985,Million
+2044,21_VN,Southeast Asia,Carbon Neutral,3.440056,0.22558799999999968,Million
+2044,12_NZ,Oceania,Carbon Neutral,2.334862,0.0795410000000003,Million
+2044,17_SIN,Southeast Asia,Carbon Neutral,0.42734,0.010990999999999973,Million
+2044,11_MEX,Other Americas,Reference,5.644179,0.8040460000000005,Million
+2044,11_MEX,Other Americas,Carbon Neutral,20.095694,1.082485000000002,Million
+2044,10_MAS,Southeast Asia,Reference,2.78592,0.40327599999999997,Million
+2044,01_AUS,Oceania,Carbon Neutral,8.095688,0.3961760000000005,Million
+2044,01_AUS,Oceania,Reference,2.202975,0.3079449999999999,Million
+2044,02_BD,Southeast Asia,Carbon Neutral,0.157833,0.007470000000000004,Million
+2044,02_BD,Southeast Asia,Reference,0.061519,0.007355,Million
+2044,03_CDA,Other Americas,Carbon Neutral,9.726256,0.36348299999999867,Million
+2044,04_CHL,Other Americas,Carbon Neutral,4.996706,0.21729099999999946,Million
+2044,04_CHL,Other Americas,Reference,1.32358,0.1264479999999999,Million
+2044,05_PRC,China,Carbon Neutral,167.534038,4.616647,Million
+2044,05_PRC,China,Reference,71.714304,3.853037999999998,Million
+2044,03_CDA,Other Americas,Reference,2.999457,0.32391499999999995,Million
+2044,06_HKC,Northeast Asia,Reference,0.139584,0.015254000000000018,Million
+2044,06_HKC,Northeast Asia,Carbon Neutral,0.473459,0.015867999999999993,Million
+2044,09_ROK,Northeast Asia,Reference,5.780235,0.5183010000000001,Million
+2044,09_ROK,Northeast Asia,Carbon Neutral,14.667994,0.4116970000000002,Million
+2044,08_JPN,Northeast Asia,Reference,7.876267,0.9574170000000004,Million
+2044,10_MAS,Southeast Asia,Carbon Neutral,9.625269,0.7566439999999997,Million
+2044,07_INA,Southeast Asia,Reference,2.70349,0.507517,Million
+2044,07_INA,Southeast Asia,Carbon Neutral,16.109728,1.3833320000000011,Million
+2044,08_JPN,Northeast Asia,Carbon Neutral,31.024786,1.156257,Million
+2045,16_RUS,Russia,Carbon Neutral,31.557955,1.3910710000000002,Million
+2045,12_NZ,Oceania,Reference,0.877382,0.08724699999999996,Million
+2045,13_PNG,Oceania,Carbon Neutral,0.084063,0.007866999999999999,Million
+2045,13_PNG,Oceania,Reference,0.030373,0.005875000000000002,Million
+2045,14_PE,Other Americas,Carbon Neutral,2.254106,0.12898000000000032,Million
+2045,14_PE,Other Americas,Reference,0.493716,0.05885999999999997,Million
+2045,15_RP,Southeast Asia,Carbon Neutral,1.174137,0.09865900000000005,Million
+2045,15_RP,Southeast Asia,Reference,0.241107,0.03284899999999999,Million
+2045,16_RUS,Russia,Reference,4.563875,0.8398960000000004,Million
+2045,21_VN,Southeast Asia,Reference,1.490839,0.205708,Million
+2045,17_SIN,Southeast Asia,Reference,0.257129,0.015497999999999984,Million
+2045,18_CT,Northeast Asia,Carbon Neutral,5.130443,0.15043999999999969,Million
+2045,18_CT,Northeast Asia,Reference,1.894248,0.1778329999999999,Million
+2045,19_THA,Southeast Asia,Carbon Neutral,10.436958,0.40176300000000076,Million
+2045,19_THA,Southeast Asia,Reference,3.406643,0.44513500000000006,Million
+2045,20_USA,USA,Carbon Neutral,89.727565,2.6199220000000025,Million
+2045,20_USA,USA,Reference,31.015403,3.129956,Million
+2045,21_VN,Southeast Asia,Carbon Neutral,3.666869,0.22681300000000038,Million
+2045,12_NZ,Oceania,Carbon Neutral,2.409764,0.0749019999999998,Million
+2045,17_SIN,Southeast Asia,Carbon Neutral,0.437321,0.009981000000000018,Million
+2045,11_MEX,Other Americas,Reference,6.503755,0.8595759999999997,Million
+2045,11_MEX,Other Americas,Carbon Neutral,21.00342,0.9077259999999967,Million
+2045,10_MAS,Southeast Asia,Reference,3.220762,0.4348420000000002,Million
+2045,01_AUS,Oceania,Reference,2.559856,0.356881,Million
+2045,02_BD,Southeast Asia,Carbon Neutral,0.164803,0.006970000000000004,Million
+2045,02_BD,Southeast Asia,Reference,0.069297,0.007778,Million
+2045,03_CDA,Other Americas,Carbon Neutral,10.068935,0.3426790000000004,Million
+2045,03_CDA,Other Americas,Reference,3.359858,0.36040099999999997,Million
+2045,04_CHL,Other Americas,Carbon Neutral,5.204485,0.20777900000000038,Million
+2045,04_CHL,Other Americas,Reference,1.463565,0.13998500000000003,Million
+2045,05_PRC,China,Carbon Neutral,171.795541,4.261502999999976,Million
+2045,05_PRC,China,Reference,75.600571,3.8862670000000037,Million
+2045,01_AUS,Oceania,Carbon Neutral,8.488231,0.39254299999999986,Million
+2045,06_HKC,Northeast Asia,Reference,0.155712,0.016127999999999976,Million
+2045,07_INA,Southeast Asia,Carbon Neutral,17.579173,1.4694450000000003,Million
+2045,07_INA,Southeast Asia,Reference,3.323036,0.6195460000000002,Million
+2045,08_JPN,Northeast Asia,Carbon Neutral,32.149837,1.1250509999999991,Million
+2045,08_JPN,Northeast Asia,Reference,8.969901,1.0936339999999998,Million
+2045,09_ROK,Northeast Asia,Carbon Neutral,15.046975,0.37898099999999957,Million
+2045,09_ROK,Northeast Asia,Reference,6.333307,0.5530719999999993,Million
+2045,10_MAS,Southeast Asia,Carbon Neutral,10.353102,0.7278330000000004,Million
+2045,06_HKC,Northeast Asia,Carbon Neutral,0.488098,0.014638999999999958,Million
+2046,15_RP,Southeast Asia,Reference,0.278096,0.03698900000000002,Million
+2046,15_RP,Southeast Asia,Carbon Neutral,1.277537,0.10339999999999994,Million
+2046,14_PE,Other Americas,Reference,0.561278,0.06756200000000007,Million
+2046,12_NZ,Oceania,Reference,0.972128,0.094746,Million
+2046,13_PNG,Oceania,Reference,0.037783,0.0074099999999999965,Million
+2046,13_PNG,Oceania,Carbon Neutral,0.092825,0.008762000000000006,Million
+2046,16_RUS,Russia,Carbon Neutral,33.135223,1.5772680000000037,Million
+2046,14_PE,Other Americas,Carbon Neutral,2.38472,0.130614,Million
+2046,21_VN,Southeast Asia,Reference,1.722437,0.23159799999999997,Million
+2046,18_CT,Northeast Asia,Reference,2.085984,0.1917359999999999,Million
+2046,17_SIN,Southeast Asia,Reference,0.273097,0.015967999999999982,Million
+2046,18_CT,Northeast Asia,Carbon Neutral,5.269414,0.13897100000000062,Million
+2046,19_THA,Southeast Asia,Carbon Neutral,10.822113,0.38515499999999925,Million
+2046,19_THA,Southeast Asia,Reference,3.909295,0.5026520000000003,Million
+2046,20_USA,USA,Carbon Neutral,92.157901,2.430335999999997,Million
+2046,20_USA,USA,Reference,34.440115,3.4247119999999995,Million
+2046,21_VN,Southeast Asia,Carbon Neutral,3.894403,0.2275339999999999,Million
+2046,12_NZ,Oceania,Carbon Neutral,2.480601,0.07083700000000004,Million
+2046,17_SIN,Southeast Asia,Carbon Neutral,0.446385,0.009063999999999961,Million
+2046,11_MEX,Other Americas,Reference,7.55623,1.0524750000000003,Million
+2046,16_RUS,Russia,Reference,5.644078,1.080203,Million
+2046,10_MAS,Southeast Asia,Reference,3.74458,0.5238179999999999,Million
+2046,01_AUS,Oceania,Carbon Neutral,8.877554,0.3893229999999992,Million
+2046,01_AUS,Oceania,Reference,2.968538,0.4086820000000002,Million
+2046,02_BD,Southeast Asia,Carbon Neutral,0.17123,0.006426999999999988,Million
+2046,02_BD,Southeast Asia,Reference,0.077418,0.008121000000000003,Million
+2046,03_CDA,Other Americas,Carbon Neutral,10.39229,0.3233549999999994,Million
+2046,03_CDA,Other Americas,Reference,3.755426,0.3955679999999999,Million
+2046,04_CHL,Other Americas,Carbon Neutral,5.403742,0.19925700000000024,Million
+2046,04_CHL,Other Americas,Reference,1.618166,0.154601,Million
+2046,05_PRC,China,Carbon Neutral,175.733822,3.9382810000000177,Million
+2046,11_MEX,Other Americas,Carbon Neutral,22.066463,1.0630430000000004,Million
+2046,06_HKC,Northeast Asia,Carbon Neutral,0.50162,0.013521999999999978,Million
+2046,06_HKC,Northeast Asia,Reference,0.174599,0.018887000000000015,Million
+2046,07_INA,Southeast Asia,Carbon Neutral,19.133946,1.5547730000000008,Million
+2046,07_INA,Southeast Asia,Reference,4.072636,0.7496,Million
+2046,08_JPN,Northeast Asia,Carbon Neutral,33.247631,1.0977940000000004,Million
+2046,08_JPN,Northeast Asia,Reference,10.200918,1.2310169999999996,Million
+2046,09_ROK,Northeast Asia,Carbon Neutral,15.396176,0.34920100000000076,Million
+2046,09_ROK,Northeast Asia,Reference,6.91766,0.5843530000000001,Million
+2046,10_MAS,Southeast Asia,Carbon Neutral,11.170875,0.8177730000000007,Million
+2046,05_PRC,China,Reference,79.500851,3.900279999999995,Million
+2047,15_RP,Southeast Asia,Reference,0.320128,0.042032000000000014,Million
+2047,15_RP,Southeast Asia,Carbon Neutral,1.387951,0.11041400000000001,Million
+2047,14_PE,Other Americas,Reference,0.640123,0.07884499999999994,Million
+2047,12_NZ,Oceania,Reference,1.073952,0.10182400000000003,Million
+2047,13_PNG,Oceania,Reference,0.047573,0.00979,Million
+2047,13_PNG,Oceania,Carbon Neutral,0.103271,0.010445999999999997,Million
+2047,16_RUS,Russia,Carbon Neutral,34.75037,1.6151469999999932,Million
+2047,14_PE,Other Americas,Carbon Neutral,2.520896,0.13617599999999985,Million
+2047,16_RUS,Russia,Reference,6.934559,1.2904809999999998,Million
+2047,19_THA,Southeast Asia,Carbon Neutral,11.236668,0.414555,Million
+2047,17_SIN,Southeast Asia,Reference,0.289458,0.016361000000000014,Million
+2047,18_CT,Northeast Asia,Carbon Neutral,5.397946,0.12853199999999987,Million
+2047,18_CT,Northeast Asia,Reference,2.288141,0.20215700000000014,Million
+2047,19_THA,Southeast Asia,Reference,4.499575,0.5902799999999999,Million
+2047,20_USA,USA,Carbon Neutral,94.418287,2.260386000000011,Million
+2047,20_USA,USA,Reference,38.141539,3.701424000000003,Million
+2047,21_VN,Southeast Asia,Carbon Neutral,4.121092,0.22668899999999992,Million
+2047,21_VN,Southeast Asia,Reference,1.979906,0.25746899999999995,Million
+2047,12_NZ,Oceania,Carbon Neutral,2.547817,0.06721600000000016,Million
+2047,17_SIN,Southeast Asia,Carbon Neutral,0.454613,0.008228000000000013,Million
+2047,11_MEX,Other Americas,Reference,8.737485,1.1812549999999993,Million
+2047,11_MEX,Other Americas,Carbon Neutral,23.116996,1.0505330000000015,Million
+2047,10_MAS,Southeast Asia,Reference,4.332531,0.5879510000000003,Million
+2047,01_AUS,Oceania,Reference,3.430679,0.4621409999999999,Million
+2047,02_BD,Southeast Asia,Carbon Neutral,0.177044,0.005814000000000014,Million
+2047,02_BD,Southeast Asia,Reference,0.085759,0.008341000000000001,Million
+2047,03_CDA,Other Americas,Carbon Neutral,10.697608,0.30531800000000153,Million
+2047,03_CDA,Other Americas,Reference,4.183962,0.42853600000000025,Million
+2047,04_CHL,Other Americas,Carbon Neutral,5.594734,0.1909919999999996,Million
+2047,04_CHL,Other Americas,Reference,1.788225,0.17005899999999996,Million
+2047,05_PRC,China,Carbon Neutral,179.377928,3.6441059999999936,Million
+2047,05_PRC,China,Reference,83.39566,3.8948090000000093,Million
+2047,01_AUS,Oceania,Carbon Neutral,9.263597,0.3860430000000008,Million
+2047,06_HKC,Northeast Asia,Reference,0.194198,0.019599000000000005,Million
+2047,07_INA,Southeast Asia,Carbon Neutral,20.773696,1.6397499999999994,Million
+2047,07_INA,Southeast Asia,Reference,4.971522,0.8988860000000001,Million
+2047,08_JPN,Northeast Asia,Carbon Neutral,34.321501,1.0738699999999994,Million
+2047,08_JPN,Northeast Asia,Reference,11.566896,1.3659780000000001,Million
+2047,09_ROK,Northeast Asia,Carbon Neutral,15.71827,0.3220939999999999,Million
+2047,09_ROK,Northeast Asia,Reference,7.529993,0.6123330000000005,Million
+2047,10_MAS,Southeast Asia,Carbon Neutral,12.018492,0.8476169999999996,Million
+2047,06_HKC,Northeast Asia,Carbon Neutral,0.514124,0.01250400000000007,Million
+2048,15_RP,Southeast Asia,Reference,0.366135,0.046006999999999965,Million
+2048,15_RP,Southeast Asia,Carbon Neutral,1.502243,0.11429200000000006,Million
+2048,14_PE,Other Americas,Reference,0.730432,0.09030899999999997,Million
+2048,12_NZ,Oceania,Reference,1.182357,0.10840500000000008,Million
+2048,13_PNG,Oceania,Reference,0.05807,0.010497,Million
+2048,13_PNG,Oceania,Carbon Neutral,0.112927,0.009655999999999998,Million
+2048,16_RUS,Russia,Carbon Neutral,36.41537,1.6650000000000063,Million
+2048,14_PE,Other Americas,Carbon Neutral,2.659233,0.13833699999999993,Million
+2048,21_VN,Southeast Asia,Reference,2.262638,0.282732,Million
+2048,18_CT,Northeast Asia,Reference,2.500385,0.2122440000000001,Million
+2048,17_SIN,Southeast Asia,Reference,0.306356,0.016898000000000024,Million
+2048,18_CT,Northeast Asia,Carbon Neutral,5.516979,0.11903299999999994,Million
+2048,19_THA,Southeast Asia,Carbon Neutral,11.633533,0.396865,Million
+2048,19_THA,Southeast Asia,Reference,5.149047,0.6494720000000003,Million
+2048,20_USA,USA,Carbon Neutral,96.527288,2.109000999999992,Million
+2048,20_USA,USA,Reference,42.095883,3.954343999999999,Million
+2048,21_VN,Southeast Asia,Carbon Neutral,4.345548,0.224456,Million
+2048,12_NZ,Oceania,Carbon Neutral,2.611902,0.06408499999999995,Million
+2048,17_SIN,Southeast Asia,Carbon Neutral,0.46208,0.007467000000000001,Million
+2048,11_MEX,Other Americas,Reference,10.048086,1.3106010000000001,Million
+2048,16_RUS,Russia,Reference,8.456826,1.5222669999999994,Million
+2048,10_MAS,Southeast Asia,Reference,4.986163,0.653632,Million
+2048,01_AUS,Oceania,Carbon Neutral,9.64643,0.38283299999999976,Million
+2048,01_AUS,Oceania,Reference,3.94677,0.5160909999999999,Million
+2048,02_BD,Southeast Asia,Carbon Neutral,0.182284,0.005239999999999995,Million
+2048,02_BD,Southeast Asia,Reference,0.094169,0.00841,Million
+2048,03_CDA,Other Americas,Carbon Neutral,10.985971,0.2883629999999986,Million
+2048,04_CHL,Other Americas,Carbon Neutral,5.778188,0.18345400000000023,Million
+2048,04_CHL,Other Americas,Reference,1.974803,0.18657800000000013,Million
+2048,05_PRC,China,Carbon Neutral,182.754288,3.3763600000000054,Million
+2048,05_PRC,China,Reference,87.265573,3.869912999999997,Million
+2048,03_CDA,Other Americas,Reference,4.642392,0.4584299999999999,Million
+2048,06_HKC,Northeast Asia,Reference,0.215491,0.02129299999999998,Million
+2048,06_HKC,Northeast Asia,Carbon Neutral,0.525702,0.011577999999999977,Million
+2048,09_ROK,Northeast Asia,Reference,8.165654,0.6356609999999998,Million
+2048,09_ROK,Northeast Asia,Carbon Neutral,16.015687,0.2974169999999994,Million
+2048,08_JPN,Northeast Asia,Reference,13.061283,1.4943869999999997,Million
+2048,10_MAS,Southeast Asia,Carbon Neutral,12.896032,0.8775399999999998,Million
+2048,07_INA,Southeast Asia,Reference,6.039302,1.06778,Million
+2048,07_INA,Southeast Asia,Carbon Neutral,22.497905,1.7242089999999983,Million
+2048,08_JPN,Northeast Asia,Carbon Neutral,35.374229,1.0527280000000019,Million
+2048,11_MEX,Other Americas,Carbon Neutral,24.155362,1.038366,Million
+2049,16_RUS,Russia,Carbon Neutral,38.142782,1.727411999999994,Million
+2049,12_NZ,Oceania,Reference,1.296761,0.11440399999999995,Million
+2049,13_PNG,Oceania,Carbon Neutral,0.124367,0.011440000000000006,Million
+2049,13_PNG,Oceania,Reference,0.071635,0.013565000000000008,Million
+2049,14_PE,Other Americas,Carbon Neutral,2.79997,0.1407370000000001,Million
+2049,14_PE,Other Americas,Reference,0.83382,0.10338800000000004,Million
+2049,15_RP,Southeast Asia,Carbon Neutral,1.617015,0.1147720000000001,Million
+2049,15_RP,Southeast Asia,Reference,0.414732,0.048597,Million
+2049,21_VN,Southeast Asia,Reference,2.569117,0.30647899999999995,Million
+2049,17_SIN,Southeast Asia,Reference,0.323801,0.01744499999999999,Million
+2049,18_CT,Northeast Asia,Carbon Neutral,5.627368,0.11038899999999963,Million
+2049,18_CT,Northeast Asia,Reference,2.721087,0.22070199999999973,Million
+2049,19_THA,Southeast Asia,Carbon Neutral,11.995587,0.36205400000000054,Million
+2049,19_THA,Southeast Asia,Reference,5.824087,0.6750399999999992,Million
+2049,20_USA,USA,Carbon Neutral,98.50212,1.9748320000000064,Million
+2049,20_USA,USA,Reference,46.274243,4.178359999999998,Million
+2049,21_VN,Southeast Asia,Carbon Neutral,4.566192,0.22064400000000006,Million
+2049,12_NZ,Oceania,Carbon Neutral,2.673333,0.06143099999999979,Million
+2049,17_SIN,Southeast Asia,Carbon Neutral,0.468854,0.006774000000000002,Million
+2049,11_MEX,Other Americas,Reference,11.484565,1.4364790000000003,Million
+2049,16_RUS,Russia,Reference,10.227703,1.7708770000000005,Million
+2049,10_MAS,Southeast Asia,Reference,5.705536,0.719373,Million
+2049,01_AUS,Oceania,Carbon Neutral,10.026023,0.37959299999999985,Million
+2049,01_AUS,Oceania,Reference,4.515811,0.5690410000000004,Million
+2049,02_BD,Southeast Asia,Carbon Neutral,0.187559,0.005275000000000002,Million
+2049,02_BD,Southeast Asia,Reference,0.102497,0.008328000000000002,Million
+2049,03_CDA,Other Americas,Carbon Neutral,11.258276,0.27230500000000113,Million
+2049,11_MEX,Other Americas,Carbon Neutral,25.180981,1.025618999999999,Million
+2049,04_CHL,Other Americas,Carbon Neutral,5.95472,0.1765319999999999,Million
+2049,04_CHL,Other Americas,Reference,2.178959,0.20415599999999978,Million
+2049,05_PRC,China,Carbon Neutral,185.886952,3.1326640000000054,Million
+2049,03_CDA,Other Americas,Reference,5.126861,0.4844689999999998,Million
+2049,06_HKC,Northeast Asia,Carbon Neutral,0.536437,0.01073500000000005,Million
+2049,05_PRC,China,Reference,91.091533,3.825959999999995,Million
+2049,09_ROK,Northeast Asia,Reference,8.819644,0.6539900000000003,Million
+2049,09_ROK,Northeast Asia,Carbon Neutral,16.290642,0.2749549999999985,Million
+2049,08_JPN,Northeast Asia,Reference,14.673119,1.6118360000000003,Million
+2049,10_MAS,Southeast Asia,Carbon Neutral,13.803211,0.9071789999999993,Million
+2049,07_INA,Southeast Asia,Reference,7.294812,1.2555100000000001,Million
+2049,07_INA,Southeast Asia,Carbon Neutral,24.305305,1.8074000000000012,Million
+2049,06_HKC,Northeast Asia,Reference,0.23778,0.022289000000000003,Million
+2049,08_JPN,Northeast Asia,Carbon Neutral,36.408111,1.0338819999999984,Million
+2050,12_NZ,Oceania,Carbon Neutral,2.732554,0.05922099999999997,Million
+2050,12_NZ,Oceania,Reference,1.416505,0.11974399999999985,Million
+2050,13_PNG,Oceania,Carbon Neutral,0.134914,0.010547,Million
+2050,13_PNG,Oceania,Reference,0.085957,0.014322000000000001,Million
+2050,14_PE,Other Americas,Carbon Neutral,2.948024,0.14805400000000013,Million
+2050,14_PE,Other Americas,Reference,0.954421,0.12060099999999996,Million
+2050,15_RP,Southeast Asia,Carbon Neutral,1.73711,0.12009499999999984,Million
+2050,15_RP,Southeast Asia,Reference,0.467578,0.052846000000000004,Million
+2050,20_USA,USA,Reference,50.643655,4.369412000000004,Million
+2050,16_RUS,Russia,Reference,12.366393,2.1386900000000004,Million
+2050,17_SIN,Southeast Asia,Carbon Neutral,0.474998,0.006143999999999983,Million
+2050,17_SIN,Southeast Asia,Reference,0.341848,0.01804699999999998,Million
+2050,18_CT,Northeast Asia,Carbon Neutral,5.72989,0.10252200000000045,Million
+2050,18_CT,Northeast Asia,Reference,2.946033,0.2249460000000001,Million
+2050,19_THA,Southeast Asia,Carbon Neutral,12.363872,0.3682850000000002,Million
+2050,19_THA,Southeast Asia,Reference,6.587214,0.7631270000000008,Million
+2050,20_USA,USA,Carbon Neutral,100.358564,1.8564439999999962,Million
+2050,11_MEX,Other Americas,Reference,13.039841,1.5552759999999992,Million
+2050,16_RUS,Russia,Carbon Neutral,40.123196,1.9804140000000032,Million
+2050,11_MEX,Other Americas,Carbon Neutral,26.193434,1.0124530000000007,Million
+2050,06_HKC,Northeast Asia,Carbon Neutral,0.546406,0.009968999999999895,Million
+2050,10_MAS,Southeast Asia,Carbon Neutral,14.67881,0.8755990000000011,Million
+2050,21_VN,Southeast Asia,Carbon Neutral,4.791121,0.22492900000000038,Million
+2050,01_AUS,Oceania,Carbon Neutral,10.402289,0.3762659999999993,Million
+2050,01_AUS,Oceania,Reference,5.135228,0.6194169999999994,Million
+2050,02_BD,Southeast Asia,Carbon Neutral,0.192863,0.005304000000000003,Million
+2050,02_BD,Southeast Asia,Reference,0.110828,0.008330999999999991,Million
+2050,03_CDA,Other Americas,Carbon Neutral,11.515306,0.2570300000000003,Million
+2050,03_CDA,Other Americas,Reference,5.632909,0.5060479999999998,Million
+2050,04_CHL,Other Americas,Carbon Neutral,6.124881,0.17016100000000023,Million
+2050,10_MAS,Southeast Asia,Reference,6.452013,0.7464769999999996,Million
+2050,04_CHL,Other Americas,Reference,2.401746,0.2227870000000003,Million
+2050,05_PRC,China,Reference,94.85515,3.7636169999999964,Million
+2050,06_HKC,Northeast Asia,Reference,0.260846,0.02306600000000003,Million
+2050,07_INA,Southeast Asia,Carbon Neutral,26.193725,1.88842,Million
+2050,07_INA,Southeast Asia,Reference,8.75488,1.4600679999999997,Million
+2050,08_JPN,Northeast Asia,Carbon Neutral,37.425011,1.0168999999999997,Million
+2050,08_JPN,Northeast Asia,Reference,16.387101,1.7139820000000014,Million
+2050,09_ROK,Northeast Asia,Carbon Neutral,16.545147,0.25450500000000176,Million
+2050,09_ROK,Northeast Asia,Reference,9.486919,0.6672750000000001,Million
+2050,05_PRC,China,Carbon Neutral,188.797803,2.9108509999999796,Million
+2050,21_VN,Southeast Asia,Reference,2.903838,0.33472100000000005,Million
